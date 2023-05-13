@@ -1,0 +1,21 @@
+# Groups that can access the service.
+# One group on each line. 
+# Group id; Org name (used for logging); rest is not used...
+
+b199c226-6e0c-4a01-8896-2afb13197ffc; DCEI, GNIT
+d35b59a9-485c-4c71-b82b-0651cec8cb68; DCEI, GNIT
+e4e81358-a309-4b95-8b3e-1d5dd2652f3e; DCEI, GNIT
+a3e84b84-f756-4a08-9fde-633663f705a8; DCEI, GNIT
+a6c824e9-56f0-447e-92ea-8b51abde311a; DCEI, GNIT
+401e7500-08fa-440f-8159-ec30d941d413; DCEI, GNIT
+8e58aadf-2c12-4e09-b488-7eb5fc91f429; DCEI, GNIT
+10abcb52-c5da-48fb-8eee-aa25b29313a8; DCEI, GNIT
+b6a0db22-a445-4cac-b0b3-aa855e7a72a5; DCEI, GNIT
+c79b2e2c-3cd5-4c8b-bef8-7cd524ef948d; DCEI, GNIT
+f61ead56-0357-47dd-8edc-1dd8d167347a; DCEI, GNIT
+8caf8a22-e340-4f14-b59b-edfb0a054913; DCEI, GNIT
+80a4c5e9-0454-466a-a1a1-4d70ba15d31a; DCEI, GNIT
+ec9848e7-3973-441c-9613-2c83479122ca; GNIT
+e360b5f5-5c21-4c40-9587-a70024f59237; HR BOT users; DCEI, GNIT AAD_STG_U_DCEI-GPT-EXP-HR-BOT - Use this group for people who should have access to HR bot
+1559ff6e-ab21-4d63-911d-e2affd08ef0e; Individual users; AAD_dcei-gpt-exp-users - Used to add single users who need access to gnpt 
+
