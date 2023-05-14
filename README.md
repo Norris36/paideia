@@ -8,4 +8,4 @@
     # Activate virual environment, install dependicies and run script
     .\venv\Scripts\activate
     pip install -r .\requirements.txt
-    streamlit run .\gpt-explorer.py
+    streamlit run .\paideia.py
