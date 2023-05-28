@@ -1,13 +1,19 @@
 ##
 ## Write a streamlit home page for my paideia project. The goal is to create a webstite that can help users learn about their subjects quicker
-##
+
 import streamlit as st
 from datetime import datetime
 import openai
-# import tiktoken
 import os
 import time
 import regex as re
+import pandas as pd
+import numpy as np
+from dotenv import load_dotenv
+import os
+
+# Load the .env file
+load_dotenv()
 
 def brute_force_sleep(wait = 5):
     now = int(datetime.now().timestamp())
@@ -16,14 +22,6 @@ def brute_force_sleep(wait = 5):
     while now <= done:
         now = int(datetime.now().timestamp())
 #brute_force_sleep()
-
-# def num_tokens_from_string(string: str, encoding_name: str = 'cl100k_base') -> int:
-#     """Returns the number of tokens in a text string."""
-#     encoding = tiktoken.get_encoding(encoding_name)
-#     num_tokens = len(encoding.encode(string))
-#     return num_tokens
-
-# Write a function which takes a message in the format of a list, containing a dictionary with the keys "role" and "content", then ensure that the content is always stripped of any tabs, double spaces 
 
 def message_cleaner(message):
     # message is a list containing a dictionary with the keys "role" and "content"
@@ -56,87 +54,101 @@ def add_assistant_message(message, assistant_message):
     message.append({"role":"assistant", "content":assistant_message})
     return message
 
-def set_summary_question(df, storage):
-    new_index           = df[(df.last_run == df.last_run.min())& ~(df.summary.isna())].index.min()
-    input_quesiton      = df.at[new_index, df.columns[5]]
-    input_definition    = df.at[new_index, df.columns[4]]
+def call_model(message):
+    # This function takes a message as input, and returns the response from the model
+    response = openai.ChatCompletion.create(
+                    engine="gpt-35-turbo",
+                    messages = message,
+                    temperature=0.2,
+                    max_tokens=350,
+                    top_p=0.95,
+                    frequency_penalty=0,
+                    presence_penalty=0,
+                    stop=None)
+    answer = response['choices'][0]['message']['content']
+    st.session_state.my_reply = answer
+    return answer
+
+def set_summary_question():
+    new_index           = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.min()
+    input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
+    input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
 
     in_an_hour = int(datetime.now().timestamp() + 3600)
 
     st.session_state.question = ''
 
 
-    filtered_df = storage[(storage[storage.columns[3]] == input_quesiton) & (storage[storage.columns[7]] > in_an_hour)]
+    filtered_df = st.session_state.storage[(st.session_state.storage[st.session_state.storage.columns[3]] == input_quesiton) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
     
     if len(filtered_df) > 2 or st.session_state.question == input_quesiton:
-        new_index       = df[(df.last_run == df.last_run.min())& ~(df.summary.isna())].index.to_list()[1]
-        input_quesiton      = df.at[new_index, df.columns[5]]
-        input_definition    = df.at[new_index, df.columns[4]]
+        new_index       = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.to_list()[1]
+        input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
+        input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
 
     st.session_state['new_index']       = new_index
     st.session_state['question']        = input_quesiton
     st.session_state['summary']         = input_definition
     #st.session_state['my_answer']       = ''
 
+openai.api_type         = os.getenv("OPENAI_TYPE")
+openai.api_base         = os.getenv("OPENAI_BASE")
+openai.api_version      = os.getenv("OPENAI_VERSION")
+openai.api_key          =  os.getenv("OPENAI_KEY")
 
-## show a dataframe on the site 
-import pandas as pd
-import numpy as np
-
-openai.api_type = "azure"
-openai.api_base = "https://jensbayopenaieastus.openai.azure.com/"
-openai.api_version = "2023-03-15-preview"
-#openai.api_key = os.getenv('openai_key')
-openai.api_key = "ff744e69396448808c16a4d5fadde7cc"
+# write a function which gets the full path of the data.csv file
+def get_data_path():
+   return os.path.join(os.path.dirname(__file__), "data.csv")
+def get_storage_path():
+   return os.path.join(os.path.dirname(__file__), "storage.csv")
 
 
-df = pd.read_csv('data.csv')
-storage = pd.read_csv('storage.csv')
+st.session_state.df = pd.read_csv(get_data_path())
+st.session_state.storage = pd.read_csv(get_storage_path())
 
 ## Refactor the marked lines to a function setting the question and summary as session state variables
 if 'new_line' not in st.session_state:
-    st.session_state['new_line'] = set_summary_question(df, storage)
+    st.session_state['new_line'] = set_summary_question()
 if 'my_reply' not in st.session_state:
     st.session_state['my_reply'] = ""
 if 'my_answer' not in st.session_state:
     st.session_state['my_answer'] = ""
-
+if 'df' not in st.session_state:
+    df = pd.read_csv(get_data_path())
+    st.session_state.df = df
+if 'storage' not in st.session_state:
+    storage = pd.read_csv(get_storage_path())
+    st.session_state.storage = storage
+if 'submitted' not in st.session_state:
+    st.session_state['submitted'] = False
+# Setting the progress value for the header
 a_day_ago = datetime.now().timestamp() - 86400
-
-progress = round((len(df[~(df.summary.isna()) & (df.last_run > a_day_ago)]) / len(df[~(df.summary.isna())]))* 100, 2) 
+progress = round((len(st.session_state.df[~(st.session_state.df.summary.isna()) & (st.session_state.df.last_run > a_day_ago)]) / len(st.session_state.df[~(st.session_state.df.summary.isna())]))* 100, 2) 
 
 # Title
 st.title(f"Paideia {progress} % ")
+st.subheader("The number is the progress which you have made in the last 24 hours")
 
-
-
-st.write(df[['last_run', 'last_score', 'question']].sort_values(by=['last_run'], ascending=False).head(10))
-
+st.write(st.session_state.df[['last_run', 'last_score', 'question']].sort_values(by=['last_run'], ascending=False).head(10))
 
 # Markdown
 st.markdown(f"### This is a markdown {st.session_state['new_index']}")
 st.write(st.session_state.question)
 
-st.text_area("Answer", key="my_answer", value = st.session_state.my_answer)
-
 qeustion_message = [{"role":"system",
-                "content":"""
-                I want you to act as a memory coach and exam teacher. 
-                
-                I will provide you with a question, my answer, and the answer of from the author. 
-                My answer will be a summerisation of the authors answer, and your job is to evalute on a scale from 0/100 wether was correct or not, or how close.
-                If my answer was in your opionion over 20/100 provide constructive feedback on how to improve the answer, what i missed.
-                If my answer was below 20/100 or not at all close, say i answer i don't know or give me a hint, then provide me with a hint to the correct answer. 
+                    "content":"""
+                    I want you to act as a memory coach and exam teacher. 
+                    
+                    I will provide you with a question, my answer, and the answer of from the author. 
+                    My answer will be a summerisation of the authors answer, and your job is to evalute on a scale from 0/100 wether was correct or not, or how close.
+                    If my answer was in your opionion over 20/100 provide constructive feedback on how to improve the answer, what i missed.
+                    If my answer was below 20/100 or not at all close, say i answer i don't know or give me a hint, then provide me with a hint to the correct answer. 
 
-                The format must always adhere to the following:
-                your score / 100 
-                
-                Your feedback...
-                """}]
-
-with st.expander("Show me the storage"):
-    st.selectbox("Select a question", storage[storage.columns[3]].unique(), key = 'storage_question')
-    st.write(storage[storage[storage.columns[3]] == st.session_state['storage_question']])    
+                    The format must always adhere to the following:
+                    your score / 100 
+                    
+                    Your feedback...
+                    """}]
 
 question = f"""
             The question im trying to answer is:
@@ -146,25 +158,31 @@ question = f"""
             The authors answer is:
             {st.session_state.summary} """
 
-if st.button('Get new question'):
-    set_summary_question(df, storage)
 add_user_message(qeustion_message, question)
-st.session_state.new_line = st.session_state['new_index']
 message = message_cleaner(qeustion_message)
+
+st.text_area("Answer",
+             key="my_answer",
+             value = st.session_state.my_answer,
+             on_change=call_model(message=message))
+
+
+
+with st.expander("Show me the storage"):
+    st.selectbox("Select a question", st.session_state.storage[st.session_state.storage.columns[3]].unique(), key = 'storage_question')
+    st.write(st.session_state.storage[st.session_state.storage[st.session_state.storage.columns[3]] == st.session_state['storage_question']])    
+
+if st.button('Get new question'):
+    set_summary_question()
+
+st.session_state.new_line = st.session_state['new_index']
+
 if st.button('Submit'): 
     with st.spinner('Wait for it...'):
-        response = openai.ChatCompletion.create(
-                    engine="gpt-35-turbo",
-                    messages = message,
-                    temperature=0.2,
-                    max_tokens=350,
-                    top_p=0.95,
-                    frequency_penalty=0,
-                    presence_penalty=0,
-                    stop=None)
-        answer = response['choices'][0]['message']['content']
-        st.session_state.my_reply = answer
+        answer = call_model(message)
     timestamp = int(datetime.now().timestamp())
+
+    # Below we are trying to find the score, given by the model in the answer
     try:
         if len(re.findall("^0/100", answer))>0:
             score = 0
@@ -173,33 +191,31 @@ if st.button('Submit'):
         else:
             score = int(re.findall("^(\d+?)/100", answer)[0])
             #score = int(re.findall("^(\d+?)/100", answer)[0])
-
-
     except:
         score = 1
 
-    df.at[st.session_state.new_line, df.columns[8]] = score
-    df.at[st.session_state.new_line, df.columns[9]] = timestamp
+    st.session_state.df.at[st.session_state.new_line, st.session_state.df.columns[8]] = score
+    st.session_state.df.at[st.session_state.new_line, st.session_state.df.columns[9]] = timestamp
     #df.to_csv('data.csv', index=False)
 
-
-    header = df.at[st.session_state.new_line, 'header']
-    text = df.at[st.session_state.new_line, 'text']
-    summary = st.session_state.summary
-    question = st.session_state.question
-    category = df.at[st.session_state.new_line, 'category']
-    author = df.at[st.session_state.new_line, 'Author']
-    new_line = [header, text, summary, question, category, author, score, timestamp]
-    storage.loc[len(storage)] = new_line
-    storage.to_csv('storage.csv', index=False)
-    df.to_csv('data.csv', index=False)
+    # Setting the values, for adding the date to the storage csv
+    header      = st.session_state.df.at[st.session_state.new_line, 'header']
+    text        = st.session_state.df.at[st.session_state.new_line, 'text']
+    summary     = st.session_state.summary
+    question    = st.session_state.question
+    category    = st.session_state.df.at[st.session_state.new_line, 'category']
+    author      = st.session_state.df.at[st.session_state.new_line, 'Author']
+    new_line    = [header, text, summary, question, category, author, score, timestamp]
+    st.session_state.storage.loc[len(st.session_state.storage)] = new_line
+    st.session_state.storage.to_csv(get_storage_path(), index=False)
+    st.session_state.df.to_csv(get_data_path(), index=False)
 
     if score < 20:
         st.write('Too bad, try again!\n Read the hint and try again!')
     elif score < 50:
         st.write('Not bad, but you can do better!\n Read the hint and try again!')
     elif score < 70:
-        set_summary_question(df, storage)
+        set_summary_question()
         st.write('Good job, but you can do better!\n Read the hint and try again!')
     
     st.write('My reply:', st.session_state.my_answer)
