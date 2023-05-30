@@ -9,10 +9,10 @@ import time
 import regex as re
 import pandas as pd
 import numpy as np
-from dotenv import load_dotenv
 import os
 
 # Load the .env file
+from dotenv import load_dotenv
 load_dotenv()
 
 def brute_force_sleep(wait = 5):
