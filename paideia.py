@@ -10,7 +10,10 @@ import regex as re
 import pandas as pd
 import numpy as np
 import os
+from dotenv import load_dotenv
+import os
 
+load_dotenv()  
 
 
 def brute_force_sleep(wait = 5):
@@ -79,24 +82,24 @@ def set_summary_question():
         filtered_df = st.session_state.df
     else:
         # If question_category is specific, filter the data based on the category
-        filtered_df = st.session_state.df[st.session_state.df['question_category'] == st.session_state.question_category]
+        filtered_df = st.session_state.df[st.session_state.df['category'] == st.session_state.question_category]
 
-    filtered_df = filtered_df[~filtered_df.summary.isna()]
+    filtered_df = filtered_df[~filtered_df.question .isna()]
     new_index = filtered_df.loc[filtered_df['last_run'].idxmin()].name
     
-    input_question = filtered_df.at[new_index, st.session_state.df.columns[5]]
-    input_definition = filtered_df.at[new_index,  st.session_state.df.columns[4]]
+    input_question = filtered_df.at[new_index, 'question']
+    input_definition = filtered_df.at[new_index,  'text']
     
     in_an_hour = int(datetime.now().timestamp() + 3600)
     
     st.session_state.question = ''
 
-    storage_df = st.session_state.storage[(st.session_state.storage[st.session_state.df.columns[5]] == input_question) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
+    storage_df = st.session_state.storage[(st.session_state.storage['question'] == input_question) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
     
     if len(storage_df) > 2 or st.session_state.question == input_question:
         new_index = filtered_df[(filtered_df['last_run'] == filtered_df['last_run'].min())].index.to_list()[1]
-        input_question = filtered_df.at[new_index, st.session_state.df.columns[5]]
-        input_definition = filtered_df.at[new_index, st.session_state.df.columns[4]]
+        input_question = filtered_df.at[new_index, 'question']
+        input_definition = filtered_df.at[new_index, 'text']
 
     st.session_state.new_index = new_index
     st.session_state.question = input_question
