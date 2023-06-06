@@ -11,9 +11,7 @@ import pandas as pd
 import numpy as np
 import os
 
-# Load the .env file
-from dotenv import load_dotenv
-load_dotenv()
+
 
 def brute_force_sleep(wait = 5):
     now = int(datetime.now().timestamp())
@@ -72,29 +70,38 @@ def call_model(message):
     return answer
 
 def set_summary_question():
-    new_index = st.session_state.df.loc[st.session_state.df[~st.session_state.df.summary.isna()]['last_run'].idxmin()].name
+    """
+    Update the session state with a new question and its corresponding summary.
+    """
+    
+    if st.session_state.question_category == '':
+        # If question_category is empty, consider all data
+        filtered_df = st.session_state.df
+    else:
+        # If question_category is specific, filter the data based on the category
+        filtered_df = st.session_state.df[st.session_state.df['question_category'] == st.session_state.question_category]
 
-    input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-    input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
-    # except:
-    #     input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-    #     input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+    filtered_df = filtered_df[~filtered_df.summary.isna()]
+    new_index = filtered_df.loc[filtered_df['last_run'].idxmin()].name
+    
+    input_question = filtered_df.at[new_index, st.session_state.df.columns[5]]
+    input_definition = filtered_df.at[new_index,  st.session_state.df.columns[4]]
+    
     in_an_hour = int(datetime.now().timestamp() + 3600)
-
+    
     st.session_state.question = ''
 
-
-    filtered_df = st.session_state.storage[(st.session_state.storage[st.session_state.storage.columns[3]] == input_quesiton) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
+    storage_df = st.session_state.storage[(st.session_state.storage[st.session_state.df.columns[5]] == input_question) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
     
-    if len(filtered_df) > 2 or st.session_state.question == input_quesiton:
-        new_index       = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.to_list()[1]
-        input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-        input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+    if len(storage_df) > 2 or st.session_state.question == input_question:
+        new_index = filtered_df[(filtered_df['last_run'] == filtered_df['last_run'].min())].index.to_list()[1]
+        input_question = filtered_df.at[new_index, st.session_state.df.columns[5]]
+        input_definition = filtered_df.at[new_index, st.session_state.df.columns[4]]
 
-    st.session_state['new_index']       = new_index
-    st.session_state['question']        = input_quesiton
-    st.session_state['summary']         = input_definition
-    #st.session_state['my_answer']       = ''
+    st.session_state.new_index = new_index
+    st.session_state.question = input_question
+    st.session_state.summary = input_definition
+
 
 def show_and_save_answer(answer):
     try:
@@ -196,6 +203,7 @@ def get_storage_path():
    return os.path.join(os.path.dirname(__file__), "storage.csv")
 
 
+
 openai.api_type         = os.getenv("OPENAI_TYPE")
 openai.api_base         = os.getenv("OPENAI_BASE")
 openai.api_version      = os.getenv("OPENAI_VERSION")
@@ -204,8 +212,8 @@ openai.api_key          =  os.getenv("OPENAI_KEY")
 st.session_state.df = pd.read_csv(get_data_path())
 st.session_state.storage = pd.read_csv(get_storage_path())
 ## Refactor the marked lines to a function setting the question and summary as session state variables
-if 'new_line' not in st.session_state:
-    st.session_state['new_line'] = set_summary_question()
+if 'question_category' not in st.session_state:
+    st.session_state.question_category = ""
 if 'my_reply' not in st.session_state:
     st.session_state['my_reply'] = ""
 if 'my_answer' not in st.session_state:
@@ -218,15 +226,55 @@ if 'storage' not in st.session_state:
     st.session_state.storage = storage
 if 'submitted' not in st.session_state:
     st.session_state.submitted = False
+if 'new_line' not in st.session_state:
+    st.session_state['new_line'] = set_summary_question()
 
 
-# Setting the progress value for the header
-a_day_ago = datetime.now().timestamp() - 86400
-progress = round((len(st.session_state.df[~(st.session_state.df.summary.isna()) & (st.session_state.df.last_run > a_day_ago)]) / len(st.session_state.df[~(st.session_state.df.summary.isna())]))* 100, 2) 
+
+def calculate_progress():
+    """
+    Calculate the progress based on the dataframe and the question category.
+    
+    Parameters:
+    df (pandas.DataFrame): The dataframe with the data.
+    question_category (str): The category of the question. If empty string (''), all categories are considered.
+    
+    Returns:
+    float: The progress in percentage.
+    """
+    
+    a_day_ago = datetime.now().timestamp() - 86400
+    if st.session_state.question_category == '':
+        # If question_category is empty, consider all data
+        filtered_df = st.session_state.df
+    else:
+        filtered_df = st.session_state.df
+
+    if len(filtered_df[~(filtered_df.summary.isna())]) != 0:
+        progress = round((len(filtered_df[~(filtered_df.summary.isna()) & (filtered_df.last_run > a_day_ago)]) / len(filtered_df[~(filtered_df.summary.isna())]))* 100, 2)
+    else:
+        progress = 0
+    return progress
+    
+    progress = round((len(filtered_df[~(filtered_df.summary.isna()) & (filtered_df.last_run > a_day_ago)]) / len(filtered_df[~(filtered_df.summary.isna())]))* 100, 2)
+    
+    return progress
+
+# Use the function to calculate progress
+progress = calculate_progress()
 
 # Title
 st.title(f"Paideia {progress} % ")
 st.subheader("The number is the progress which you have made in the last 24 hours")
+
+unique_categories = st.session_state.df['category'].unique().tolist()
+
+# Add a default option for blank
+options = [''] + unique_categories
+
+# Create the select box
+st.selectbox('Select a category', options, key = 'question_category')
+
 
 st.write(st.session_state.df[['last_run', 'last_score', 'question']].sort_values(by=['last_score', 'last_run']).head(10))
 
