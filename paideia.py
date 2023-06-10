@@ -17,6 +17,7 @@ load_dotenv()
 
 
 openai.api_type         = os.getenv("OPENAI_TYPE")
+openai.api_type         = "azure"
 openai.api_base         = os.getenv("OPENAI_BASE")
 openai.api_version      = os.getenv("OPENAI_VERSION")
 openai.api_key          = os.getenv("OPENAI_KEY")
@@ -28,7 +29,6 @@ def brute_force_sleep(wait = 5):
     print("we're waiting")
     while now <= done:
         now = int(datetime.now().timestamp())
-#brute_force_sleep()
 
 def message_cleaner(message):
     # message is a list containing a dictionary with the keys "role" and "content"
@@ -79,25 +79,43 @@ def call_model(message):
     return answer
 
 def set_summary_question():
-    new_index = st.session_state.df.loc[st.session_state.df[~st.session_state.df.summary.isna()]['last_run'].idxmin()].name
+    # Lets clean up this code, so that it is easier to read and understand
+    # We want to set the question and text, for the user to answer
+    # We want to set the index of the question, so that we can save the answer to the correct question
 
+    # First we want to find the index of the question, which has the lowest last_run value, and which has a summary
+    # We want to exclude the question, which is currently being answered
+    # We want to exclude the question, which has been answered in the last hour
+    if st.session_state.category == '':
+            new_index = st.session_state.df[
+                                    (st.session_state.df.last_run == st.session_state.df.last_run.min())
+                                    & ~(st.session_state.df.text.isna())].index.to_list()[0]
+            
+    else:
+        new_index = st.session_state.df[
+                                    (st.session_state.df.last_run == st.session_state.df.last_run.min())
+                                    & (st.session_state.df.category == st.session_state.category)
+                                    & ~(st.session_state.df.text.isna())].index.to_list()[0]
+    
+    # Now we want to set the question and text, for the user to answer
     input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
     input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
-    # except:
-    #     input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-    #     input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
     in_an_hour = int(datetime.now().timestamp() + 3600)
 
     st.session_state.question = ''
 
-
-    filtered_df = st.session_state.storage[(st.session_state.storage[st.session_state.storage.columns[3]] == input_quesiton) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
+    # Now we want to check if the question has been answered in the last hour, or if the question is the same as the last question
+    # If either of these are true, we want to find the next question, which has the lowest last_run value, and which has a summary
+    # We want to exclude the question, which is currently being answered
     
+    filtered_df = st.session_state.storage[(st.session_state.storage[st.session_state.storage.columns[3]] == input_quesiton) & (st.session_state.storage[st.session_state.storage.columns[7]] > in_an_hour)]
     if len(filtered_df) > 2 or st.session_state.question == input_quesiton:
-        new_index       = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.to_list()[1]
-        input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-        input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+        new_index       = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.to_list()[0]
+        input_quesiton  = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
+        input_definition= st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+        st.session_state.question = ''     
 
+    # Now we want to set the question and text, for the user to answer
     st.session_state['new_index']       = new_index
     st.session_state['question']        = input_quesiton
     st.session_state['summary']         = input_definition
@@ -202,10 +220,24 @@ def get_storage_path():
    # filename `storage.csv`.
    return os.path.join(os.path.dirname(__file__), "storage.csv")
 
+def get_progress(df):
+    # The below code is calculating the progress value based on the number of rows in the dataframe
+    # where the summary column is not empty and the last_run column is greater than 24 hours ago.
+    if st.session_state.category == '':
+        a_day_ago = datetime.now().timestamp() - 86400
+        progress = round((len(df[~(df.summary.isna()) & (df.last_run > a_day_ago)]) / len(df[~(df.question.isna())]))* 100, 2) 
+        return progress
+    else:
+        a_day_ago = datetime.now().timestamp() - 86400
+        progress = round((len(df[~(df.summary.isna()) & (df.last_run > a_day_ago) & (df.category == st.session_state.category)]) / len(df[~(df.question.isna()) & (df.category == st.session_state.category)]))* 100, 2) 
+        return progress
+
 
 st.session_state.df = pd.read_csv(get_data_path())
 st.session_state.storage = pd.read_csv(get_storage_path())
 ## Refactor the marked lines to a function setting the question and summary as session state variables
+if 'category' not in st.session_state:
+    st.session_state['category'] = ''
 if 'new_line' not in st.session_state:
     st.session_state['new_line'] = set_summary_question()
 if 'my_reply' not in st.session_state:
@@ -223,12 +255,14 @@ if 'submitted' not in st.session_state:
 
 
 # Setting the progress value for the header
-a_day_ago = datetime.now().timestamp() - 86400
-progress = round((len(st.session_state.df[~(st.session_state.df.summary.isna()) & (st.session_state.df.last_run > a_day_ago)]) / len(st.session_state.df[~(st.session_state.df.summary.isna())]))* 100, 2) 
-
+# Lets refactor the below code to a function which takes the dataframe as input and returns the progress value, and which is doing it based on the category
+    
 # Title
-st.title(f"Paideia {progress} % ")
+st.title(f"Paideia {get_progress(st.session_state.df)} % ")
 st.subheader("The number is the progress which you have made in the last 24 hours")
+
+# Lets create a selectbox which takes the categories from the dataframe, adds a blank option and then displays it so the user can select a category
+st.selectbox("Select a category", [''] + st.session_state.df.category.unique().tolist(), key = 'category')
 
 st.write(st.session_state.df[['last_run', 'last_score', 'question']].sort_values(by=['last_score', 'last_run']).head(10))
 
@@ -249,7 +283,10 @@ st.text_area("Answer",
             )
 
 with st.expander("Show me the storage"):
-    st.selectbox("Select a question", st.session_state.storage[st.session_state.storage.columns[3]].unique(), key = 'storage_question')
+    st.selectbox("Select a question", 
+                 st.session_state.storage[st.session_state.storage.columns[3]].unique(),
+                 key = 'storage_question',
+                 default = st.session_state.question)
     st.write(st.session_state.storage[st.session_state.storage[st.session_state.storage.columns[3]] == st.session_state['storage_question']])    
     #st.write(st.session_state.storage.sort_values('last_run', ascending=False))
 if st.button('Get new question'):
