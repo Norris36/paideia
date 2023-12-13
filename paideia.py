@@ -63,7 +63,7 @@ def add_assistant_message(message, assistant_message):
 
 def call_model(message):
     # This function takes a message as input, and returns the response from the model
-    print('got here')
+
     response = openai.ChatCompletion.create(
                     engine="gpt-35-turbo",
                     messages = message,
@@ -74,7 +74,6 @@ def call_model(message):
                     presence_penalty=0,
                     stop=None)
     answer = response['choices'][0]['message']['content']
-    print('got here to')
     st.session_state.my_reply = answer
     return answer
 
@@ -86,6 +85,19 @@ def set_summary_question():
     # First we want to find the index of the question, which has the lowest last_run value, and which has a summary
     # We want to exclude the question, which is currently being answered
     # We want to exclude the question, which has been answered in the last hour
+    
+    # 0 index the following list, so continue what im
+    # 0 header,
+    # 1 text
+    # 2 length
+    # 3 tokens 
+    # 4 summary 
+    # 5 question 
+    # 6 category 
+    # 7 Author 
+    # 8 last_score 
+    # 9 last_run
+    
     if st.session_state.category == '':
             new_index = st.session_state.df[
                                     (st.session_state.df.last_run == st.session_state.df.last_run.min())
@@ -99,7 +111,7 @@ def set_summary_question():
     
     # Now we want to set the question and text, for the user to answer
     input_quesiton      = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-    input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+    input_definition    = st.session_state.df.at[new_index, st.session_state.df.columns[1]]
     in_an_hour = int(datetime.now().timestamp() + 3600)
 
     st.session_state.question = ''
@@ -112,7 +124,7 @@ def set_summary_question():
     if len(filtered_df) > 2 or st.session_state.question == input_quesiton:
         new_index       = st.session_state.df[(st.session_state.df.last_run == st.session_state.df.last_run.min())& ~(st.session_state.df.summary.isna())].index.to_list()[0]
         input_quesiton  = st.session_state.df.at[new_index, st.session_state.df.columns[5]]
-        input_definition= st.session_state.df.at[new_index, st.session_state.df.columns[4]]
+        input_definition= st.session_state.df.at[new_index, st.session_state.df.columns[1]]
         st.session_state.question = ''     
 
     # Now we want to set the question and text, for the user to answer
@@ -257,7 +269,7 @@ if 'submitted' not in st.session_state:
 # Setting the progress value for the header
 # Lets refactor the below code to a function which takes the dataframe as input and returns the progress value, and which is doing it based on the category
     
-# Title
+# Titleas
 st.title(f"Paideia {get_progress(st.session_state.df)} % ")
 st.subheader("The number is the progress which you have made in the last 24 hours")
 
@@ -283,10 +295,15 @@ st.text_area("Answer",
             )
 
 with st.expander("Show me the storage"):
+    try:
+        default_index = list(st.session_state.storage[st.session_state.storage.columns[3]].unique()).index(st.session_state.question)
+    except:
+        default_index = 0
+    
     st.selectbox("Select a question", 
                  st.session_state.storage[st.session_state.storage.columns[3]].unique(),
                  key = 'storage_question',
-                 default = st.session_state.question)
+                 index = default_index)
     st.write(st.session_state.storage[st.session_state.storage[st.session_state.storage.columns[3]] == st.session_state['storage_question']])    
     #st.write(st.session_state.storage.sort_values('last_run', ascending=False))
 if st.button('Get new question'):
