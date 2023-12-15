@@ -1,0 +1,34 @@
+ingredients,amounts,purchase_size,price,purchase_cost,urls,local_price,pareto,purchase_unit,spice,units
+aubergine,1.5,1.0,16.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,32.0,1.0,stk,0.0,stk
+hvedemel,50.0,2000.0,18.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,18.0,1.0,g,0.0,g
+æg,4.5,10.0,36.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,36.0,1.0,stk,0.0,stk
+parmesan,125.0,200.0,65.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,65.0,1.0,g,0.0,g
+rasp,1.5,500.0,23.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,23.0,1.0,g,0.0,spsk
+frisk mozzarella,62.5,,,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,0.0,1.0,,,g
+olivenolie,1.5,1000.0,160.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,160.0,1.0,ml,0.0,spsk
+smør,2.0,5.0,12.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,12.0,1.0,g,0.0,spsk
+hvidløg,2.5,12.0,30.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,30.0,1.0,fed,0.0,fed
+løg,0.5,6.0,15.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,15.0,1.0,stk,0.0,stk
+tomat passata,400.0,,,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,0.0,1.0,,,g
+frisk basilikum,0.5,1.0,0.0,,https://www.valdemarsro.dk/melanzane-alla-parmigiana/,0.0,1.0,stk,1.0,håndfuld
+æblecidereddike,1.0,750.0,53.0,,https://www.valdemarsro.dk/fransk-bondesalat/,53.0,1.0,ml,0.0,spsk
+skiver bacon,2.0,,,,https://www.valdemarsro.dk/fransk-bondesalat/,0.0,1.0,,,stk
+skiver brød,1.0,,,,https://www.valdemarsro.dk/fransk-bondesalat/,0.0,1.0,,,stk
+grønne asparges,100.0,250.0,35.0,,https://www.valdemarsro.dk/fransk-bondesalat/,35.0,1.0,g,0.0,g
+haricots verts,100.0,,,,https://www.valdemarsro.dk/fransk-bondesalat/,0.0,1.0,,,g
+grøn salat,125.0,,,,https://www.valdemarsro.dk/fransk-bondesalat/,0.0,1.0,,,g
+rødløg,1.0,7.0,12.0,,https://www.valdemarsro.dk/fransk-bondesalat/,12.0,1.0,stk,0.0,stk
+babykartofler,175.0,1000.0,25.0,,https://www.valdemarsro.dk/fransk-bondesalat/,25.0,1.0,g,0.0,g
+sorte oliven,25.0,,,,https://www.valdemarsro.dk/fransk-bondesalat/,0.0,1.0,,,g
+purløg,0.5,180.0,9.0,,https://www.valdemarsro.dk/fransk-bondesalat/,9.0,1.0,g,0.0,håndfuld
+dijon sennep,1.5,380.0,35.0,,https://www.valdemarsro.dk/fransk-bondesalat/,35.0,1.0,g,0.0,tsk
+honning,1.0,400.0,25.0,,https://www.valdemarsro.dk/fransk-bondesalat/,25.0,1.0,g,0.0,tsk
+mayonnaise,2.0,350.0,40.0,,https://www.valdemarsro.dk/fransk-bondesalat/,40.0,1.0,g,0.0,spsk
+rødbede,1.5,1000.0,15.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,15.0,1.0,g,0.0,dl
+gulerod,0.5,8.0,20.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,20.0,1.0,stk,0.0,dl
+havregryn,0.5,1000.0,12.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,12.0,1.0,g,0.0,dl
+burgerboller,2.0,6.0,40.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,40.0,1.0,stk,0.0,stk
+blandet salat,62.5,100.0,20.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,20.0,1.0,g,0.0,g
+avocado,0.5,35.0,5.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,5.0,1.0,stk,0.0,stk
+agurk,0.5,1.0,9.0,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,9.0,1.0,stk,0.0,stk
+skiver cheddar ost,2.0,,,,https://www.valdemarsro.dk/vegetar-burger-med-roedbedeboef/,0.0,1.0,,,stk
