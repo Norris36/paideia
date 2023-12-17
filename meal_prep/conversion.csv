@@ -1,0 +1,35 @@
+units,purchase_unit,urls,test,rate,ingredients,amount,purchase_size,price,y,z
+cl,ml,21,False,10.0,mørk rom,4.0,750.0,200.0,200.0,40.0
+dl,g,425,False,10.0,bredbladet persille,0.5,180.0,21.0,21.0,5.0
+dl,ml,549,False,10.0,sødmælk,0.5,1000.0,15.0,15.0,5.0
+dl,stk,176,False,0.1,vand,2.5,0.0,0.0,0.0,0.0
+dåse,g,47,False,1.0,kikærter,0.5,400.0,15.0,15.0,0.5
+dåse,stk,66,False,1.0,hakkede tomater,0.5,1.0,7.0,7.0,0.5
+fed,fed,429,True,1.0,hvidløg,0.5,12.0,30.0,30.0,0.5
+g,g,3064,True,1.0,soltørrede tomater i olie,25.0,120.0,40.0,40.0,25.0
+g,ml,42,False,1.0,kakao,10.0,330.0,16.0,16.0,10.0
+g,stk,112,False,1.0,gulerod,125.0,8.0,20.0,20.0,16.0
+håndfuld,g,203,False,10.0,bredbladet persille,0.5,180.0,21.0,21.0,5.0
+håndfuld,stk,244,False,0.1,frisk koriander,0.5,1.0,0.0,0.0,0.05
+kg,g,57,False,0.001,babykartofler,0.5,1000.0,25.0,25.0,0.0005
+kg,stk,5,False,1.0,æble,0.5,9.0,18.0,18.0,0.5
+knivspids,g,93,False,5.0,salt,0.5,,,,2.5
+knivspids,stk,96,False,0.015,chili,0.5,1.0,5.0,5.0,0.0075
+liter,g,35,False,0.001,grøntsagsbouillon,0.5,200.0,45.0,45.0,0.0005
+liter,ml,25,False,0.001,vaniljeis,0.2,750.0,60.0,60.0,0.0002
+liter,stk,25,False,1.0,vand,0.75,0.0,0.0,0.0,0.0
+ml,g,1,False,1.0,,,,,,
+ml,ml,32,True,1.0,kokosmælk,200.0,400.0,18.0,18.0,200.0
+ml,stk,1,False,0.001,,,,,,
+nip,g,35,False,3.0,salt,0.5,,,,1.5
+nip,stk,5,False,0.003,chili,0.5,1.0,5.0,5.0,0.0015
+spsk,g,772,False,20.0,blåbær,1.0,125.0,25.0,25.0,20.0
+spsk,ml,665,False,20.0,olivenolie,1.0,1000.0,160.0,160.0,20.0
+spsk,stk,114,False,0.02,kanel,0.5,1.0,0.0,0.0,0.01
+stk,fed,3,False,1.0,hvidløg,2.0,12.0,30.0,30.0,2.0
+stk,g,321,False,1.0,æggeblomme,1.5,150.0,22.0,22.0,1.5
+stk,ml,3,False,1.0,mælk,2.0,1000.0,15.0,15.0,2.0
+stk,stk,1891,True,1.0,rødløg,0.5,7.0,12.0,12.0,0.5
+tsk,g,517,False,14.0,sukker,1.0,1000.0,25.0,25.0,14.0
+tsk,ml,103,False,14.0,olivenolie,0.5,1000.0,160.0,160.0,7.0
+tsk,stk,700,False,0.14,vaniljesukker,0.5,1.0,0.0,0.0,0.07

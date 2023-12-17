@@ -1,0 +1,809 @@
+ingredients,pareto,purchase_unit,type,price,purchase_size,count
+smør,True,g,0.0,26.0,200.0,577
+olivenolie,True,ml,0.0,160.0,1000.0,570
+sukker,True,g,0.0,25.0,1000.0,566
+hvidløg,True,fed,1.0,30.0,12.0,502
+hvedemel,True,g,0.0,18.0,2000.0,458
+salt,True,g,1.0,,,453
+æg,True,stk,0.0,36.0,10.0,451
+vand,True,stk,0.0,0.0,0.0,301
+løg,True,stk,0.0,15.0,6.0,299
+piskefløde,True,ml,0.0,27.0,500.0,245
+øko citron,True,stk,0.0,15.0,6.0,227
+mælk,True,ml,0.0,15.0,1000.0,225
+mørk chokolade,True,g,0.0,18.0,100.0,164
+kanel,True,stk,1.0,0.0,1.0,164
+stødt spidskommen,True,stk,1.0,0.0,1.0,164
+gær,True,g,0.0,1.5,50.0,164
+honning,True,g,0.0,25.0,400.0,163
+0sbouillon,True,g,0.0,45.0,200.0,158
+gulerod,True,stk,0.0,20.0,8.0,153
+ingefær,True,g,0.0,15.0,200.0,146
+rødløg,True,stk,0.0,12.0,7.0,146
+bagepulver,True,stk,1.0,0.0,1.0,145
+stødt kardemomme,True,,1.0,,,133
+parmesan,True,g,0.0,65.0,200.0,125
+vaniljestang,True,stk,1.0,0.0,1.0,125
+mandler,True,g,0.0,25.0,150.0,120
+frisk koriander,True,stk,1.0,0.0,1.0,116
+æblecidereddike,True,ml,0.0,53.0,750.0,116
+dijon sennep,True,g,0.0,35.0,380.0,114
+bredbladet persille,True,g,0.0,21.0,180.0,113
+flormelis,True,g,0.0,16.0,500.0,113
+timian,True,stk,1.0,0.0,1.0,111
+vaniljepulver,True,,1.0,,,111
+citron,True,stk,0.0,15.0,6.0,109
+røget paprika,True,stk,1.0,0.0,1.0,109
+squash,True,stk,0.0,8.0,1.0,106
+æble,True,stk,0.0,18.0,9.0,100
+kartoffel,True,g,0.0,12.0,1000.0,99
+koncentreret tomatpuré,True,g,0.0,23.0,200.0,97
+avocado,True,stk,0.0,5.0,35.0,95
+mayonnaise,True,g,0.0,40.0,350.0,94
+sød paprika,True,,1.0,,,94
+agurk,True,stk,0.0,9.0,1.0,91
+chiliflager,True,,1.0,,,91
+frisk mynte,True,stk,1.0,0.0,1.0,91
+lime,True,stk,0.0,1.0,5.0,90
+stødt koriander,True,stk,1.0,0.0,1.0,89
+hakkede tomater,True,stk,0.0,7.0,1.0,84
+vaniljesukker,True,stk,1.0,0.0,1.0,84
+havregryn,True,g,0.0,12.0,1000.0,83
+rød chili,True,stk,0.0,5.0,1.0,81
+hasselnødder,True,g,0.0,25.0,150.0,80
+frisk timian,True,stk,1.0,0.0,1.0,77
+fuldkornshvedemel,True,g,0.0,26.0,1000.0,76
+brun farin,True,g,0.0,21.0,500.0,73
+frisk basilikum,True,stk,1.0,0.0,1.0,72
+sesamfrø,True,g,0.0,20.0,250.0,68
+banan,True,stk,0.0,4.0,1.0,67
+æggeblomme,True,g,0.0,22.0,150.0,66
+cheddar ost,True,g,0.0,24.0,125.0,65
+frisk mozzarella,True,g,0.0,24.0,125.0,64
+rød peberfrugt,True,stk,0.0,20.0,3.0,63
+basmati ris,True,g,0.0,41.0,500.0,61
+øko lime,True,stk,0.0,21.0,6.0,60
+persille,True,g,0.0,21.0,180.0,60
+cherrytomater,True,g,0.0,15.0,250.0,59
+marcipan,True,g,0.0,50.0,200.0,58
+purløg,True,g,0.0,9.0,180.0,57
+tomat,True,stk,0.0,24.0,10.0,57
+champignon,True,g,0.0,18.0,200.0,56
+soja,True,ml,0.0,21.0,250.0,55
+rucola,True,g,0.0,20.0,100.0,55
+soltørrede tomater i olie,True,g,0.0,40.0,120.0,52
+grahamsmel,True,g,0.0,15.0,1000.0,52
+forårsløg,True,stk,0.0,14.0,4.0,51
+hakket oksekød,True,g,0.0,52.0,400.0,50
+feta,True,g,0.0,33.0,150.0,49
+kakao,True,ml,0.0,16.0,330.0,49
+bacon,True,g,0.0,20.0,100.0,49
+frisk dild,True,g,0.0,9.0,180.0,48
+flødeost,True,g,0.0,20.0,150.0,48
+oregano,True,,1.0,,,47
+æggehvide,True,g,0.0,23.0,165.0,47
+spidskål,True,stk,0.0,15.0,1.0,46
+glukosesirup,True,ml,0.0,18.0,400.0,46
+fishsauce,True,ml,0.0,25.0,200.0,45
+stængler bladselleri,True,stk,0.0,15.0,1.0,45
+cayenne peber,True,stk,1.0,0.0,1.0,44
+spinat,True,g,0.0,28.0,250.0,42
+pinjekerner,True,g,0.0,24.0,50.0,42
+jordbær,True,g,0.0,50.0,400.0,41
+laurbærblade,True,,1.0,,,41
+muskatnød,True,,1.0,,,40
+broccoli,True,g,0.0,16.0,400.0,40
+kyllingefilet,True,g,0.0,80.0,275.0,40
+kyllingebryst,True,g,0.0,80.0,250.0,40
+øko appelsin,True,stk,0.0,27.0,10.0,39
+stødt nellike,True,stk,1.0,0.0,1.0,39
+peberkorn,True,,1.0,,,39
+baby spinat,True,g,0.0,20.0,100.0,38
+majsstivelse,True,g,0.0,35.0,250.0,37
+skiver bacon,True,,,,,37
+valnødder,True,g,0.0,25.0,120.0,36
+chorizo,True,g,0.0,38.0,225.0,36
+kokosmælk,True,ml,0.0,18.0,400.0,35
+frisk rosmarin,True,,1.0,,,35
+solsikkekerner,True,g,0.0,11.0,250.0,35
+tortillas pandekager,True,stk,0.0,30.0,6.0,34
+karry,True,,1.0,,,34
+kærnemælk,True,ml,0.0,20.0,1000.0,34
+sødmælk,True,ml,0.0,15.0,1000.0,33
+blandet salat,True,g,0.0,20.0,100.0,33
+yoghurt naturel,True,ml,0.0,27.0,1000.0,33
+stængler frisk rosmarin,True,,1.0,,,33
+dåser hakkede tomater,True,stk,,10.0,1.0,32
+stængler frisk timian,True,,1.0,,,32
+skiver brød,True,stk,0.0,25.0,15.0,32
+rasp,True,g,0.0,23.0,500.0,32
+porre,True,stk,0.0,10.0,1.0,31
+mandelmel,True,g,0.0,40.0,150.0,31
+rabarber,True,g,0.0,40.0,200.0,31
+blomkål,True,stk,0.0,30.0,1.0,30
+mango,True,g,0.0,15.0,250.0,30
+hvid chokolade,True,g,0.0,40.0,85.0,29
+stødt gurkemeje,True,,1.0,,,28
+kanelstang,True,stk,1.0,0.0,1.0,28
+nudler,True,g,0.0,40.0,250.0,27
+græskarkerner,True,g,0.0,22.0,250.0,27
+kapers,True,g,0.0,23.0,65.0,27
+ahornsirup,True,ml,0.0,43.0,250.0,27
+kogende vand,True,,1.0,,,27
+ark husblas,True,g,0.0,20.0,10.0,26
+kikærter,True,g,0.0,15.0,400.0,26
+kokosmel,True,g,0.0,33.0,300.0,26
+dadel,True,g,0.0,45.0,200.0,26
+sort peber,True,,1.0,,,26
+blåbær,True,g,0.0,25.0,125.0,25
+sriracha chilisauce,True,ml,0.0,45.0,450.0,25
+majs,True,g,0.0,15.0,400.0,25
+hele nelliker,True,,1.0,,,25
+hvidvin,True,ml,0.0,75.0,750.0,24
+skalotteløg,True,stk,0.0,26.0,10.0,24
+saltede peanuts,True,g,0.0,20.0,200.0,23
+stødt ingefær,True,stk,1.0,0.0,1.0,23
+pære,True,g,0.0,25.0,500.0,23
+appelsinjuice,True,ml,0.0,40.0,850.0,23
+worcestershire sauce,True,ml,0.0,45.0,290.0,23
+kakaonibs,True,stk,1.0,0.0,1.0,22
+sennep,True,g,0.0,35.0,500.0,22
+stjerneanis,True,stk,1.0,0.0,1.0,22
+ketchup,True,g,0.0,46.0,580.0,22
+aubergine,True,stk,0.0,16.0,1.0,21
+rødbede,True,g,0.0,15.0,1000.0,21
+grønkål,True,g,0.0,20.0,300.0,21
+hindbær,True,g,0.0,30.0,125.0,20
+jalapenos,True,g,0.0,22.0,60.0,20
+appelsin,True,stk,0.0,27.0,10.0,20
+mælkechokolade,True,g,0.0,35.0,200.0,20
+pillede edamamebønner,True,g,0.0,25.0,300.0,20
+torskefilet,True,g,0.0,40.0,200.0,20
+allehånde,True,,1.0,,,20
+pasta,True,g,0.0,30.0,250.0,19
+mørk rom,True,ml,0.0,200.0,750.0,19
+spaghetti,True,g,0.0,30.0,500.0,19
+koldt vand,True,,1.0,,,19
+tahin,True,stk,1.0,0.0,1.0,19
+fritureolie,True,ml,0.0,160.0,1000.0,19
+skiver rugbrød,True,stk,0.0,25.0,15.0,19
+cashewnødder,True,g,0.0,21.0,100.0,19
+nachos,True,g,0.0,20.0,450.0,19
+guldstøv,True,stk,1.0,0.0,1.0,18
+hørfrø,True,g,0.0,13.0,250.0,18
+sesamolie,True,ml,0.0,85.0,500.0,17
+rødvin,True,ml,0.0,75.0,750.0,17
+rålakridspulver,True,,1.0,,,17
+babykartofler,True,g,0.0,25.0,1000.0,17
+rugmel,True,g,1.0,40.0,1000.0,17
+chili,True,stk,0.0,5.0,1.0,17
+muscovadosukker,True,g,1.0,40.0,1000.0,17
+granatæblekerner,True,g,0.0,25.0,100.0,17
+cornichoner,True,,,,,17
+rejer,True,g,0.0,70.0,300.0,16
+safran,True,stk,1.0,0.0,1.0,16
+burgerboller,True,stk,0.0,40.0,6.0,16
+isterninger,True,stk,1.0,0.0,0.0,16
+gin,True,ml,0.0,200.0,750.0,15
+garam masala,True,,1.0,,,15
+hakket svinekød,True,g,0.0,80.0,500.0,15
+tranebær,True,g,0.0,30.0,150.0,15
+rosmarin,True,stk,1.0,0.0,1.0,14
+stenbiderrogn,True,g,0.0,30.0,150.0,14
+hokkaido græskar,True,stk,0.0,25.0,1.0,14
+pistaciekerner,True,g,0.0,30.0,150.0,14
+håndfulde frisk mynte,True,stk,1.0,25.0,15.0,14
+parmaskinke,True,,,,,14
+krydderurter,True,,1.0,,,14
+frisk salvie,True,,1.0,,,14
+pistaciekerner uden salt,True,,,,,14
+sød kondenseret mælk,True,,,,,14
+kidneybønner,True,g,0.0,8.0,400.0,14
+stuetempereret vand,True,,,,,14
+grønne asparges,True,g,0.0,35.0,250.0,13
+vaniljeis,True,ml,0.0,60.0,750.0,13
+peanutbutter,True,g,0.0,40.0,350.0,13
+pesto,True,g,1.0,23.0,150.0,13
+laksefilet,True,,,,,13
+nougat,True,,,,,13
+kylling,True,,,,,13
+stærk kaffe,True,,,,,13
+danskvand,True,,,,,13
+pankorasp,True,,,,,12
+håndfulde frisk koriander,True,,1.0,,,12
+frisk oregano,True,,1.0,,,12
+grøn salat,True,g,0.0,20.0,200.0,12
+vodka,True,ml,0.0,100.0,750.0,12
+stængel frisk rosmarin,True,,1.0,,,12
+sorte bønner,True,g,0.0,6.0,400.0,12
+citronsaft,True,,,,,12
+bagekartoffel,True,g,0.0,12.0,1000.0,12
+kyllingebryst med skind,True,,,,,12
+friske ærter,True,g,0.0,15.0,400.0,12
+rødkål,True,,,,,12
+majskolbe,True,stk,0.0,30.0,2.0,12
+ris,True,g,0.0,20.0,1000.0,12
+frysetørret hindbær,True,,,,,12
+hvidløgspulver,True,,,,,11
+frisk estragon,True,,,,,11
+chiafrø,True,,,,,11
+fennikel,True,,1.0,,,11
+salat,True,g,0.0,20.0,200.0,11
+bakke karse,True,g,0.0,10.0,100.0,11
+lakridsrodspulver,True,,,,,11
+hyldeblomstsaft,True,,,,,11
+hønsebouillon,True,,,,,11
+drys muskatnød,True,,1.0,,,10
+stængler forårsløg,True,stk,0.0,14.0,4.0,10
+medjool dadler,True,,,,,10
+røde linser,True,g,0.0,18.0,400.0,10
+rød karrypasta,True,g,0.0,12.0,110.0,10
+perlesukker,False,,,,,10
+halloumi,True,g,0.0,35.0,250.0,10
+durummel,True,g,0.0,45.0,1000.0,10
+hvide asparges,True,g,0.0,45.0,250.0,10
+skumfiduser,False,,,,,10
+kartofler,True,g,0.0,12.0,1000.0,10
+kardemommekapsler,False,,,,,10
+ananas,False,,,,,10
+lys rom,False,,,,,10
+akaciehonning,True,g,0.0,40.0,250.0,10
+drys sesamfrø,False,,,,,10
+rosiner,False,,,,,10
+risotto ris,True,g,0.0,33.0,300.0,9
+feldsalat,False,,,,,9
+fennikelfrø,True,g,0.0,26.0,25.0,9
+grødris,False,,,,,9
+oliven,True,g,0.0,35.0,190.0,9
+peberrod,True,g,0.0,10.0,50.0,9
+pekannødder,False,,,,,9
+ricotta,True,g,0.0,25.0,250.0,9
+hakket kylling,False,,,,,9
+svinemørbrad,False,,,,,9
+laks,False,,,,,9
+hvidløgsflødeost,True,g,0.0,20.0,150.0,9
+mandelmælk,False,,,,,9
+ølandshvedemel,False,,,,,9
+boghvedemel,False,,,,,9
+blommetomater,True,stk,0.0,25.0,10.0,9
+granatæble,False,,,,,9
+lakridsrod,False,,,,,9
+wienerpølser,False,,,,,9
+hoisin sauce,True,ml,0.0,33.0,200.0,8
+stængel citrongræs,False,,,,,8
+syltede rødbeder,True,g,0.0,13.0,400.0,8
+peanuts,True,g,0.0,20.0,200.0,8
+varmrøget laks,False,,,,,8
+serranoskinke,False,,,,,8
+ribs,False,,,,,8
+sorte oliven,True,g,0.0,35.0,190.0,8
+hvidkål,False,,,,,8
+løgpulver,False,,,,,8
+håndfulde frisk basilikum,True,stk,1.0,0.0,1.0,8
+hvidtøl,False,,,,,8
+sød chilisauce,False,,,,,8
+hakket lammekød,False,,,,,8
+håndfulde bredbladet persille,False,,,,,8
+hytteost,True,g,0.0,13.0,200.0,8
+hindbærmarmelade,False,,,,,8
+ymer,False,,,,,8
+hampefrø,False,,,,,8
+ribsgele,False,,,,,8
+øl,False,,,,,8
+majskorn til popcorn,False,,,,,8
+nektarin,False,,,,,7
+sød kartoffel,True,g,0.0,18.0,1000.0,7
+ærter,False,,,,,7
+pasta penne,True,g,0.0,30.0,250.0,7
+blommer,False,,,,,7
+oksebouillon,False,,,,,7
+edamamebønner,True,g,0.0,25.0,300.0,7
+thaibasilikum,False,,,,,7
+hjortetaksalt,False,,,,,7
+rispapir,False,,,,,7
+jordskokker,True,g,0.0,15.0,500.0,7
+kokosolie,False,,,,,7
+sorte oliven uden sten,False,,,,,7
+oksebov,False,,,,,7
+krymmel,False,,,,,7
+grand marnier,False,,,,,7
+tørret abrikos,False,,,,,7
+kyllingelår,False,,,,,7
+portvin,False,,,,,7
+stængler rabarber,False,,,,,7
+abrikosmarmelade,False,,,,,7
+natron,False,,,,,7
+æblejuice,False,,,,,6
+remoulade,False,,,,,6
+bønnespirer,True,g,0.0,12.0,150.0,6
+tør hvidvin,False,,,,,6
+håndfulde frisk dild,False,,,,,6
+rød balsamico,False,,,,,6
+pak choy,False,,,,,6
+koldrøget laks,False,,,,,6
+håndfulde grøn salat,False,,,,,6
+mascarpone,True,g,0.0,27.0,250.0,6
+flutes,False,,,,,6
+skiver ingefær,False,,,,,6
+skiver agurk,False,,,,,6
+håndfulde persille,False,,,,,6
+ananasjuice,True,ml,0.0,35.0,1000.0,6
+lasagneplader,False,,,,,6
+kirsebær,False,,,,,6
+lys sirup,False,,,,,6
+baileys,False,,,,,6
+cointreau,False,,,,,6
+koteletter,False,,,,,6
+håndfulde rucola,False,,,,,6
+sennepsfrø,False,,,,,6
+balsamico,True,ml,0.0,40.0,250.0,6
+bulgur,False,,,,,6
+lasagneplader,True,g,0.0,20.0,250.0,6
+blå birkes,False,,,,,5
+bær,False,,,,,5
+kantareller,True,g,0.0,52.0,20.0,5
+hvidvinseddike,False,,,,,5
+skyr,False,,,,,5
+rød grapefrugt,False,,,,,5
+svampe,True,g,0.0,30.0,200.0,5
+five 1,False,,,,,5
+teriyaki,True,,1.0,,,5
+vannamei tigerrejer,False,,,,,5
+æblemost,False,,,,,5
+linguine,True,g,0.0,30.0,250.0,5
+fersken,False,,,,,5
+kaffe,False,,,,,5
+nakkefilet,False,,,,,5
+kaffirblade,False,,,,,5
+kartoffelmel,False,,,,,5
+ost,False,,,,,5
+pebermyntestok,False,,,,,5
+pitabrød,True,stk,0.0,30.0,5.0,5
+brød,True,g,0.0,40.0,500.0,5
+sukkersirup,False,,,,,5
+brombær,False,,,,,5
+vesterhavsost,False,,,,,5
+bakke jordbær,True,stk,0.0,50.0,1.0,5
+surdej,False,,,,,5
+tabasco,False,,,,,5
+blåskimmelost,False,,,,,5
+confiteret andelår,False,,,,,5
+figner,False,,,,,5
+dåser kidneybønner,True,stk,0.0,8.0,1.0,5
+chokoladeknapper,False,,,,,5
+skiver cheddar ost,True,g,0.0,24.0,125.0,5
+pastavand,True,,1.0,,,5
+drys salt,False,,,,,5
+mørk øl,False,,,,,5
+kiwi,False,,,,,5
+andefedt,False,,,,,5
+kørvel,True,g,0.0,17.0,100.0,4
+rosenkål,False,,,,,4
+espresso,False,,,,,4
+rugbrød,True,g,0.0,25.0,500.0,4
+digestive kiks,False,,,,,4
+medisterpølse,False,,,,,4
+muslinger,False,,,,,4
+mousserende vin,False,,,,,4
+miso,True,,1.0,,,4
+grønne bønner,False,,,,,4
+entrecotes,False,,,,,4
+dryp olivenolie,False,,,,,4
+mandelsmør,False,,,,,4
+quinoa,False,,,,,4
+ramsløg,False,,,,,4
+rejer med skal,False,,,,,4
+rødspættefilet,False,,,,,4
+butterdej,False,,,,,4
+butterbeans,True,g,0.0,15.0,400.0,4
+stængler persille,False,,,,,4
+gnocchi,True,g,0.0,30.0,250.0,4
+skært oksekød,False,,,,,4
+barbecuesauce,False,,,,,4
+balsamico glace,False,,,,,4
+røget makrel,False,,,,,4
+suppehøne,False,,,,,4
+mandarin,False,,,,,4
+rugkerner,False,,,,,4
+tykmælk,False,,,,,4
+sumak,True,g,0.0,50.0,100.0,4
+dild,True,g,0.0,9.0,180.0,4
+vandmelon,False,,,,,4
+farvepasta,False,,,,,4
+øko bergamotte,False,,,,,4
+røget laks,False,,,,,4
+saltede mandler,True,g,0.0,25.0,150.0,4
+snaps,False,,,,,4
+drys frisk timian,False,,,,,4
+skive brød,False,,,,,4
+stængel frisk mynte,False,,,,,4
+stængel frisk timian,True,,1.0,,,4
+haricots verts,True,g,0.0,17.0,500.0,4
+grønne linser,False,,,,,4
+galangarod,False,,,,,4
+svesker,False,,,,,4
+sushi ris,False,,,,,4
+nødder,False,,,,,4
+oksefond,False,,,,,4
+cognac,False,,,,,4
+skiver ost,True,g,0.0,40.0,10.0,4
+hvedekerner,False,,,,,4
+riseddike,False,,,,,4
+jordbærsyltetøj,False,,,,,4
+hønsebryst,False,,,,,4
+blandede kagerester,False,,,,,4
+stængler frisk mynte,False,,,,,4
+lunkent vand,False,,,,,3
+syltede agurker,False,,,,,3
+tamarind paste,True,g,0.0,50.0,100.0,3
+tomat passata,True,stk,0.0,7.0,1.0,3
+blodappelsiner,False,,,,,3
+lys muscovadosukker,False,,,,,3
+lavendelblomster,False,,,,,3
+kyllingefond,False,,,,,3
+chokoladekugler,False,,,,,3
+skiver landskinke,False,,,,,3
+dryp sriracha chilisauce,False,,,,,3
+potaske,False,,,,,3
+polenta mel,True,g,0.0,30.0,450.0,3
+pastinak,False,,,,,3
+pakke kageplast,False,,,,,3
+pakke grønne asparges,False,,,,,3
+stængler citronmelisse,False,,,,,3
+nakkekoteletter,False,,,,,3
+brune ris,True,g,0.0,12.0,1000.0,3
+culottesteg,False,,,,,3
+grøn peberfrugt,False,,,,,3
+gedeost,False,,,,,3
+gorgonzola,True,g,0.0,30.0,150.0,3
+friske lasagneplader,True,stk,0.0,20.0,10.0,3
+hjertesalat,False,,,,,3
+hvid fondant,False,,,,,3
+fiskefond,False,,,,,3
+kokossukker,False,,,,,3
+svinekam,False,,,,,3
+gingerbeer,False,,,,,3
+pastaskruer,False,,,,,3
+tun i vand,False,,,,,3
+dråber pebermynte essens,False,,,,,3
+tarteletter,True,stk,0.0,25.0,10.0,3
+oliven uden sten,True,g,0.0,35.0,190.0,3
+drys vaniljepulver,False,,,,,3
+kahlua,False,,,,,3
+saucejævner,False,,,,,3
+solsikkeolie,False,,,,,3
+hyldeblomstskærme,False,,,,,3
+abrikoser,False,,,,,3
+ribbensteg,False,,,,,3
+romainesalat,False,,,,,3
+hvid quinoa,True,g,0.0,25.0,400.0,3
+kirsebærvin,False,,,,,3
+grønne vindruer,False,,,,,3
+ølandshvede,False,,,,,3
+andebryst,False,,,,,3
+knoldselleri,False,,,,,3
+and,False,,,,,3
+hvid portvin,False,,,,,3
+sorte ris,False,,,,,3
+skiver skinke,False,,,,,3
+noritang,False,,,,,3
+nigella frø,False,,,,,3
+karamelcreme,False,,,,,3
+andelår,False,,,,,3
+håndfulde spinat,False,,,,,3
+rabarbersaft,False,,,,,3
+g,False,,,,,2
+oreo,False,,,,,2
+daim,False,,,,,2
+sichuan peber,False,,,,,2
+perleløg,False,,,,,2
+majsmel,False,,,,,2
+ansjosfileter i olie,False,,,,,2
+boghvedekerner,True,g,0.0,24.0,50.0,2
+sød finsk lakrids,False,,,,,2
+svineslag,False,,,,,2
+drys frisk dild,False,,,,,2
+drys mørk chokolade,False,,,,,2
+kammuslinger,False,,,,,2
+suppenudler,False,,,,,2
+kalvebouillon,False,,,,,2
+boghvedegryn,False,,,,,2
+kapersbær,False,,,,,2
+okseinderlår,False,,,,,2
+flåede tomater,True,stk,0.0,7.0,1.0,2
+kartoffelvand,False,,,,,2
+trøffel,True,g,0.0,25.0,100.0,2
+dråber kulør,False,,,,,2
+hasselnøddesmør,False,,,,,2
+pakke filodej,False,,,,,2
+havtorn,False,,,,,2
+artiskokker,False,,,,,2
+pulled pork,False,,,,,2
+radiser,False,,,,,2
+ramen nudler,False,,,,,2
+saltkaramel,False,,,,,2
+speltkerner,True,g,0.0,25.0,400.0,2
+cantaloupe melon,False,,,,,2
+sort te,False,,,,,2
+sort fondant,False,,,,,2
+cashewnøddesmør,True,g,0.0,40.0,100.0,2
+solbær,False,,,,,2
+frosne bananer,False,,,,,2
+skiver flutes,False,,,,,2
+hyldebærsaft,False,,,,,2
+skiver parmaskinke,False,,,,,2
+spiseligt sølvstøv,False,,,,,2
+stængler frisk salvie,True,g,1.0,,,2
+tun steak (til sushi),False,,,,,2
+dryp ahornsirup,False,,,,,2
+jomfruhummer,False,,,,,2
+rygeost,False,,,,,2
+avocadoolie,False,,,,,2
+geleringsmiddel,False,,,,,2
+burrata,False,,,,,2
+butternut squash,True,stk,0.0,25.0,1.0,2
+frisk tortellini,True,g,0.0,30.0,250.0,2
+hønsefond,False,,,,,2
+mørk sirup,False,,,,,2
+pasta orzo,False,,,,,2
+gul karrypasta,False,,,,,2
+mangosirup,False,,,,,2
+usaltede peanuts,False,,,,,2
+guldglimmer,False,,,,,2
+ladyfingers,False,,,,,2
+dåser tun i olie,False,,,,,2
+matcha,False,,,,,2
+fladbrød,False,,,,,2
+grillspyd af træ,True,g,1.0,,,2
+belugalinser,True,g,0.0,30.0,400.0,2
+lammekølle,False,,,,,2
+koncentereret hindbærsaft,False,,,,,2
+øko grape,False,,,,,2
+kuller,False,,,,,2
+tørret basilikum,False,,,,,2
+fiskeben,False,,,,,2
+tykstegsbøf,False,,,,,2
+dåser kikærter,True,g,0.0,,,2
+makroner,False,,,,,2
+lakridssirup,False,,,,,2
+stikkelsbær,False,,,,,2
+stængler citrongræs,False,,,,,2
+wasabi,False,,,,,2
+stængler frisk estragon,False,,,,,2
+bakke grønne vindruer,False,,,,,2
+grønne oliven,False,,,,,2
+slik,False,,,,,2
+hyldebær,False,,,,,2
+hvide bønner,False,,,,,2
+tequila,False,,,,,2
+tomatsalsa,False,,,,,2
+tonic,False,,,,,2
+tranebærjuice,False,,,,,2
+gås,False,,,,,2
+bolchebeder,False,,,,,2
+bomuldssnor,False,,,,,2
+vand til at fylde bradepanden halvt op,False,,,,,2
+skiver rødbede,False,,,,,2
+kiks,False,,,,,2
+mynte,True,g,0.0,15.0,100.0,2
+dåser sorte bønner,True,stk,0.0,6.0,1.0,2
+passionsfrugt,False,,,,,2
+pakke nudler,False,,,,,2
+pakke bønnespirer,False,,,,,2
+andesteg eller gås,False,,,,,2
+onglet,False,,,,,2
+klementin,False,,,,,2
+mango chutney,False,,,,,2
+lage fra de syltede cornichoner,False,,,,,2
+kyllingebouillon,False,,,,,2
+kyllinge skrog,False,,,,,2
+lemon sodavand,False,,,,,2
+kogt lun havregrød,False,,,,,2
+kokosflager,False,,,,,2
+salatløg,False,,,,,2
+salatblade,False,,,,,2
+cornflakes,False,,,,,2
+iceberg,False,,,,,2
+couscous,False,,,,,2
+skiver ristet brød,False,,,,,2
+skiver ananas,False,,,,,2
+skive serranoskinke,False,,,,,2
+håndfulde grønkål,False,,,,,2
+citronsyre,False,,,,,2
+frisk pasta,False,,,,,2
+dryp worcestershire sauce,False,,,,,2
+persillerod,False,,,,,2
+pecorino,True,g,0.0,65.0,200.0,2
+stængel bladselleri,False,,,,,1
+bearnaise,False,,,,,1
+bygkerner,False,,,,,1
+grøn karrypasta,True,g,1.0,,,1
+stængel grønkål,False,,,,,1
+ark rispapir,True,g,1.0,,,1
+benfri sild,False,,,,,1
+brød eller boller,False,,,,,1
+whiskey,False,,,,,1
+stængler frisk dild,False,,,,,1
+brøndkarse,False,,,,,1
+stegesky/fond fra flæskestegen,False,,,,,1
+acai pulver,False,,,,,1
+gul peberfrugt,False,,,,,1
+caviar,False,,,,,1
+solbærsyltetøj,False,,,,,1
+øko blodappelsin,False,,,,,1
+hyben,False,,,,,1
+små bolchestokke,False,,,,,1
+bakke blåbær,False,,,,,1
+smarties,False,,,,,1
+hyldeblomst,False,,,,,1
+skiver toastbrød,False,,,,,1
+bakke svampe,False,,,,,1
+camembert,False,,,,,1
+spiseligt pink kagestøv,False,,,,,1
+bøf af oksefilet,False,,,,,1
+gammeldags modnede sild,False,,,,,1
+galia melon,False,,,,,1
+stængler ingefær,False,,,,,1
+brev geleringsmiddel,False,,,,,1
+venusmuslinger,False,,,,,1
+havregrød,False,,,,,1
+tom yum pasta,False,,,,,1
+tom vaniljestang - brug den fra risfyldet,False,,,,,1
+toffifee,False,,,,,1
+havregrød tilberedt,False,,,,,1
+thai chilipasta,False,,,,,1
+skiver serranoskinke,False,,,,,1
+te,False,,,,,1
+vand (lidt mindre hvis panden er lille),False,,,,,1
+tun steak,False,,,,,1
+tun i olie,False,,,,,1
+tørrede kikærter,False,,,,,1
+tørrede spiseligee blomster,False,,,,,1
+hakket kalve- og flæskekød,False,,,,,1
+trøffeltapenade,False,,,,,1
+umoden mango,False,,,,,1
+usaltet smør,False,,,,,1
+torskerogn,False,,,,,1
+hel rødspætte,False,,,,,1
+vaniljekiks,False,,,,,1
+appelsinmarmelade,False,,,,,1
+grøn fondant,False,,,,,1
+brev kamillete,False,,,,,1
+honningkagefordej,False,,,,,1
+hummerhaler,False,,,,,1
+brombærsirup,False,,,,,1
+hummus,True,g,0.0,20.0,200.0,1
+vand til konsistensen er perfekt,True,stk,1.0,6.0,1.0,1
+glasnudler,False,,,,,1
+vand til glasur,False,,,,,1
+vand - evt mere,False,,,,,1
+boghvedekorn,False,,,,,1
+vand - til det dækker,False,,,,,1
+vand eller så glasuren har perfekt konsistens,False,,,,,1
+hindbæreddike,False,,,,,1
+svinekæber,False,,,,,1
+svinekrone,False,,,,,1
+vand og isterninger,False,,,,,1
+svineben,False,,,,,1
+hjertemuslinger,False,,,,,1
+vand til at røre majsstivelse op i,False,,,,,1
+korianderfrø,False,,,,,1
+oksekød,False,,,,,1
+kartoffelchips,False,,,,,1
+dråber rød frugtfarve,False,,,,,1
+dråber tabasco,False,,,,,1
+flækkede gule ærter,False,,,,,1
+dråber teriyaki,False,,,,,1
+durum mel,False,,,,,1
+dåser flåede tomater,False,,,,,1
+mynte te,False,,,,,1
+kirsebærsaft,False,,,,,1
+kirsebærsauce,False,,,,,1
+morgenfrueblade,False,,,,,1
+mont d'or,False,,,,,1
+mild chilipasta,False,,,,,1
+oksehaler,False,,,,,1
+oksemørbrad,False,,,,,1
+okseskank,False,,,,,1
+karameller,False,,,,,1
+amaretto mandellikør,False,,,,,1
+drys stødt kardemomme,False,,,,,1
+pappardelle,False,,,,,1
+papaya,False,,,,,1
+drys valnødder,False,,,,,1
+pakker grønne asparges,False,,,,,1
+pakker gedeost,True,g,0.0,40.0,1.0,1
+pakke radiser,True,stk,0.0,20.0,1.0,1
+pakke friske lasagneplader,True,g,0.0,20.0,1.0,1
+flæsk,False,,,,,1
+padron,False,,,,,1
+karse,False,,,,,1
+orange fondant,False,,,,,1
+dråbe farvepasta,False,,,,,1
+dråbe worcestershire sauce,False,,,,,1
+marsala,False,,,,,1
+dåser tun i vand,False,,,,,1
+lammekrone,False,,,,,1
+lammekoteletter,False,,,,,1
+lammeculotte,False,,,,,1
+falafelfars - klar til brug,True,g,0.0,25.0,350.0,1
+koldt vand (eller til konsistensen er perfekt),False,,,,,1
+koldt vand + evt lidt ekstra,False,,,,,1
+lage fra de råsyltede rabarber,False,,,,,1
+koldt vand til glasur,False,,,,,1
+kålpølse,False,,,,,1
+kyllingevinger,False,,,,,1
+filodej,True,g,0.0,16.0,300.0,1
+kvæder,False,,,,,1
+kulør,False,,,,,1
+konfektforme,False,,,,,1
+krabbeklør,False,,,,,1
+landskinke,False,,,,,1
+macadamia nødder,False,,,,,1
+knuste isterninger,False,,,,,1
+eller en kanelstang,False,,,,,1
+kogende saltet vand,False,,,,,1
+emmermel,False,,,,,1
+enebær,False,,,,,1
+madeira,False,,,,,1
+macaroni,False,,,,,1
+kogevand fra kartofler og gulerødder,False,,,,,1
+lunt vand,False,,,,,1
+kokoscreme,False,,,,,1
+limoncello,False,,,,,1
+pasta muslingeskaller,False,,,,,1
+pastasløjfer,False,,,,,1
+håndfulde purløg,False,,,,,1
+håndfulde ramsløg,False,,,,,1
+coleslaw,False,,,,,1
+comté,False,,,,,1
+rørsukker,False,,,,,1
+frisk torskerogn,False,,,,,1
+ingefærsirup,False,,,,,1
+instant kaffe,False,,,,,1
+rød frugtfarve,False,,,,,1
+korender,False,,,,,1
+skiver koldrøget laks,False,,,,,1
+håndfulde baby spinat,False,,,,,1
+skiver godt brød,False,,,,,1
+skiver chorizo,False,,,,,1
+citrongræs,False,,,,,1
+skiver brie,False,,,,,1
+skive landskinke,False,,,,,1
+skive citron,False,,,,,1
+skive ananas,False,,,,,1
+skinkekød i tern,False,,,,,1
+skinke,False,,,,,1
+sirup,False,,,,,1
+sildefilet,False,,,,,1
+håndfulde isterninger,False,,,,,1
+råsyltede rabarber,False,,,,,1
+puffede quinoa,False,,,,,1
+prosecco,False,,,,,1
+kalvebov,False,,,,,1
+portobellosvampe,True,stk,0.0,23.0,2.0,1
+kalveschnitzel,False,,,,,1
+dryp æblecidereddike,False,,,,,1
+drys chili,False,,,,,1
+drys flormelis,False,,,,,1
+drys frisk mynte,False,,,,,1
+perlebyg,False,,,,,1
+drys hampefrø,False,,,,,1
+drys kørvel,False,,,,,1
+frisk gurkemeje,False,,,,,1
+drys morgenfrueblade (kan undlades),False,,,,,1
+drys rålakridspulver,False,,,,,1
+påskeæg,False,,,,,1
+dorade fisk,False,,,,,1
+isvafler,False,,,,,1
+rugflager,False,,,,,1
+rosmarinsirup,False,,,,,1
+roastbeef,False,,,,,1
+ristede løg,False,,,,,1
+rismel,False,,,,,1
+dryp ketchup,True,g,0.0,46.0,580.0,1
+julesalat,False,,,,,1
+kageplast,False,,,,,1
+dryp balsamico glace,False,,,,,1
+dryp honning,False,,,,,1
+rapsolie,False,,,,,1
