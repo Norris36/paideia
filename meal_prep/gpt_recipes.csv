@@ -1,0 +1,6328 @@
+urls,ingredients,amounts,unit
+recipe 0,grøntsagsbouillon,194.0,
+recipe 0,hvidløg,9.0,fed
+recipe 0,løg,5.0,stk
+recipe 0,olivenolie,999.0,ml
+recipe 0,parmesan,125.0,g
+recipe 0,piskefløde,26.0,ml
+recipe 0,rasp,485.0,g
+recipe 0,soltørrede tomater i olie,70.0,g
+recipe 0,spinat,200.0,g
+recipe 0,squash,0.5,stk
+recipe 1,broccoli,399.5,g
+recipe 1,græskarkerner,249.0,g
+recipe 1,grønkål,175.0,g
+recipe 1,grøntsagsbouillon,198.9,
+recipe 1,honning,399.5,g
+recipe 1,hvidløg,9.5,fed
+recipe 1,kartoffel,598.0,g
+recipe 1,løg,4.0,stk
+recipe 1,olivenolie,999.0,ml
+recipe 1,piskefløde,26.0,ml
+recipe 1,timian,0.5,stk
+recipe 1,æble,8.0,stk
+recipe 1,æblecidereddike,749.5,ml
+recipe 2,grøntsagsbouillon,199.5,
+recipe 2,hvidløg,9.0,fed
+recipe 2,løg,5.0,stk
+recipe 2,olivenolie,999.0,ml
+recipe 2,parmesan,160.0,g
+recipe 2,pasta,50.0,g
+recipe 2,piskefløde,26.25,ml
+recipe 2,spaghetti,300.0,g
+recipe 2,spinat,187.5,g
+recipe 2,squash,0.5,stk
+recipe 3,grøntsagsbouillon,198.0,
+recipe 3,hakkede tomater,0.5,stk
+recipe 3,hvidløg,8.5,fed
+recipe 3,løg,5.0,stk
+recipe 3,olivenolie,999.0,ml
+recipe 3,parmesan,137.5,g
+recipe 3,pasta,50.0,g
+recipe 3,piskefløde,26.25,ml
+recipe 3,rasp,485.0,g
+recipe 3,soltørrede tomater i olie,95.0,g
+recipe 3,squash,0.5,stk
+recipe 4,bredbladet persille,179.0,g
+recipe 4,fuldkornshvedemel,937.5,g
+recipe 4,gær,25.0,g
+recipe 4,hvedemel,1587.5,g
+recipe 4,hvidløg,11.5,fed
+recipe 4,kartoffel,898.5,g
+recipe 4,olivenolie,997.0,ml
+recipe 4,rødløg,6.5,stk
+recipe 5,grøntsagsbouillon,196.0,
+recipe 5,hakkede tomater,0.5,stk
+recipe 5,hvidløg,8.5,fed
+recipe 5,løg,5.0,stk
+recipe 5,olivenolie,999.0,ml
+recipe 5,parmesan,137.5,g
+recipe 5,pasta,50.0,g
+recipe 5,piskefløde,26.25,ml
+recipe 5,soltørrede tomater i olie,95.0,g
+recipe 5,spinat,200.0,g
+recipe 6,grøntsagsbouillon,194.0,
+recipe 6,hvidløg,9.0,fed
+recipe 6,løg,5.0,stk
+recipe 6,olivenolie,999.0,ml
+recipe 6,parmesan,125.0,g
+recipe 6,piskefløde,26.0,ml
+recipe 6,rasp,485.0,g
+recipe 6,soltørrede tomater i olie,70.0,g
+recipe 6,spinat,200.0,g
+recipe 6,squash,0.5,stk
+recipe 7,basmati ris,498.5,g
+recipe 7,bredbladet persille,179.0,g
+recipe 7,gulerod,6.0,stk
+recipe 7,hvidløg,8.5,fed
+recipe 7,ingefær,199.5,g
+recipe 7,kartoffel,800.0,g
+recipe 7,kokosmælk,200.0,ml
+recipe 7,løg,5.0,stk
+recipe 7,mayonnaise,335.0,g
+recipe 7,olivenolie,998.0,ml
+recipe 7,sesamfrø,237.5,g
+recipe 7,soja,249.5,ml
+recipe 7,spinat,100.0,g
+recipe 7,sriracha chilisauce,449.5,ml
+recipe 7,sukker,985.0,g
+recipe 7,æblecidereddike,749.5,ml
+recipe 7,æg,4.0,stk
+recipe 8,bacon,75.0,g
+recipe 8,bredbladet persille,179.0,g
+recipe 8,hvidløg,9.5,fed
+recipe 8,kartoffel,800.0,g
+recipe 8,løg,5.25,stk
+recipe 8,olivenolie,998.0,ml
+recipe 8,piskefløde,26.0,ml
+recipe 8,æg,4.0,stk
+recipe 9,frisk basilikum,0.5,stk
+recipe 9,græskarkerner,237.5,g
+recipe 9,hvidløg,10.0,fed
+recipe 9,kapers,52.5,g
+recipe 9,olivenolie,999.25,ml
+recipe 9,parmesan,174.5,g
+recipe 9,smør,2.0,g
+recipe 9,valnødder,95.0,g
+recipe 10,frisk mynte,0.5,stk
+recipe 10,grøntsagsbouillon,199.5,
+recipe 10,hvidløg,11.0,fed
+recipe 10,hvidvin,749.5,ml
+recipe 10,løg,5.5,stk
+recipe 10,olivenolie,999.25,ml
+recipe 10,parmesan,174.5,g
+recipe 10,smør,4.0,g
+recipe 11,frisk timian,0.5,stk
+recipe 11,hvidløg,11.0,fed
+recipe 11,parmesan,100.0,g
+recipe 11,pasta,100.0,g
+recipe 11,piskefløde,26.5,ml
+recipe 11,smør,4.5,g
+recipe 12,bredbladet persille,179.0,g
+recipe 12,citron,5.75,stk
+recipe 12,frisk mynte,0.5,stk
+recipe 12,grøntsagsbouillon,197.5,
+recipe 12,hakkede tomater,0.5,stk
+recipe 12,hvedemel,1999.0,g
+recipe 12,hvidløg,9.5,fed
+recipe 12,ingefær,199.5,g
+recipe 12,kikærter,399.5,g
+recipe 12,koncentreret tomatpuré,175.0,g
+recipe 12,løg,4.5,stk
+recipe 12,olivenolie,999.0,ml
+recipe 12,rød chili,0.75,stk
+recipe 12,safran,0.5,stk
+recipe 12,æg,9.5,stk
+recipe 13,basmati ris,498.5,g
+recipe 13,blomkål,0.75,stk
+recipe 13,bredbladet persille,179.5,g
+recipe 13,grøntsagsbouillon,197.5,
+recipe 13,hvidløg,8.0,fed
+recipe 13,ingefær,199.5,g
+recipe 13,kartoffel,998.5,g
+recipe 13,kikærter,399.0,g
+recipe 13,løg,4.5,stk
+recipe 13,olivenolie,998.0,ml
+recipe 13,rød peberfrugt,2.5,stk
+recipe 14,aubergine,0.5,stk
+recipe 14,champignon,100.0,g
+recipe 14,forårsløg,2.0,stk
+recipe 14,frisk basilikum,0.5,stk
+recipe 14,grøntsagsbouillon,198.75,
+recipe 14,gulerod,6.0,stk
+recipe 14,hakkede tomater,0.5,stk
+recipe 14,hvedemel,1997.0,g
+recipe 14,hvidløg,9.0,fed
+recipe 14,koncentreret tomatpuré,199.5,g
+recipe 14,løg,4.0,stk
+recipe 14,mælk,998.5,ml
+recipe 14,olivenolie,999.0,ml
+recipe 14,piskefløde,25.75,ml
+recipe 14,smør,4.0,g
+recipe 14,squash,0.5,stk
+recipe 14,stængler bladselleri,0.5,stk
+recipe 15,agurk,0.5,stk
+recipe 15,frisk koriander,0.5,stk
+recipe 15,grøntsagsbouillon,197.0,
+recipe 15,hvidløg,10.0,fed
+recipe 15,ingefær,199.0,g
+recipe 15,olivenolie,999.0,ml
+recipe 15,stødt koriander,0.75,stk
+recipe 15,stødt spidskommen,0.25,stk
+recipe 16,bredbladet persille,179.5,g
+recipe 16,champignon,50.0,g
+recipe 16,frisk basilikum,0.5,stk
+recipe 16,frisk mynte,0.5,stk
+recipe 16,grøntsagsbouillon,199.0,
+recipe 16,hvidløg,10.5,fed
+recipe 16,hvidvin,749.5,ml
+recipe 16,løg,5.0,stk
+recipe 16,olivenolie,998.5,ml
+recipe 16,parmesan,150.0,g
+recipe 16,smør,4.0,g
+recipe 17,bredbladet persille,179.5,g
+recipe 17,champignon,125.0,g
+recipe 17,frisk basilikum,0.5,stk
+recipe 17,grøntsagsbouillon,199.0,
+recipe 17,hasselnødder,148.0,g
+recipe 17,hvidløg,11.0,fed
+recipe 17,løg,5.0,stk
+recipe 17,olivenolie,998.5,ml
+recipe 17,parmesan,150.0,g
+recipe 17,smør,4.0,g
+recipe 17,æg,7.5,stk
+recipe 18,avocado,33.0,stk
+recipe 18,cheddar ost,25.0,g
+recipe 18,cherrytomater,245.0,g
+recipe 18,grøntsagsbouillon,197.5,
+recipe 18,hakkede tomater,0.5,stk
+recipe 18,hvidløg,9.5,fed
+recipe 18,kikærter,399.5,g
+recipe 18,kyllingebryst,125.0,g
+recipe 18,lime,4.0,stk
+recipe 18,løg,4.0,stk
+recipe 18,olivenolie,998.5,ml
+recipe 18,rød peberfrugt,2.0,stk
+recipe 18,squash,0.25,stk
+recipe 18,tortillas pandekager,2.0,stk
+recipe 18,æg,8.0,stk
+recipe 19,bredbladet persille,179.0,g
+recipe 19,champignon,125.0,g
+recipe 19,grøntsagsbouillon,198.5,
+recipe 19,hvedemel,1999.5,g
+recipe 19,hvidløg,9.5,fed
+recipe 19,koncentreret tomatpuré,197.5,g
+recipe 19,løg,4.5,stk
+recipe 19,olivenolie,998.5,ml
+recipe 19,parmesan,175.0,g
+recipe 19,piskefløde,26.5,ml
+recipe 19,røget paprika,0.5,stk
+recipe 19,smør,4.0,g
+recipe 20,basmati ris,498.5,g
+recipe 20,blomkål,0.75,stk
+recipe 20,bredbladet persille,179.5,g
+recipe 20,grøntsagsbouillon,197.5,
+recipe 20,hvidløg,8.0,fed
+recipe 20,ingefær,199.5,g
+recipe 20,kartoffel,998.5,g
+recipe 20,kikærter,399.0,g
+recipe 20,løg,4.5,stk
+recipe 20,olivenolie,998.0,ml
+recipe 20,rød peberfrugt,2.5,stk
+recipe 21,aubergine,0.5,stk
+recipe 21,champignon,75.0,g
+recipe 21,grøntsagsbouillon,199.5,
+recipe 21,gulerod,6.0,stk
+recipe 21,hakkede tomater,0.5,stk
+recipe 21,hvedemel,1999.0,g
+recipe 21,hvidløg,8.5,fed
+recipe 21,koncentreret tomatpuré,199.5,g
+recipe 21,løg,4.5,stk
+recipe 21,mælk,998.5,ml
+recipe 21,olivenolie,998.5,ml
+recipe 21,parmesan,175.0,g
+recipe 21,pasta,50.0,g
+recipe 21,piskefløde,26.0,ml
+recipe 21,smør,4.0,g
+recipe 21,stængler bladselleri,0.5,stk
+recipe 22,frisk koriander,0.5,stk
+recipe 22,grøntsagsbouillon,199.5,
+recipe 22,hakkede tomater,0.5,stk
+recipe 22,hvedemel,1999.5,g
+recipe 22,hvidløg,11.0,fed
+recipe 22,kanel,0.5,stk
+recipe 22,løg,5.5,stk
+recipe 22,majs,175.0,g
+recipe 22,olivenolie,999.5,ml
+recipe 22,røget paprika,0.5,stk
+recipe 22,smør,4.5,g
+recipe 22,spinat,187.5,g
+recipe 22,squash,0.5,stk
+recipe 22,stødt koriander,0.5,stk
+recipe 22,stødt spidskommen,0.5,stk
+recipe 23,grøntsagsbouillon,199.5,
+recipe 23,hvidløg,8.5,fed
+recipe 23,løg,5.0,stk
+recipe 23,olivenolie,999.0,ml
+recipe 23,parmesan,150.0,g
+recipe 23,pasta,50.0,g
+recipe 23,piskefløde,26.75,ml
+recipe 23,rosmarin,0.5,stk
+recipe 23,soltørrede tomater i olie,95.0,g
+recipe 23,squash,0.5,stk
+recipe 24,feta,100.0,g
+recipe 24,frisk basilikum,0.5,stk
+recipe 24,gær,32.5,g
+recipe 24,hvedemel,1500.0,g
+recipe 24,hvidløg,11.0,fed
+recipe 24,kartoffel,997.5,g
+recipe 24,olivenolie,997.0,ml
+recipe 24,soltørrede tomater i olie,95.0,g
+recipe 25,frisk timian,0.5,stk
+recipe 25,grahamsmel,950.0,g
+recipe 25,gær,27.5,g
+recipe 25,hvedemel,1525.0,g
+recipe 25,hvidløg,11.0,fed
+recipe 25,kartoffel,998.5,g
+recipe 25,olivenolie,997.0,ml
+recipe 25,parmesan,150.0,g
+recipe 25,spinat,187.5,g
+recipe 26,fuldkornshvedemel,975.0,g
+recipe 26,hvedemel,1936.5,g
+recipe 26,mælk,998.0,ml
+recipe 26,parmesan,160.0,g
+recipe 26,rasp,499.75,g
+recipe 26,squash,0.5,stk
+recipe 26,æg,6.0,stk
+recipe 27,broccoli,399.25,g
+recipe 27,cashewnødder,80.0,g
+recipe 27,fishsauce,199.5,ml
+recipe 27,gulerod,5.0,stk
+recipe 27,hvidløg,9.0,fed
+recipe 27,ingefær,180.0,g
+recipe 27,lime,4.0,stk
+recipe 27,nudler,100.0,g
+recipe 27,olivenolie,999.0,ml
+recipe 27,peanutbutter,349.0,g
+recipe 27,sesamfrø,240.0,g
+recipe 27,soja,249.5,ml
+recipe 27,spinat,50.0,g
+recipe 27,æg,8.0,stk
+recipe 28,avocado,34.0,stk
+recipe 28,grøntsagsbouillon,198.0,
+recipe 28,hvidløg,8.0,fed
+recipe 28,ingefær,198.5,g
+recipe 28,kanel,0.75,stk
+recipe 28,løg,4.5,stk
+recipe 28,majs,275.0,g
+recipe 28,mørk chokolade,87.5,g
+recipe 28,olivenolie,998.5,ml
+recipe 28,rød peberfrugt,2.5,stk
+recipe 28,røget paprika,0.75,stk
+recipe 28,squash,0.5,stk
+recipe 28,stængler bladselleri,0.5,stk
+recipe 28,stødt koriander,0.75,stk
+recipe 28,stødt spidskommen,0.5,stk
+recipe 29,broccoli,399.0,g
+recipe 29,gulerod,5.5,stk
+recipe 29,hvidløg,9.5,fed
+recipe 29,ingefær,190.0,g
+recipe 29,kokosmælk,200.0,ml
+recipe 29,lime,4.0,stk
+recipe 29,nudler,175.0,g
+recipe 29,olivenolie,997.5,ml
+recipe 29,peanutbutter,349.0,g
+recipe 29,pillede edamamebønner,150.0,g
+recipe 29,sesamfrø,230.0,g
+recipe 29,sesamolie,499.0,ml
+recipe 29,soja,249.0,ml
+recipe 29,spinat,150.0,g
+recipe 29,sriracha chilisauce,449.5,ml
+recipe 29,æg,6.0,stk
+recipe 30,frisk basilikum,0.5,stk
+recipe 30,frisk timian,0.5,stk
+recipe 30,grøntsagsbouillon,199.0,
+recipe 30,gulerod,5.0,stk
+recipe 30,hvidløg,10.0,fed
+recipe 30,kartoffel,997.0,g
+recipe 30,koncentreret tomatpuré,115.0,g
+recipe 30,løg,4.5,stk
+recipe 30,olivenolie,998.5,ml
+recipe 30,piskefløde,26.75,ml
+recipe 30,stødt spidskommen,0.5,stk
+recipe 30,timian,0.5,stk
+recipe 31,avocado,33.5,stk
+recipe 31,basmati ris,350.0,g
+recipe 31,cheddar ost,12.5,g
+recipe 31,cherrytomater,187.5,g
+recipe 31,grøntsagsbouillon,197.0,
+recipe 31,gulerod,7.0,stk
+recipe 31,hakkede tomater,0.5,stk
+recipe 31,hvidløg,9.0,fed
+recipe 31,kanel,0.75,stk
+recipe 31,lime,3.5,stk
+recipe 31,løg,4.0,stk
+recipe 31,olivenolie,997.5,ml
+recipe 31,rød chili,0.25,stk
+recipe 31,rød peberfrugt,1.5,stk
+recipe 31,røget paprika,0.5,stk
+recipe 31,squash,0.25,stk
+recipe 31,sriracha chilisauce,449.5,ml
+recipe 31,stødt koriander,0.5,stk
+recipe 31,tortillas pandekager,2.0,stk
+recipe 31,æg,8.0,stk
+recipe 32,avocado,34.5,stk
+recipe 32,basmati ris,350.0,g
+recipe 32,cheddar ost,112.5,g
+recipe 32,cherrytomater,187.5,g
+recipe 32,grøntsagsbouillon,196.5,
+recipe 32,gulerod,7.0,stk
+recipe 32,hvedemel,1999.5,g
+recipe 32,hvidløg,9.0,fed
+recipe 32,kanel,0.25,stk
+recipe 32,lime,4.5,stk
+recipe 32,løg,4.5,stk
+recipe 32,majs,250.0,g
+recipe 32,olivenolie,998.0,ml
+recipe 32,rød chili,0.75,stk
+recipe 32,rød peberfrugt,2.0,stk
+recipe 32,røget paprika,0.5,stk
+recipe 32,smør,4.5,g
+recipe 32,sriracha chilisauce,449.5,ml
+recipe 32,stødt koriander,0.5,stk
+recipe 32,stødt spidskommen,0.5,stk
+recipe 32,tortillas pandekager,2.0,stk
+recipe 33,bredbladet persille,179.5,g
+recipe 33,champignon,75.0,g
+recipe 33,frisk basilikum,0.5,stk
+recipe 33,grøntsagsbouillon,199.5,
+recipe 33,hasselnødder,148.0,g
+recipe 33,hvidløg,9.5,fed
+recipe 33,kartoffel,800.0,g
+recipe 33,løg,5.0,stk
+recipe 33,olivenolie,998.0,ml
+recipe 33,parmesan,175.0,g
+recipe 33,smør,4.5,g
+recipe 33,æg,3.5,stk
+recipe 34,bredbladet persille,179.5,g
+recipe 34,hvidløg,8.5,fed
+recipe 34,olivenolie,997.0,ml
+recipe 34,parmesan,150.0,g
+recipe 34,rød chili,0.5,stk
+recipe 34,spinat,200.0,g
+recipe 34,æg,9.5,stk
+recipe 35,bredbladet persille,179.0,g
+recipe 35,broccoli,399.75,g
+recipe 35,gulerod,7.0,stk
+recipe 35,hvidløg,9.0,fed
+recipe 35,kartoffel,700.0,g
+recipe 35,ketchup,578.0,g
+recipe 35,løg,4.5,stk
+recipe 35,olivenolie,998.5,ml
+recipe 35,smør,4.5,g
+recipe 35,æg,4.0,stk
+recipe 36,bredbladet persille,179.5,g
+recipe 36,frisk timian,0.5,stk
+recipe 36,grøntsagsbouillon,199.5,
+recipe 36,gulerod,6.5,stk
+recipe 36,hvidløg,9.0,fed
+recipe 36,kartoffel,798.5,g
+recipe 36,koncentreret tomatpuré,150.0,g
+recipe 36,løg,4.5,stk
+recipe 36,olivenolie,997.5,ml
+recipe 36,piskefløde,26.75,ml
+recipe 36,porre,0.5,stk
+recipe 36,stødt spidskommen,0.5,stk
+recipe 36,timian,0.5,stk
+recipe 36,æg,6.0,stk
+recipe 37,bredbladet persille,178.5,g
+recipe 37,fuldkornshvedemel,937.5,g
+recipe 37,gær,37.5,g
+recipe 37,hvedemel,1837.5,g
+recipe 37,hvidløg,9.5,fed
+recipe 37,kartoffel,700.0,g
+recipe 37,løg,5.5,stk
+recipe 37,olivenolie,997.0,ml
+recipe 37,rødløg,6.5,stk
+recipe 37,æg,6.0,stk
+recipe 38,bredbladet persille,179.5,g
+recipe 38,broccoli,399.5,g
+recipe 38,græskarkerner,249.5,g
+recipe 38,grøntsagsbouillon,199.5,
+recipe 38,honning,399.5,g
+recipe 38,hvidløg,9.0,fed
+recipe 38,kartoffel,798.0,g
+recipe 38,løg,4.5,stk
+recipe 38,olivenolie,998.0,ml
+recipe 38,piskefløde,26.5,ml
+recipe 38,timian,0.5,stk
+recipe 38,æble,8.5,stk
+recipe 38,æblecidereddike,749.5,ml
+recipe 38,æg,6.0,stk
+recipe 39,bredbladet persille,179.0,g
+recipe 39,cayenne peber,0.5,stk
+recipe 39,hvedemel,1985.0,g
+recipe 39,hvidløg,9.0,fed
+recipe 39,kartoffel,800.0,g
+recipe 39,løg,5.5,stk
+recipe 39,olivenolie,998.0,ml
+recipe 39,rødløg,6.5,stk
+recipe 39,stødt koriander,0.5,stk
+recipe 39,stødt spidskommen,0.5,stk
+recipe 39,æg,5.0,stk
+recipe 40,agurk,0.75,stk
+recipe 40,bredbladet persille,179.5,g
+recipe 40,chili,0.75,stk
+recipe 40,citron,5.75,stk
+recipe 40,hvidløg,8.0,fed
+recipe 40,kartoffel,799.0,g
+recipe 40,løg,4.5,stk
+recipe 40,olivenolie,998.5,ml
+recipe 40,rasp,498.0,g
+recipe 40,tomat,9.0,stk
+recipe 40,æg,4.5,stk
+recipe 41,ahornsirup,249.5,ml
+recipe 41,avocado,34.5,stk
+recipe 41,blomkål,0.5,stk
+recipe 41,fuldkornshvedemel,950.0,g
+recipe 41,hvidløg,11.0,fed
+recipe 41,olivenolie,999.0,ml
+recipe 41,pillede edamamebønner,225.0,g
+recipe 41,rucola,40.0,g
+recipe 41,spinat,212.5,g
+recipe 41,æg,6.5,stk
+recipe 42,frisk timian,0.5,stk
+recipe 42,hvidløg,11.0,fed
+recipe 42,parmesan,100.0,g
+recipe 42,pasta,100.0,g
+recipe 42,piskefløde,26.5,ml
+recipe 42,smør,4.5,g
+recipe 43,frisk basilikum,0.5,stk
+recipe 43,frisk mynte,0.5,stk
+recipe 43,grøntsagsbouillon,199.0,
+recipe 43,hvidløg,11.0,fed
+recipe 43,hvidvin,749.0,ml
+recipe 43,løg,5.5,stk
+recipe 43,olivenolie,999.5,ml
+recipe 43,parmesan,155.0,g
+recipe 43,smør,4.5,g
+recipe 44,champignon,150.0,g
+recipe 44,feta,75.0,g
+recipe 44,frisk timian,0.5,stk
+recipe 44,grøntsagsbouillon,197.0,
+recipe 44,hvedemel,1975.0,g
+recipe 44,hvidløg,9.5,fed
+recipe 44,kikærter,399.5,g
+recipe 44,koncentreret tomatpuré,197.5,g
+recipe 44,løg,5.0,stk
+recipe 44,olivenolie,999.5,ml
+recipe 44,parmesan,162.5,g
+recipe 44,persille,179.0,g
+recipe 44,rødløg,5.5,stk
+recipe 44,smør,4.5,g
+recipe 44,soltørrede tomater i olie,119.5,g
+recipe 44,spaghetti,325.0,g
+recipe 44,æblecidereddike,748.0,ml
+recipe 44,æg,7.5,stk
+recipe 45,avocado,34.5,stk
+recipe 45,basmati ris,498.5,g
+recipe 45,bredbladet persille,179.5,g
+recipe 45,frisk koriander,0.5,stk
+recipe 45,grøntsagsbouillon,197.0,
+recipe 45,hvidløg,8.0,fed
+recipe 45,ingefær,199.0,g
+recipe 45,kanel,0.75,stk
+recipe 45,kikærter,399.5,g
+recipe 45,kokosmælk,200.0,ml
+recipe 45,løg,4.0,stk
+recipe 45,majs,275.0,g
+recipe 45,mørk chokolade,87.5,g
+recipe 45,olivenolie,998.5,ml
+recipe 45,rød peberfrugt,2.0,stk
+recipe 45,røget paprika,0.75,stk
+recipe 45,stængler bladselleri,0.5,stk
+recipe 45,stødt koriander,0.5,stk
+recipe 46,basmati ris,498.5,g
+recipe 46,bredbladet persille,179.0,g
+recipe 46,citron,5.75,stk
+recipe 46,frisk mynte,0.5,stk
+recipe 46,grøntsagsbouillon,198.0,
+recipe 46,hvidløg,8.5,fed
+recipe 46,ingefær,199.0,g
+recipe 46,kikærter,399.0,g
+recipe 46,kokosmælk,200.0,ml
+recipe 46,koncentreret tomatpuré,175.0,g
+recipe 46,løg,4.5,stk
+recipe 46,olivenolie,998.0,ml
+recipe 46,rød chili,0.75,stk
+recipe 46,rød peberfrugt,2.5,stk
+recipe 46,røget paprika,0.5,stk
+recipe 46,safran,0.5,stk
+recipe 46,squash,0.5,stk
+recipe 46,stødt spidskommen,0.5,stk
+recipe 47,bredbladet persille,179.5,g
+recipe 47,champignon,75.0,g
+recipe 47,grøntsagsbouillon,198.5,
+recipe 47,hvedemel,1999.5,g
+recipe 47,hvidløg,10.0,fed
+recipe 47,koncentreret tomatpuré,197.5,g
+recipe 47,løg,4.5,stk
+recipe 47,olivenolie,999.0,ml
+recipe 47,persille,179.5,g
+recipe 47,piskefløde,26.0,ml
+recipe 47,røget paprika,0.5,stk
+recipe 47,smør,4.5,g
+recipe 48,bredbladet persille,179.5,g
+recipe 48,champignon,100.0,g
+recipe 48,forårsløg,2.0,stk
+recipe 48,grøntsagsbouillon,198.25,
+recipe 48,hvedemel,1997.5,g
+recipe 48,hvidløg,8.5,fed
+recipe 48,koncentreret tomatpuré,197.5,g
+recipe 48,løg,4.0,stk
+recipe 48,olivenolie,999.5,ml
+recipe 48,piskefløde,26.0,ml
+recipe 48,røget paprika,0.5,stk
+recipe 48,smør,4.5,g
+recipe 49,frisk timian,0.5,stk
+recipe 49,grøntsagsbouillon,199.0,
+recipe 49,gulerod,6.5,stk
+recipe 49,hvidløg,8.0,fed
+recipe 49,kartoffel,998.5,g
+recipe 49,koncentreret tomatpuré,150.0,g
+recipe 49,løg,3.0,stk
+recipe 49,olivenolie,998.5,ml
+recipe 49,piskefløde,26.75,ml
+recipe 49,porre,0.5,stk
+recipe 49,rød chili,0.5,stk
+recipe 49,stødt spidskommen,0.5,stk
+recipe 49,sukker,999.5,g
+recipe 49,timian,0.5,stk
+recipe 50,agurk,0.75,stk
+recipe 50,avocado,34.5,stk
+recipe 50,baby spinat,50.0,g
+recipe 50,basmati ris,497.0,g
+recipe 50,bredbladet persille,179.5,g
+recipe 50,fishsauce,199.5,ml
+recipe 50,frisk koriander,0.5,stk
+recipe 50,gulerod,4.5,stk
+recipe 50,hvidløg,10.0,fed
+recipe 50,ingefær,194.5,g
+recipe 50,løg,5.5,stk
+recipe 50,mayonnaise,297.5,g
+recipe 50,olivenolie,999.0,ml
+recipe 50,sesamfrø,230.0,g
+recipe 50,soja,249.5,ml
+recipe 50,spinat,50.0,g
+recipe 50,sriracha chilisauce,449.5,ml
+recipe 50,sukker,970.0,g
+recipe 50,æblecidereddike,749.0,ml
+recipe 50,æg,8.0,stk
+recipe 51,aubergine,0.5,stk
+recipe 51,champignon,75.0,g
+recipe 51,frisk basilikum,0.5,stk
+recipe 51,grøntsagsbouillon,199.0,
+recipe 51,gulerod,6.0,stk
+recipe 51,hakkede tomater,0.5,stk
+recipe 51,hvedemel,1999.0,g
+recipe 51,hvidløg,10.5,fed
+recipe 51,koncentreret tomatpuré,199.5,g
+recipe 51,løg,4.5,stk
+recipe 51,mælk,998.5,ml
+recipe 51,olivenolie,998.5,ml
+recipe 51,persille,179.5,g
+recipe 51,piskefløde,25.75,ml
+recipe 51,smør,4.0,g
+recipe 51,squash,0.5,stk
+recipe 51,stængler bladselleri,0.5,stk
+recipe 52,grøntsagsbouillon,195.5,
+recipe 52,hakkede tomater,0.5,stk
+recipe 52,hvidløg,9.5,fed
+recipe 52,løg,5.0,stk
+recipe 52,olivenolie,999.0,ml
+recipe 52,parmesan,147.5,g
+recipe 52,piskefløde,26.0,ml
+recipe 52,soltørrede tomater i olie,95.0,g
+recipe 52,spaghetti,300.0,g
+recipe 52,spinat,137.5,g
+recipe 52,squash,0.5,stk
+recipe 53,frisk basilikum,0.25,stk
+recipe 53,grøntsagsbouillon,199.0,
+recipe 53,hvedemel,1937.5,g
+recipe 53,hvidløg,9.5,fed
+recipe 53,løg,4.5,stk
+recipe 53,olivenolie,999.5,ml
+recipe 53,parmesan,125.0,g
+recipe 53,rosmarin,0.5,stk
+recipe 53,soltørrede tomater i olie,94.5,g
+recipe 53,spinat,50.0,g
+recipe 53,squash,0.5,stk
+recipe 53,timian,0.5,stk
+recipe 53,æg,9.0,stk
+recipe 54,baby spinat,50.0,g
+recipe 54,broccoli,324.5,g
+recipe 54,gulerod,6.5,stk
+recipe 54,hvidløg,9.5,fed
+recipe 54,ingefær,189.5,g
+recipe 54,kokosmælk,200.0,ml
+recipe 54,lime,4.0,stk
+recipe 54,nudler,200.0,g
+recipe 54,olivenolie,999.5,ml
+recipe 54,peanutbutter,349.0,g
+recipe 54,pillede edamamebønner,150.0,g
+recipe 54,sesamfrø,238.5,g
+recipe 54,sesamolie,499.75,ml
+recipe 54,soja,249.0,ml
+recipe 54,spinat,150.0,g
+recipe 54,æg,8.0,stk
+recipe 55,baby spinat,50.0,g
+recipe 55,broccoli,324.5,g
+recipe 55,gulerod,7.0,stk
+recipe 55,hvidløg,10.0,fed
+recipe 55,ingefær,199.5,g
+recipe 55,lime,4.0,stk
+recipe 55,nudler,25.0,g
+recipe 55,olivenolie,998.0,ml
+recipe 55,sesamfrø,238.5,g
+recipe 55,sesamolie,498.75,ml
+recipe 55,soja,249.0,ml
+recipe 55,sriracha chilisauce,449.5,ml
+recipe 55,æg,8.0,stk
+recipe 56,baby spinat,99.5,g
+recipe 56,blomkål,0.25,stk
+recipe 56,frisk mynte,0.5,stk
+recipe 56,grøntsagsbouillon,198.0,
+recipe 56,hvidløg,8.5,fed
+recipe 56,ingefær,199.5,g
+recipe 56,kartoffel,998.5,g
+recipe 56,kikærter,399.5,g
+recipe 56,løg,5.0,stk
+recipe 56,olivenolie,998.5,ml
+recipe 56,rødløg,6.5,stk
+recipe 56,squash,0.5,stk
+recipe 56,stødt spidskommen,0.5,stk
+recipe 57,avocado,33.5,stk
+recipe 57,cheddar ost,75.0,g
+recipe 57,cherrytomater,245.0,g
+recipe 57,grøntsagsbouillon,196.0,
+recipe 57,hvidløg,8.5,fed
+recipe 57,ingefær,199.5,g
+recipe 57,kanel,0.75,stk
+recipe 57,kikærter,399.5,g
+recipe 57,kyllingebryst,125.0,g
+recipe 57,løg,3.5,stk
+recipe 57,majs,275.0,g
+recipe 57,mørk chokolade,87.5,g
+recipe 57,olivenolie,999.0,ml
+recipe 57,rød chili,0.5,stk
+recipe 57,rød peberfrugt,2.0,stk
+recipe 57,røget paprika,0.25,stk
+recipe 57,stængler bladselleri,0.5,stk
+recipe 57,stødt koriander,0.5,stk
+recipe 58,avocado,33.5,stk
+recipe 58,basmati ris,350.0,g
+recipe 58,cheddar ost,12.5,g
+recipe 58,cherrytomater,182.5,g
+recipe 58,grøntsagsbouillon,194.5,
+recipe 58,gulerod,7.0,stk
+recipe 58,hvidløg,8.5,fed
+recipe 58,kanel,0.75,stk
+recipe 58,kikærter,399.5,g
+recipe 58,kyllingebryst,125.0,g
+recipe 58,lime,4.5,stk
+recipe 58,løg,4.0,stk
+recipe 58,olivenolie,998.0,ml
+recipe 58,rød chili,0.25,stk
+recipe 58,rød peberfrugt,1.5,stk
+recipe 58,røget paprika,0.5,stk
+recipe 58,sriracha chilisauce,449.5,ml
+recipe 58,stødt koriander,0.5,stk
+recipe 59,grøntsagsbouillon,199.5,
+recipe 59,hvidløg,11.0,fed
+recipe 59,løg,5.5,stk
+recipe 59,olivenolie,999.25,ml
+recipe 59,parmesan,184.5,g
+recipe 59,piskefløde,26.5,ml
+recipe 59,smør,4.5,g
+recipe 59,spaghetti,300.0,g
+recipe 59,spinat,187.5,g
+recipe 60,avocado,34.5,stk
+recipe 60,basmati ris,498.5,g
+recipe 60,bredbladet persille,179.5,g
+recipe 60,frisk koriander,0.5,stk
+recipe 60,grøntsagsbouillon,198.0,
+recipe 60,hvidløg,8.0,fed
+recipe 60,ingefær,198.5,g
+recipe 60,kikærter,399.5,g
+recipe 60,kokosmælk,200.0,ml
+recipe 60,løg,5.5,stk
+recipe 60,olivenolie,998.0,ml
+recipe 60,rød peberfrugt,2.5,stk
+recipe 60,squash,0.5,stk
+recipe 60,stødt koriander,0.25,stk
+recipe 60,stødt spidskommen,0.5,stk
+recipe 61,basmati ris,497.0,g
+recipe 61,blomkål,0.5,stk
+recipe 61,frisk koriander,0.5,stk
+recipe 61,hvidløg,9.0,fed
+recipe 61,ingefær,198.5,g
+recipe 61,kartoffel,750.0,g
+recipe 61,løg,5.0,stk
+recipe 61,olivenolie,998.5,ml
+recipe 61,piskefløde,26.75,ml
+recipe 61,stødt koriander,0.5,stk
+recipe 61,stødt nellike,0.75,stk
+recipe 62,avocado,34.0,stk
+recipe 62,cherrytomater,245.0,g
+recipe 62,grøntsagsbouillon,197.0,
+recipe 62,hvedemel,1999.5,g
+recipe 62,hvidløg,9.5,fed
+recipe 62,kanel,0.5,stk
+recipe 62,kikærter,399.5,g
+recipe 62,kyllingebryst,125.0,g
+recipe 62,løg,4.5,stk
+recipe 62,majs,250.0,g
+recipe 62,olivenolie,999.0,ml
+recipe 62,rød chili,0.5,stk
+recipe 62,rød peberfrugt,2.5,stk
+recipe 62,smør,4.5,g
+recipe 62,stødt spidskommen,0.5,stk
+recipe 62,tortillas pandekager,2.0,stk
+recipe 63,frisk basilikum,0.5,stk
+recipe 63,hvidløg,10.5,fed
+recipe 63,olivenolie,998.25,ml
+recipe 63,parmesan,174.5,g
+recipe 63,rød chili,0.75,stk
+recipe 63,smør,4.5,g
+recipe 63,spinat,200.0,g
+recipe 63,æg,9.5,stk
+recipe 64,hvidløg,11.0,fed
+recipe 64,løg,5.0,stk
+recipe 64,olivenolie,999.25,ml
+recipe 64,parmesan,174.5,g
+recipe 64,pinjekerner,48.5,g
+recipe 64,smør,4.0,g
+recipe 64,spinat,150.0,g
+recipe 64,sukker,999.5,g
+recipe 64,æblecidereddike,749.5,ml
+recipe 64,æg,9.0,stk
+recipe 65,agurk,0.75,stk
+recipe 65,avocado,34.5,stk
+recipe 65,frisk mynte,0.5,stk
+recipe 65,grøntsagsbouillon,196.5,
+recipe 65,hakkede tomater,0.5,stk
+recipe 65,hvidløg,8.0,fed
+recipe 65,ingefær,198.0,g
+recipe 65,olivenolie,998.0,ml
+recipe 65,stødt koriander,0.5,stk
+recipe 66,avocado,34.5,stk
+recipe 66,baby spinat,99.5,g
+recipe 66,blomkål,0.5,stk
+recipe 66,frisk koriander,0.5,stk
+recipe 66,frisk mynte,0.5,stk
+recipe 66,grøntsagsbouillon,198.5,
+recipe 66,hvidløg,8.5,fed
+recipe 66,ingefær,198.5,g
+recipe 66,kokosmælk,200.0,ml
+recipe 66,olivenolie,998.5,ml
+recipe 66,rødløg,6.5,stk
+recipe 66,stødt koriander,0.25,stk
+recipe 67,basmati ris,497.0,g
+recipe 67,hakkede tomater,0.5,stk
+recipe 67,hvidløg,8.0,fed
+recipe 67,ingefær,198.5,g
+recipe 67,kartoffel,750.0,g
+recipe 67,kikærter,399.5,g
+recipe 67,kokosmælk,200.0,ml
+recipe 67,koncentreret tomatpuré,162.5,g
+recipe 67,lime,4.5,stk
+recipe 67,løg,4.5,stk
+recipe 67,mandler,112.5,g
+recipe 67,olivenolie,999.0,ml
+recipe 67,stødt koriander,0.5,stk
+recipe 68,basmati ris,498.5,g
+recipe 68,blomkål,0.5,stk
+recipe 68,cayenne peber,0.5,stk
+recipe 68,frisk koriander,0.5,stk
+recipe 68,frisk mynte,0.5,stk
+recipe 68,hakkede tomater,0.5,stk
+recipe 68,hvidløg,8.5,fed
+recipe 68,ingefær,198.5,g
+recipe 68,kartoffel,600.0,g
+recipe 68,lime,4.0,stk
+recipe 68,løg,5.0,stk
+recipe 68,olivenolie,998.0,ml
+recipe 69,aubergine,0.5,stk
+recipe 69,hvedemel,1950.0,g
+recipe 69,hvidløg,10.5,fed
+recipe 69,løg,5.5,stk
+recipe 69,olivenolie,999.25,ml
+recipe 69,parmesan,74.5,g
+recipe 69,rasp,498.5,g
+recipe 69,smør,4.0,g
+recipe 69,æg,8.5,stk
+recipe 70,avocado,34.0,stk
+recipe 70,cherrytomater,100.0,g
+recipe 70,hvidløg,11.5,fed
+recipe 70,kikærter,399.5,g
+recipe 70,olivenolie,999.25,ml
+recipe 70,parmesan,199.5,g
+recipe 70,pinjekerner,25.0,g
+recipe 70,rucola,50.0,g
+recipe 70,smør,4.5,g
+recipe 71,avocado,34.5,stk
+recipe 71,cheddar ost,50.0,g
+recipe 71,grøntsagsbouillon,198.0,
+recipe 71,hvedemel,1999.5,g
+recipe 71,hvidløg,9.0,fed
+recipe 71,ingefær,199.5,g
+recipe 71,kanel,0.25,stk
+recipe 71,løg,4.0,stk
+recipe 71,majs,125.0,g
+recipe 71,mørk chokolade,87.5,g
+recipe 71,olivenolie,999.0,ml
+recipe 71,rød peberfrugt,2.5,stk
+recipe 71,røget paprika,0.25,stk
+recipe 71,smør,4.5,g
+recipe 71,stængler bladselleri,0.5,stk
+recipe 71,stødt koriander,0.5,stk
+recipe 71,stødt spidskommen,0.5,stk
+recipe 71,tortillas pandekager,2.0,stk
+recipe 72,champignon,75.0,g
+recipe 72,grøntsagsbouillon,199.5,
+recipe 72,gulerod,6.0,stk
+recipe 72,hakkede tomater,0.5,stk
+recipe 72,hvedemel,1949.0,g
+recipe 72,hvidløg,9.0,fed
+recipe 72,koncentreret tomatpuré,199.5,g
+recipe 72,løg,4.5,stk
+recipe 72,mælk,998.5,ml
+recipe 72,olivenolie,998.5,ml
+recipe 72,parmesan,75.0,g
+recipe 72,piskefløde,26.25,ml
+recipe 72,rasp,498.5,g
+recipe 72,smør,3.5,g
+recipe 72,squash,0.5,stk
+recipe 72,stængler bladselleri,0.5,stk
+recipe 72,æg,8.5,stk
+recipe 73,baby spinat,62.5,g
+recipe 73,basmati ris,497.0,g
+recipe 73,blomkål,0.5,stk
+recipe 73,forårsløg,3.0,stk
+recipe 73,frisk koriander,0.5,stk
+recipe 73,hakkede tomater,0.5,stk
+recipe 73,hvidløg,8.5,fed
+recipe 73,ingefær,198.5,g
+recipe 73,kartoffel,750.0,g
+recipe 73,kikærter,399.5,g
+recipe 73,løg,5.0,stk
+recipe 73,mango,249.5,g
+recipe 73,mayonnaise,335.0,g
+recipe 73,olivenolie,999.0,ml
+recipe 73,persille,179.5,g
+recipe 73,røget paprika,0.5,stk
+recipe 73,sesamfrø,240.0,g
+recipe 73,stødt koriander,0.5,stk
+recipe 73,stødt spidskommen,0.5,stk
+recipe 74,agurk,0.75,stk
+recipe 74,baby spinat,99.5,g
+recipe 74,blomkål,0.5,stk
+recipe 74,frisk koriander,0.5,stk
+recipe 74,grøntsagsbouillon,196.0,
+recipe 74,hakkede tomater,0.5,stk
+recipe 74,hvidløg,8.5,fed
+recipe 74,ingefær,198.5,g
+recipe 74,kokosmælk,200.0,ml
+recipe 74,olivenolie,998.5,ml
+recipe 74,rødløg,6.5,stk
+recipe 74,stødt koriander,0.25,stk
+recipe 75,champignon,75.0,g
+recipe 75,grøntsagsbouillon,199.5,
+recipe 75,hasselnødder,148.0,g
+recipe 75,hvidløg,11.5,fed
+recipe 75,løg,5.5,stk
+recipe 75,olivenolie,999.25,ml
+recipe 75,parmesan,174.5,g
+recipe 75,smør,4.0,g
+recipe 75,æg,7.5,stk
+recipe 76,aubergine,0.5,stk
+recipe 76,bredbladet persille,179.5,g
+recipe 76,champignon,150.0,g
+recipe 76,grøntsagsbouillon,199.0,
+recipe 76,gulerod,7.0,stk
+recipe 76,hakkede tomater,0.5,stk
+recipe 76,hvidløg,10.0,fed
+recipe 76,kartoffel,999.5,g
+recipe 76,koncentreret tomatpuré,150.0,g
+recipe 76,løg,4.5,stk
+recipe 76,olivenolie,998.0,ml
+recipe 76,parmesan,175.0,g
+recipe 76,rasp,499.0,g
+recipe 76,rosmarin,0.5,stk
+recipe 76,røget paprika,0.5,stk
+recipe 76,smør,4.5,g
+recipe 76,soltørrede tomater i olie,105.0,g
+recipe 76,squash,0.5,stk
+recipe 76,sødmælk,999.5,ml
+recipe 76,timian,0.5,stk
+recipe 77,basmati ris,498.5,g
+recipe 77,bredbladet persille,179.5,g
+recipe 77,citron,5.75,stk
+recipe 77,græskarkerner,249.5,g
+recipe 77,grønkål,175.0,g
+recipe 77,grøntsagsbouillon,197.4,
+recipe 77,gulerod,2.5,stk
+recipe 77,hvidløg,9.5,fed
+recipe 77,kartoffel,600.0,g
+recipe 77,løg,4.5,stk
+recipe 77,olivenolie,999.0,ml
+recipe 77,piskefløde,26.25,ml
+recipe 77,saltede peanuts,175.0,g
+recipe 77,stødt koriander,0.5,stk
+recipe 77,stødt spidskommen,0.5,stk
+recipe 77,æble,8.0,stk
+recipe 78,aubergine,0.5,stk
+recipe 78,hvedemel,1950.0,g
+recipe 78,hvidløg,9.5,fed
+recipe 78,løg,4.5,stk
+recipe 78,olivenolie,999.0,ml
+recipe 78,parmesan,50.0,g
+recipe 78,pinjekerner,48.5,g
+recipe 78,rasp,498.5,g
+recipe 78,smør,4.0,g
+recipe 78,spinat,150.0,g
+recipe 78,sukker,999.5,g
+recipe 78,æblecidereddike,749.5,ml
+recipe 78,æg,7.5,stk
+recipe 79,bredbladet persille,179.5,g
+recipe 79,champignon,175.0,g
+recipe 79,grøntsagsbouillon,199.0,
+recipe 79,hvidløg,10.0,fed
+recipe 79,hvidvin,749.5,ml
+recipe 79,løg,5.0,stk
+recipe 79,olivenolie,999.0,ml
+recipe 79,parmesan,125.0,g
+recipe 79,smør,3.5,g
+recipe 79,timian,0.5,stk
+recipe 79,valnødder,82.5,g
+recipe 80,fuldkornshvedemel,950.0,g
+recipe 80,hvedemel,1875.0,g
+recipe 80,mælk,999.5,ml
+recipe 80,parmesan,185.0,g
+recipe 80,pinjekerner,35.0,g
+recipe 80,spinat,25.0,g
+recipe 80,squash,0.5,stk
+recipe 80,æg,6.0,stk
+recipe 81,hvidløg,11.0,fed
+recipe 81,olivenolie,998.25,ml
+recipe 81,parmesan,174.5,g
+recipe 81,pasta,50.0,g
+recipe 81,rød chili,0.75,stk
+recipe 81,smør,4.5,g
+recipe 81,sukker,999.5,g
+recipe 82,bredbladet persille,179.75,g
+recipe 82,frisk basilikum,0.5,stk
+recipe 82,hvidløg,10.5,fed
+recipe 82,mælk,999.0,ml
+recipe 82,olivenolie,998.75,ml
+recipe 82,parmesan,174.5,g
+recipe 82,smør,4.5,g
+recipe 82,tomat,5.0,stk
+recipe 83,agurk,0.5,stk
+recipe 83,appelsin,9.0,stk
+recipe 83,avocado,33.5,stk
+recipe 83,baby spinat,35.0,g
+recipe 83,cherrytomater,247.5,g
+recipe 83,forårsløg,3.5,stk
+recipe 83,frisk koriander,0.5,stk
+recipe 83,kanel,0.5,stk
+recipe 83,lime,4.5,stk
+recipe 83,mango,249.5,g
+recipe 83,olivenolie,998.0,ml
+recipe 83,rød chili,0.75,stk
+recipe 83,sesamfrø,249.0,g
+recipe 83,spidskål,0.75,stk
+recipe 83,tortillas pandekager,2.0,stk
+recipe 84,bredbladet persille,179.5,g
+recipe 84,feta,112.5,g
+recipe 84,frisk timian,0.5,stk
+recipe 84,grøntsagsbouillon,197.5,
+recipe 84,hvidløg,10.5,fed
+recipe 84,koncentreret tomatpuré,197.5,g
+recipe 84,løg,4.5,stk
+recipe 84,olivenolie,999.0,ml
+recipe 84,parmesan,137.5,g
+recipe 84,persille,179.5,g
+recipe 84,rødløg,6.5,stk
+recipe 84,smør,4.0,g
+recipe 84,soltørrede tomater i olie,119.5,g
+recipe 84,spaghetti,325.0,g
+recipe 84,timian,0.5,stk
+recipe 84,æblecidereddike,748.0,ml
+recipe 84,æg,9.0,stk
+recipe 85,avocado,34.0,stk
+recipe 85,bredbladet persille,179.5,g
+recipe 85,champignon,100.0,g
+recipe 85,cheddar ost,12.5,g
+recipe 85,cherrytomater,245.0,g
+recipe 85,flødeost,112.5,g
+recipe 85,frisk koriander,0.5,stk
+recipe 85,grøntsagsbouillon,197.0,
+recipe 85,hvidløg,10.5,fed
+recipe 85,kikærter,399.5,g
+recipe 85,kyllingebryst,125.0,g
+recipe 85,løg,5.0,stk
+recipe 85,olivenolie,999.0,ml
+recipe 85,rød chili,0.5,stk
+recipe 85,rød peberfrugt,0.5,stk
+recipe 85,rødløg,6.5,stk
+recipe 85,røget paprika,0.5,stk
+recipe 85,squash,0.5,stk
+recipe 85,stødt spidskommen,0.5,stk
+recipe 86,aubergine,0.5,stk
+recipe 86,champignon,75.0,g
+recipe 86,grøntsagsbouillon,195.5,
+recipe 86,gulerod,6.0,stk
+recipe 86,hvedemel,1999.0,g
+recipe 86,hvidløg,9.0,fed
+recipe 86,koncentreret tomatpuré,199.5,g
+recipe 86,løg,4.5,stk
+recipe 86,mælk,998.5,ml
+recipe 86,olivenolie,998.5,ml
+recipe 86,parmesan,162.5,g
+recipe 86,piskefløde,25.75,ml
+recipe 86,smør,4.0,g
+recipe 86,soltørrede tomater i olie,95.0,g
+recipe 86,spinat,200.0,g
+recipe 86,stængler bladselleri,0.5,stk
+recipe 87,agurk,0.5,stk
+recipe 87,avocado,33.0,stk
+recipe 87,cayenne peber,0.75,stk
+recipe 87,cheddar ost,37.5,g
+recipe 87,cherrytomater,237.5,g
+recipe 87,frisk koriander,0.5,stk
+recipe 87,grøntsagsbouillon,199.5,
+recipe 87,hakkede tomater,0.5,stk
+recipe 87,hvidløg,10.5,fed
+recipe 87,lime,4.0,stk
+recipe 87,løg,5.0,stk
+recipe 87,majs,325.0,g
+recipe 87,olivenolie,999.0,ml
+recipe 87,rødløg,6.0,stk
+recipe 87,røget paprika,0.5,stk
+recipe 88,aubergine,0.5,stk
+recipe 88,bredbladet persille,179.5,g
+recipe 88,champignon,125.0,g
+recipe 88,frisk basilikum,0.5,stk
+recipe 88,grøntsagsbouillon,199.0,
+recipe 88,gulerod,6.0,stk
+recipe 88,hakkede tomater,0.5,stk
+recipe 88,hvedemel,1999.0,g
+recipe 88,hvidløg,10.0,fed
+recipe 88,koncentreret tomatpuré,199.5,g
+recipe 88,løg,4.5,stk
+recipe 88,mælk,998.5,ml
+recipe 88,olivenolie,998.0,ml
+recipe 88,parmesan,175.0,g
+recipe 88,piskefløde,26.25,ml
+recipe 88,smør,3.5,g
+recipe 88,squash,0.5,stk
+recipe 88,stængler bladselleri,0.5,stk
+recipe 89,fuldkornshvedemel,950.0,g
+recipe 89,hvedemel,1875.0,g
+recipe 89,mælk,999.5,ml
+recipe 89,parmesan,185.0,g
+recipe 89,pinjekerner,35.0,g
+recipe 89,spinat,25.0,g
+recipe 89,squash,0.5,stk
+recipe 89,æg,6.0,stk
+recipe 90,frisk timian,0.5,stk
+recipe 90,græskarkerner,249.5,g
+recipe 90,grønkål,175.0,g
+recipe 90,grøntsagsbouillon,198.9,
+recipe 90,gulerod,6.5,stk
+recipe 90,hvidløg,9.5,fed
+recipe 90,kartoffel,598.5,g
+recipe 90,koncentreret tomatpuré,150.0,g
+recipe 90,løg,4.0,stk
+recipe 90,olivenolie,998.5,ml
+recipe 90,piskefløde,26.25,ml
+recipe 90,porre,0.5,stk
+recipe 90,stødt spidskommen,0.5,stk
+recipe 90,timian,0.5,stk
+recipe 90,æble,8.5,stk
+recipe 91,broccoli,399.0,g
+recipe 91,forårsløg,2.0,stk
+recipe 91,gulerod,7.0,stk
+recipe 91,hvidløg,9.5,fed
+recipe 91,ingefær,199.5,g
+recipe 91,lime,3.5,stk
+recipe 91,løg,5.5,stk
+recipe 91,nudler,225.0,g
+recipe 91,olivenolie,996.5,ml
+recipe 91,rød chili,0.5,stk
+recipe 91,sesamfrø,240.0,g
+recipe 91,sesamolie,499.0,ml
+recipe 91,soja,248.5,ml
+recipe 91,spidskål,0.5,stk
+recipe 91,squash,0.5,stk
+recipe 91,sriracha chilisauce,449.5,ml
+recipe 91,sukker,999.0,g
+recipe 91,æblecidereddike,749.0,ml
+recipe 91,æg,6.0,stk
+recipe 92,agurk,0.75,stk
+recipe 92,avocado,34.5,stk
+recipe 92,frisk mynte,0.5,stk
+recipe 92,grøntsagsbouillon,196.5,
+recipe 92,hakkede tomater,0.5,stk
+recipe 92,hvidløg,8.0,fed
+recipe 92,ingefær,198.0,g
+recipe 92,olivenolie,998.0,ml
+recipe 92,stødt koriander,0.5,stk
+recipe 93,basmati ris,497.0,g
+recipe 93,blomkål,0.5,stk
+recipe 93,grøntsagsbouillon,199.5,
+recipe 93,hakkede tomater,0.5,stk
+recipe 93,hvidløg,7.5,fed
+recipe 93,ingefær,198.5,g
+recipe 93,kartoffel,750.0,g
+recipe 93,løg,4.5,stk
+recipe 93,olivenolie,998.0,ml
+recipe 93,rød chili,0.75,stk
+recipe 93,stødt koriander,0.5,stk
+recipe 93,sukker,999.0,g
+recipe 94,avocado,33.5,stk
+recipe 94,cheddar ost,75.0,g
+recipe 94,cherrytomater,245.0,g
+recipe 94,grøntsagsbouillon,196.0,
+recipe 94,hvidløg,8.5,fed
+recipe 94,ingefær,199.5,g
+recipe 94,kanel,0.75,stk
+recipe 94,kikærter,399.5,g
+recipe 94,kyllingebryst,125.0,g
+recipe 94,løg,3.5,stk
+recipe 94,majs,275.0,g
+recipe 94,mørk chokolade,87.5,g
+recipe 94,olivenolie,999.0,ml
+recipe 94,rød chili,0.5,stk
+recipe 94,rød peberfrugt,2.0,stk
+recipe 94,røget paprika,0.25,stk
+recipe 94,stængler bladselleri,0.5,stk
+recipe 94,stødt koriander,0.5,stk
+recipe 95,avocado,33.5,stk
+recipe 95,basmati ris,350.0,g
+recipe 95,cheddar ost,12.5,g
+recipe 95,cherrytomater,182.5,g
+recipe 95,grøntsagsbouillon,194.5,
+recipe 95,gulerod,7.0,stk
+recipe 95,hvidløg,8.5,fed
+recipe 95,kanel,0.75,stk
+recipe 95,kikærter,399.5,g
+recipe 95,kyllingebryst,125.0,g
+recipe 95,lime,4.5,stk
+recipe 95,løg,4.0,stk
+recipe 95,olivenolie,998.0,ml
+recipe 95,rød chili,0.25,stk
+recipe 95,rød peberfrugt,1.5,stk
+recipe 95,røget paprika,0.5,stk
+recipe 95,sriracha chilisauce,449.5,ml
+recipe 95,stødt koriander,0.5,stk
+recipe 96,aubergine,0.5,stk
+recipe 96,champignon,175.0,g
+recipe 96,grøntsagsbouillon,199.5,
+recipe 96,gulerod,7.0,stk
+recipe 96,hvidløg,9.5,fed
+recipe 96,kartoffel,999.5,g
+recipe 96,koncentreret tomatpuré,150.0,g
+recipe 96,løg,4.5,stk
+recipe 96,olivenolie,998.5,ml
+recipe 96,rasp,499.0,g
+recipe 96,rosmarin,0.5,stk
+recipe 96,rødvin,749.5,ml
+recipe 96,soltørrede tomater i olie,67.5,g
+recipe 96,spaghetti,300.0,g
+recipe 96,stængler bladselleri,0.5,stk
+recipe 96,sødmælk,999.5,ml
+recipe 97,aubergine,0.5,stk
+recipe 97,bredbladet persille,179.5,g
+recipe 97,champignon,150.0,g
+recipe 97,frisk basilikum,0.5,stk
+recipe 97,grøntsagsbouillon,198.5,
+recipe 97,gulerod,6.0,stk
+recipe 97,hakkede tomater,0.5,stk
+recipe 97,hvedemel,1998.5,g
+recipe 97,hvidløg,8.5,fed
+recipe 97,koncentreret tomatpuré,197.0,g
+recipe 97,løg,4.0,stk
+recipe 97,mælk,998.5,ml
+recipe 97,olivenolie,998.5,ml
+recipe 97,piskefløde,25.75,ml
+recipe 97,røget paprika,0.5,stk
+recipe 97,smør,3.5,g
+recipe 97,squash,0.5,stk
+recipe 97,stængler bladselleri,0.5,stk
+recipe 98,grøntsagsbouillon,197.5,
+recipe 98,hakkede tomater,0.5,stk
+recipe 98,hvidløg,9.0,fed
+recipe 98,løg,5.0,stk
+recipe 98,olivenolie,999.0,ml
+recipe 98,parmesan,137.5,g
+recipe 98,piskefløde,26.5,ml
+recipe 98,rasp,485.0,g
+recipe 98,rosmarin,0.5,stk
+recipe 98,soltørrede tomater i olie,70.0,g
+recipe 99,aubergine,0.5,stk
+recipe 99,champignon,75.0,g
+recipe 99,grøntsagsbouillon,197.5,
+recipe 99,gulerod,6.0,stk
+recipe 99,hvedemel,1999.0,g
+recipe 99,hvidløg,9.0,fed
+recipe 99,koncentreret tomatpuré,199.5,g
+recipe 99,løg,4.5,stk
+recipe 99,mælk,998.5,ml
+recipe 99,olivenolie,998.5,ml
+recipe 99,parmesan,162.5,g
+recipe 99,piskefløde,25.75,ml
+recipe 99,rasp,485.0,g
+recipe 99,smør,4.0,g
+recipe 99,soltørrede tomater i olie,95.0,g
+recipe 99,squash,0.5,stk
+recipe 99,stængler bladselleri,0.5,stk
+recipe 100,grøntsagsbouillon,195.5,
+recipe 100,hakkede tomater,0.5,stk
+recipe 100,hvidløg,9.0,fed
+recipe 100,løg,5.0,stk
+recipe 100,olivenolie,999.0,ml
+recipe 100,parmesan,137.5,g
+recipe 100,piskefløde,26.5,ml
+recipe 100,rosmarin,0.5,stk
+recipe 100,soltørrede tomater i olie,70.0,g
+recipe 100,spinat,200.0,g
+recipe 100,squash,0.5,stk
+recipe 101,grøntsagsbouillon,197.5,
+recipe 101,hakkede tomater,0.5,stk
+recipe 101,hvidløg,9.0,fed
+recipe 101,løg,5.0,stk
+recipe 101,olivenolie,999.0,ml
+recipe 101,parmesan,137.5,g
+recipe 101,piskefløde,26.5,ml
+recipe 101,rasp,485.0,g
+recipe 101,rosmarin,0.5,stk
+recipe 101,soltørrede tomater i olie,70.0,g
+recipe 102,frisk basilikum,0.25,stk
+recipe 102,grøntsagsbouillon,199.0,
+recipe 102,hvedemel,1937.5,g
+recipe 102,hvidløg,9.5,fed
+recipe 102,løg,4.5,stk
+recipe 102,olivenolie,999.5,ml
+recipe 102,parmesan,125.0,g
+recipe 102,rosmarin,0.5,stk
+recipe 102,soltørrede tomater i olie,94.5,g
+recipe 102,spinat,50.0,g
+recipe 102,squash,0.5,stk
+recipe 102,timian,0.5,stk
+recipe 102,æg,9.0,stk
+recipe 103,bredbladet persille,179.0,g
+recipe 103,champignon,75.0,g
+recipe 103,grøntsagsbouillon,197.0,
+recipe 103,hvedemel,1998.5,g
+recipe 103,hvidløg,9.0,fed
+recipe 103,koncentreret tomatpuré,197.5,g
+recipe 103,løg,4.5,stk
+recipe 103,olivenolie,999.5,ml
+recipe 103,piskefløde,26.5,ml
+recipe 103,smør,4.5,g
+recipe 103,stødt koriander,0.5,stk
+recipe 103,stødt spidskommen,0.5,stk
+recipe 103,æg,9.5,stk
+recipe 104,basmati ris,498.5,g
+recipe 104,bredbladet persille,179.0,g
+recipe 104,grøntsagsbouillon,196.5,
+recipe 104,hakkede tomater,0.5,stk
+recipe 104,hvedemel,1999.0,g
+recipe 104,hvidløg,9.0,fed
+recipe 104,ingefær,199.5,g
+recipe 104,kikærter,399.5,g
+recipe 104,kokosmælk,200.0,ml
+recipe 104,løg,5.0,stk
+recipe 104,olivenolie,999.0,ml
+recipe 104,rød peberfrugt,2.5,stk
+recipe 104,røget paprika,0.5,stk
+recipe 104,squash,0.5,stk
+recipe 104,stødt spidskommen,0.5,stk
+recipe 104,æg,9.5,stk
+recipe 105,aubergine,0.5,stk
+recipe 105,champignon,100.0,g
+recipe 105,frisk basilikum,0.5,stk
+recipe 105,grøntsagsbouillon,199.0,
+recipe 105,gulerod,5.5,stk
+recipe 105,hakkede tomater,0.5,stk
+recipe 105,hvidløg,9.5,fed
+recipe 105,kartoffel,998.0,g
+recipe 105,koncentreret tomatpuré,115.0,g
+recipe 105,løg,4.5,stk
+recipe 105,olivenolie,998.5,ml
+recipe 105,porre,0.5,stk
+recipe 105,rasp,499.0,g
+recipe 105,rosmarin,0.5,stk
+recipe 105,røget paprika,0.5,stk
+recipe 105,soltørrede tomater i olie,105.0,g
+recipe 105,squash,0.5,stk
+recipe 105,sødmælk,999.5,ml
+recipe 105,timian,0.5,stk
+recipe 106,aubergine,0.5,stk
+recipe 106,avocado,34.5,stk
+recipe 106,cheddar ost,75.0,g
+recipe 106,grøntsagsbouillon,198.0,
+recipe 106,hvidløg,9.0,fed
+recipe 106,ingefær,199.5,g
+recipe 106,kanel,0.25,stk
+recipe 106,lime,4.5,stk
+recipe 106,løg,4.5,stk
+recipe 106,majs,275.0,g
+recipe 106,mørk chokolade,72.5,g
+recipe 106,olivenolie,998.0,ml
+recipe 106,rød chili,0.75,stk
+recipe 106,rød peberfrugt,2.5,stk
+recipe 106,rødløg,6.0,stk
+recipe 106,røget paprika,0.25,stk
+recipe 106,soltørrede tomater i olie,118.5,g
+recipe 106,stængler bladselleri,0.5,stk
+recipe 106,stødt koriander,0.25,stk
+recipe 106,stødt spidskommen,0.25,stk
+recipe 107,bredbladet persille,179.5,g
+recipe 107,cheddar ost,50.0,g
+recipe 107,frisk koriander,0.5,stk
+recipe 107,grøntsagsbouillon,197.5,
+recipe 107,hakkede tomater,0.5,stk
+recipe 107,hvedemel,1998.5,g
+recipe 107,hvidløg,10.0,fed
+recipe 107,kanel,0.5,stk
+recipe 107,løg,5.0,stk
+recipe 107,majs,250.0,g
+recipe 107,olivenolie,999.5,ml
+recipe 107,smør,4.5,g
+recipe 107,squash,0.5,stk
+recipe 107,tortillas pandekager,2.0,stk
+recipe 107,æg,9.5,stk
+recipe 108,aubergine,0.5,stk
+recipe 108,champignon,75.0,g
+recipe 108,grøntsagsbouillon,199.0,
+recipe 108,gulerod,4.5,stk
+recipe 108,hakkede tomater,0.5,stk
+recipe 108,hvedemel,1999.0,g
+recipe 108,hvidløg,9.5,fed
+recipe 108,kartoffel,998.5,g
+recipe 108,koncentreret tomatpuré,164.5,g
+recipe 108,løg,4.5,stk
+recipe 108,mælk,998.5,ml
+recipe 108,olivenolie,998.5,ml
+recipe 108,piskefløde,26.25,ml
+recipe 108,porre,0.5,stk
+recipe 108,smør,4.0,g
+recipe 108,squash,0.5,stk
+recipe 108,stængler bladselleri,0.5,stk
+recipe 109,avocado,34.5,stk
+recipe 109,blomkål,0.75,stk
+recipe 109,frisk koriander,0.5,stk
+recipe 109,grøntsagsbouillon,197.5,
+recipe 109,hvidløg,8.0,fed
+recipe 109,ingefær,199.5,g
+recipe 109,kanel,0.75,stk
+recipe 109,kartoffel,998.5,g
+recipe 109,kikærter,399.5,g
+recipe 109,kokosmælk,200.0,ml
+recipe 109,løg,3.5,stk
+recipe 109,majs,275.0,g
+recipe 109,mørk chokolade,87.5,g
+recipe 109,olivenolie,998.5,ml
+recipe 109,rød peberfrugt,2.5,stk
+recipe 109,røget paprika,0.75,stk
+recipe 109,stængler bladselleri,0.5,stk
+recipe 109,stødt koriander,0.5,stk
+recipe 110,aubergine,0.5,stk
+recipe 110,frisk basilikum,0.5,stk
+recipe 110,hvedemel,1949.0,g
+recipe 110,hvidløg,10.5,fed
+recipe 110,løg,5.5,stk
+recipe 110,mælk,998.5,ml
+recipe 110,olivenolie,999.5,ml
+recipe 110,parmesan,50.0,g
+recipe 110,rasp,498.25,g
+recipe 110,smør,4.5,g
+recipe 110,æg,6.5,stk
+recipe 111,frisk basilikum,0.25,stk
+recipe 111,grøntsagsbouillon,199.5,
+recipe 111,hvedemel,1937.5,g
+recipe 111,hvidløg,9.0,fed
+recipe 111,løg,4.5,stk
+recipe 111,olivenolie,999.5,ml
+recipe 111,parmesan,125.0,g
+recipe 111,pasta,50.0,g
+recipe 111,piskefløde,26.75,ml
+recipe 111,soltørrede tomater i olie,119.5,g
+recipe 111,spinat,50.0,g
+recipe 111,timian,0.5,stk
+recipe 111,æg,9.0,stk
+recipe 112,champignon,75.0,g
+recipe 112,grøntsagsbouillon,199.5,
+recipe 112,hasselnødder,148.0,g
+recipe 112,hvidløg,9.5,fed
+recipe 112,løg,5.0,stk
+recipe 112,olivenolie,999.0,ml
+recipe 112,parmesan,150.0,g
+recipe 112,pasta,50.0,g
+recipe 112,piskefløde,26.75,ml
+recipe 112,smør,4.5,g
+recipe 112,squash,0.5,stk
+recipe 112,æg,7.5,stk
+recipe 113,frisk mynte,0.5,stk
+recipe 113,grøntsagsbouillon,199.5,
+recipe 113,hvidløg,9.0,fed
+recipe 113,hvidvin,749.5,ml
+recipe 113,løg,5.0,stk
+recipe 113,olivenolie,999.0,ml
+recipe 113,parmesan,150.0,g
+recipe 113,pasta,50.0,g
+recipe 113,piskefløde,26.75,ml
+recipe 113,smør,4.5,g
+recipe 113,squash,0.5,stk
+recipe 114,blomkål,0.5,stk
+recipe 114,gulerod,6.0,stk
+recipe 114,hvedemel,1999.0,g
+recipe 114,kartoffel,998.0,g
+recipe 114,mælk,998.5,ml
+recipe 114,parmesan,150.0,g
+recipe 114,rasp,498.75,g
+recipe 114,smør,4.5,g
+recipe 114,spinat,150.0,g
+recipe 114,æg,6.5,stk
+recipe 115,hvidløg,9.0,fed
+recipe 115,løg,4.5,stk
+recipe 115,olivenolie,999.0,ml
+recipe 115,parmesan,150.0,g
+recipe 115,pasta,50.0,g
+recipe 115,pinjekerner,48.5,g
+recipe 115,piskefløde,26.75,ml
+recipe 115,smør,4.5,g
+recipe 115,spinat,150.0,g
+recipe 115,squash,0.5,stk
+recipe 115,sukker,999.5,g
+recipe 115,æblecidereddike,749.5,ml
+recipe 115,æg,9.0,stk
+recipe 116,aubergine,0.5,stk
+recipe 116,frisk basilikum,0.5,stk
+recipe 116,frisk timian,0.75,stk
+recipe 116,fuldkornshvedemel,975.0,g
+recipe 116,hakkede tomater,0.5,stk
+recipe 116,hvedemel,1937.5,g
+recipe 116,hvidløg,9.0,fed
+recipe 116,koncentreret tomatpuré,150.0,g
+recipe 116,løg,5.0,stk
+recipe 116,olivenolie,999.0,ml
+recipe 116,parmesan,140.0,g
+recipe 116,pasta,50.0,g
+recipe 116,piskefløde,26.75,ml
+recipe 116,rød peberfrugt,2.5,stk
+recipe 116,tomat,9.0,stk
+recipe 117,blomkål,0.75,stk
+recipe 117,bredbladet persille,179.5,g
+recipe 117,citron,5.75,stk
+recipe 117,frisk mynte,0.5,stk
+recipe 117,grøntsagsbouillon,198.5,
+recipe 117,hvidløg,8.5,fed
+recipe 117,ingefær,199.5,g
+recipe 117,kartoffel,998.5,g
+recipe 117,kikærter,399.0,g
+recipe 117,kokosmælk,200.0,ml
+recipe 117,koncentreret tomatpuré,175.0,g
+recipe 117,løg,4.0,stk
+recipe 117,olivenolie,998.0,ml
+recipe 117,rød chili,0.75,stk
+recipe 117,røget paprika,0.5,stk
+recipe 117,safran,0.5,stk
+recipe 117,squash,0.5,stk
+recipe 117,stødt spidskommen,0.5,stk
+recipe 118,basmati ris,497.0,g
+recipe 118,hakkede tomater,0.5,stk
+recipe 118,hvidløg,8.0,fed
+recipe 118,ingefær,198.5,g
+recipe 118,kartoffel,750.0,g
+recipe 118,kikærter,399.5,g
+recipe 118,kokosmælk,200.0,ml
+recipe 118,koncentreret tomatpuré,162.5,g
+recipe 118,lime,4.5,stk
+recipe 118,løg,4.5,stk
+recipe 118,mandler,112.5,g
+recipe 118,olivenolie,999.0,ml
+recipe 118,stødt koriander,0.5,stk
+recipe 119,basmati ris,498.5,g
+recipe 119,bredbladet persille,179.5,g
+recipe 119,citron,5.75,stk
+recipe 119,frisk basilikum,0.5,stk
+recipe 119,grøntsagsbouillon,198.0,
+recipe 119,gulerod,2.5,stk
+recipe 119,hvidløg,9.0,fed
+recipe 119,løg,5.0,stk
+recipe 119,olivenolie,999.0,ml
+recipe 119,parmesan,175.0,g
+recipe 119,pasta,50.0,g
+recipe 119,piskefløde,26.5,ml
+recipe 119,saltede peanuts,175.0,g
+recipe 119,squash,0.5,stk
+recipe 119,stødt koriander,0.5,stk
+recipe 119,stødt spidskommen,0.5,stk
+recipe 119,æble,8.5,stk
+recipe 120,frisk basilikum,0.5,stk
+recipe 120,gær,32.5,g
+recipe 120,hakkede tomater,0.75,stk
+recipe 120,hvedemel,1525.0,g
+recipe 120,hvidløg,10.5,fed
+recipe 120,kartoffel,998.5,g
+recipe 120,koncentreret tomatpuré,185.0,g
+recipe 120,olivenolie,997.0,ml
+recipe 120,rødløg,6.5,stk
+recipe 121,hvidløg,9.0,fed
+recipe 121,løg,5.5,stk
+recipe 121,olivenolie,998.0,ml
+recipe 121,parmesan,150.0,g
+recipe 121,pasta,100.0,g
+recipe 121,piskefløde,26.75,ml
+recipe 121,rød chili,0.75,stk
+recipe 121,squash,0.5,stk
+recipe 121,sukker,999.5,g
+recipe 122,aubergine,0.5,stk
+recipe 122,hvedemel,1950.0,g
+recipe 122,hvidløg,8.5,fed
+recipe 122,løg,5.0,stk
+recipe 122,olivenolie,999.0,ml
+recipe 122,parmesan,50.0,g
+recipe 122,pasta,50.0,g
+recipe 122,piskefløde,26.75,ml
+recipe 122,rasp,498.5,g
+recipe 122,smør,4.5,g
+recipe 122,squash,0.5,stk
+recipe 122,æg,8.5,stk
+recipe 123,champignon,175.0,g
+recipe 123,frisk basilikum,0.5,stk
+recipe 123,grøntsagsbouillon,199.0,
+recipe 123,gulerod,5.0,stk
+recipe 123,hvedemel,1999.0,g
+recipe 123,hvidløg,9.0,fed
+recipe 123,kartoffel,999.5,g
+recipe 123,koncentreret tomatpuré,149.5,g
+recipe 123,løg,4.0,stk
+recipe 123,mælk,998.5,ml
+recipe 123,olivenolie,998.0,ml
+recipe 123,piskefløde,26.25,ml
+recipe 123,rasp,499.0,g
+recipe 123,rosmarin,0.5,stk
+recipe 123,røget paprika,0.5,stk
+recipe 123,smør,4.0,g
+recipe 123,soltørrede tomater i olie,105.0,g
+recipe 123,stængler bladselleri,0.5,stk
+recipe 123,sødmælk,999.5,ml
+recipe 123,timian,0.5,stk
+recipe 124,feta,100.0,g
+recipe 124,gær,40.0,g
+recipe 124,hakkede tomater,0.75,stk
+recipe 124,hvedemel,1525.0,g
+recipe 124,hvidløg,9.5,fed
+recipe 124,kartoffel,999.0,g
+recipe 124,koncentreret tomatpuré,185.0,g
+recipe 124,olivenolie,997.0,ml
+recipe 124,rødløg,6.5,stk
+recipe 124,soltørrede tomater i olie,95.0,g
+recipe 125,champignon,150.0,g
+recipe 125,feta,112.5,g
+recipe 125,frisk basilikum,0.75,stk
+recipe 125,frisk timian,0.5,stk
+recipe 125,grøntsagsbouillon,197.5,
+recipe 125,hvedemel,1937.5,g
+recipe 125,hvidløg,10.0,fed
+recipe 125,koncentreret tomatpuré,197.5,g
+recipe 125,løg,4.0,stk
+recipe 125,parmesan,112.5,g
+recipe 125,persille,179.5,g
+recipe 125,rødløg,6.5,stk
+recipe 125,smør,4.5,g
+recipe 125,soltørrede tomater i olie,119.0,g
+recipe 125,spaghetti,325.0,g
+recipe 125,spinat,50.0,g
+recipe 125,squash,0.5,stk
+recipe 125,æblecidereddike,748.0,ml
+recipe 125,æg,8.0,stk
+recipe 126,aubergine,0.5,stk
+recipe 126,champignon,75.0,g
+recipe 126,frisk basilikum,0.25,stk
+recipe 126,grøntsagsbouillon,199.0,
+recipe 126,gulerod,6.0,stk
+recipe 126,hakkede tomater,0.5,stk
+recipe 126,hvedemel,1936.5,g
+recipe 126,hvidløg,9.5,fed
+recipe 126,koncentreret tomatpuré,199.5,g
+recipe 126,løg,4.0,stk
+recipe 126,mælk,998.5,ml
+recipe 126,olivenolie,999.0,ml
+recipe 126,parmesan,150.0,g
+recipe 126,piskefløde,26.25,ml
+recipe 126,smør,4.0,g
+recipe 126,soltørrede tomater i olie,119.5,g
+recipe 126,spinat,50.0,g
+recipe 126,stængler bladselleri,0.5,stk
+recipe 126,timian,0.5,stk
+recipe 126,æg,9.0,stk
+recipe 127,bredbladet persille,179.0,g
+recipe 127,feta,100.0,g
+recipe 127,frisk basilikum,0.5,stk
+recipe 127,fuldkornshvedemel,937.5,g
+recipe 127,gær,32.5,g
+recipe 127,hvedemel,1587.5,g
+recipe 127,hvidløg,10.5,fed
+recipe 127,kartoffel,899.0,g
+recipe 127,olivenolie,997.0,ml
+recipe 127,rødløg,6.5,stk
+recipe 127,soltørrede tomater i olie,95.0,g
+recipe 128,broccoli,399.5,g
+recipe 128,græskarkerner,249.0,g
+recipe 128,grønkål,175.0,g
+recipe 128,grøntsagsbouillon,198.9,
+recipe 128,honning,399.5,g
+recipe 128,hvidløg,9.5,fed
+recipe 128,kartoffel,598.0,g
+recipe 128,løg,4.0,stk
+recipe 128,olivenolie,999.0,ml
+recipe 128,piskefløde,26.0,ml
+recipe 128,timian,0.5,stk
+recipe 128,æble,8.0,stk
+recipe 128,æblecidereddike,749.5,ml
+recipe 129,avocado,34.0,stk
+recipe 129,bredbladet persille,179.5,g
+recipe 129,cheddar ost,75.0,g
+recipe 129,cherrytomater,245.0,g
+recipe 129,frisk koriander,0.5,stk
+recipe 129,grøntsagsbouillon,194.5,
+recipe 129,hakkede tomater,0.5,stk
+recipe 129,hvidløg,8.0,fed
+recipe 129,kikærter,399.0,g
+recipe 129,kyllingebryst,125.0,g
+recipe 129,løg,4.0,stk
+recipe 129,olivenolie,998.5,ml
+recipe 129,piskefløde,26.5,ml
+recipe 129,rød chili,0.5,stk
+recipe 129,rød peberfrugt,1.0,stk
+recipe 129,røget paprika,0.25,stk
+recipe 129,squash,0.5,stk
+recipe 129,stødt koriander,0.5,stk
+recipe 130,baby spinat,50.0,g
+recipe 130,broccoli,324.5,g
+recipe 130,forårsløg,2.0,stk
+recipe 130,hvidløg,9.5,fed
+recipe 130,ingefær,199.0,g
+recipe 130,lime,3.5,stk
+recipe 130,løg,5.5,stk
+recipe 130,olivenolie,998.5,ml
+recipe 130,rød chili,0.5,stk
+recipe 130,sesamfrø,248.5,g
+recipe 130,sesamolie,499.75,ml
+recipe 130,soja,248.5,ml
+recipe 130,spidskål,0.5,stk
+recipe 130,squash,0.5,stk
+recipe 130,sukker,999.0,g
+recipe 130,æblecidereddike,749.0,ml
+recipe 130,æg,8.0,stk
+recipe 131,bredbladet persille,179.0,g
+recipe 131,feta,100.0,g
+recipe 131,frisk basilikum,0.5,stk
+recipe 131,fuldkornshvedemel,937.5,g
+recipe 131,gær,32.5,g
+recipe 131,hvedemel,1587.5,g
+recipe 131,hvidløg,10.5,fed
+recipe 131,kartoffel,899.0,g
+recipe 131,olivenolie,997.0,ml
+recipe 131,rødløg,6.5,stk
+recipe 131,soltørrede tomater i olie,95.0,g
+recipe 132,broccoli,399.5,g
+recipe 132,frisk timian,0.5,stk
+recipe 132,græskarkerner,249.5,g
+recipe 132,grøntsagsbouillon,199.0,
+recipe 132,gulerod,6.5,stk
+recipe 132,honning,399.5,g
+recipe 132,hvidløg,10.0,fed
+recipe 132,kartoffel,996.5,g
+recipe 132,koncentreret tomatpuré,150.0,g
+recipe 132,løg,4.0,stk
+recipe 132,olivenolie,998.5,ml
+recipe 132,piskefløde,26.25,ml
+recipe 132,porre,0.5,stk
+recipe 132,stødt spidskommen,0.5,stk
+recipe 132,æble,8.5,stk
+recipe 132,æblecidereddike,749.5,ml
+recipe 133,feta,100.0,g
+recipe 133,gær,40.0,g
+recipe 133,hakkede tomater,0.75,stk
+recipe 133,hvedemel,1525.0,g
+recipe 133,hvidløg,9.5,fed
+recipe 133,kartoffel,999.0,g
+recipe 133,koncentreret tomatpuré,185.0,g
+recipe 133,olivenolie,997.0,ml
+recipe 133,rødløg,6.5,stk
+recipe 133,soltørrede tomater i olie,95.0,g
+recipe 134,frisk basilikum,0.25,stk
+recipe 134,grøntsagsbouillon,195.5,
+recipe 134,hakkede tomater,0.5,stk
+recipe 134,hvedemel,1937.5,g
+recipe 134,hvidløg,9.5,fed
+recipe 134,løg,4.5,stk
+recipe 134,olivenolie,999.5,ml
+recipe 134,parmesan,112.5,g
+recipe 134,piskefløde,26.5,ml
+recipe 134,soltørrede tomater i olie,94.5,g
+recipe 134,timian,0.5,stk
+recipe 134,æg,9.0,stk
+recipe 135,grøntsagsbouillon,197.5,
+recipe 135,hakkede tomater,0.5,stk
+recipe 135,hvidløg,9.5,fed
+recipe 135,løg,5.0,stk
+recipe 135,olivenolie,999.0,ml
+recipe 135,parmesan,147.5,g
+recipe 135,piskefløde,26.0,ml
+recipe 135,rasp,485.0,g
+recipe 135,soltørrede tomater i olie,95.0,g
+recipe 135,spaghetti,300.0,g
+recipe 135,spinat,187.5,g
+recipe 136,aubergine,0.5,stk
+recipe 136,champignon,75.0,g
+recipe 136,grøntsagsbouillon,199.0,
+recipe 136,gulerod,6.0,stk
+recipe 136,hakkede tomater,0.5,stk
+recipe 136,hvedemel,1999.0,g
+recipe 136,hvidløg,9.5,fed
+recipe 136,koncentreret tomatpuré,199.5,g
+recipe 136,løg,4.5,stk
+recipe 136,mælk,998.5,ml
+recipe 136,olivenolie,998.5,ml
+recipe 136,parmesan,185.0,g
+recipe 136,piskefløde,25.75,ml
+recipe 136,smør,4.0,g
+recipe 136,spaghetti,300.0,g
+recipe 136,spinat,187.5,g
+recipe 136,squash,0.5,stk
+recipe 136,stængler bladselleri,0.5,stk
+recipe 137,basmati ris,498.5,g
+recipe 137,broccoli,299.5,g
+recipe 137,brun farin,499.5,g
+recipe 137,fishsauce,199.0,ml
+recipe 137,gulerod,5.5,stk
+recipe 137,hvidløg,9.0,fed
+recipe 137,ingefær,189.5,g
+recipe 137,kartoffel,999.0,g
+recipe 137,kikærter,399.5,g
+recipe 137,kokosmælk,200.0,ml
+recipe 137,løg,4.0,stk
+recipe 137,olivenolie,998.5,ml
+recipe 137,peanutbutter,349.0,g
+recipe 137,rød peberfrugt,2.0,stk
+recipe 137,saltede peanuts,199.0,g
+recipe 137,soja,249.5,ml
+recipe 137,squash,0.5,stk
+recipe 137,sukker,999.5,g
+recipe 138,aubergine,0.5,stk
+recipe 138,grøntsagsbouillon,199.0,
+recipe 138,hvedemel,1999.5,g
+recipe 138,hvidløg,10.0,fed
+recipe 138,lime,4.5,stk
+recipe 138,løg,5.5,stk
+recipe 138,majs,250.0,g
+recipe 138,mørk chokolade,85.0,g
+recipe 138,olivenolie,998.0,ml
+recipe 138,rød chili,0.75,stk
+recipe 138,rødløg,6.0,stk
+recipe 138,smør,4.5,g
+recipe 138,soltørrede tomater i olie,118.5,g
+recipe 138,stødt koriander,0.75,stk
+recipe 138,stødt spidskommen,0.75,stk
+recipe 138,tortillas pandekager,2.0,stk
+recipe 139,basmati ris,498.5,g
+recipe 139,broccoli,299.5,g
+recipe 139,brun farin,499.5,g
+recipe 139,fishsauce,199.0,ml
+recipe 139,gulerod,5.5,stk
+recipe 139,hvidløg,9.0,fed
+recipe 139,ingefær,189.5,g
+recipe 139,kartoffel,999.0,g
+recipe 139,kikærter,399.5,g
+recipe 139,kokosmælk,200.0,ml
+recipe 139,løg,4.0,stk
+recipe 139,olivenolie,998.5,ml
+recipe 139,peanutbutter,349.0,g
+recipe 139,rød peberfrugt,2.0,stk
+recipe 139,saltede peanuts,199.0,g
+recipe 139,soja,249.5,ml
+recipe 139,squash,0.5,stk
+recipe 139,sukker,999.5,g
+recipe 140,broccoli,399.0,g
+recipe 140,forårsløg,2.0,stk
+recipe 140,gulerod,6.5,stk
+recipe 140,hvidløg,9.0,fed
+recipe 140,ingefær,189.5,g
+recipe 140,kokosmælk,200.0,ml
+recipe 140,lime,3.5,stk
+recipe 140,løg,5.5,stk
+recipe 140,nudler,150.0,g
+recipe 140,olivenolie,998.0,ml
+recipe 140,peanutbutter,349.0,g
+recipe 140,pillede edamamebønner,150.0,g
+recipe 140,rød chili,0.5,stk
+recipe 140,sesamfrø,240.0,g
+recipe 140,soja,248.5,ml
+recipe 140,spidskål,0.5,stk
+recipe 140,spinat,150.0,g
+recipe 140,squash,0.5,stk
+recipe 140,sukker,999.0,g
+recipe 140,æblecidereddike,749.0,ml
+recipe 140,æg,6.0,stk
+recipe 141,broccoli,399.0,g
+recipe 141,gulerod,5.5,stk
+recipe 141,hvidløg,9.5,fed
+recipe 141,ingefær,190.0,g
+recipe 141,kokosmælk,200.0,ml
+recipe 141,lime,4.0,stk
+recipe 141,nudler,175.0,g
+recipe 141,olivenolie,997.5,ml
+recipe 141,peanutbutter,349.0,g
+recipe 141,pillede edamamebønner,150.0,g
+recipe 141,sesamfrø,230.0,g
+recipe 141,sesamolie,499.0,ml
+recipe 141,soja,249.0,ml
+recipe 141,spinat,150.0,g
+recipe 141,sriracha chilisauce,449.5,ml
+recipe 141,æg,6.0,stk
+recipe 142,champignon,150.0,g
+recipe 142,frisk basilikum,0.5,stk
+recipe 142,grøntsagsbouillon,199.5,
+recipe 142,gulerod,6.0,stk
+recipe 142,hakkede tomater,0.5,stk
+recipe 142,hvedemel,1998.5,g
+recipe 142,hvidløg,9.5,fed
+recipe 142,kanel,0.5,stk
+recipe 142,kartoffel,998.0,g
+recipe 142,koncentreret tomatpuré,199.5,g
+recipe 142,løg,4.0,stk
+recipe 142,mælk,997.0,ml
+recipe 142,olivenolie,998.0,ml
+recipe 142,piskefløde,26.25,ml
+recipe 142,smør,3.5,g
+recipe 142,soltørrede tomater i olie,118.5,g
+recipe 142,stængler bladselleri,0.5,stk
+recipe 142,stødt spidskommen,0.5,stk
+recipe 143,avocado,34.0,stk
+recipe 143,grøntsagsbouillon,199.5,
+recipe 143,hakkede tomater,0.5,stk
+recipe 143,hvedemel,1999.5,g
+recipe 143,hvidløg,10.0,fed
+recipe 143,kanel,0.5,stk
+recipe 143,lime,4.0,stk
+recipe 143,løg,4.5,stk
+recipe 143,majs,250.0,g
+recipe 143,olivenolie,998.5,ml
+recipe 143,rød chili,0.5,stk
+recipe 143,rød peberfrugt,2.5,stk
+recipe 143,smør,4.5,g
+recipe 143,squash,0.25,stk
+recipe 143,stødt spidskommen,0.5,stk
+recipe 143,tortillas pandekager,4.0,stk
+recipe 143,æg,8.0,stk
+recipe 144,avocado,34.0,stk
+recipe 144,grøntsagsbouillon,199.5,
+recipe 144,hakkede tomater,0.5,stk
+recipe 144,hvedemel,1999.5,g
+recipe 144,hvidløg,10.0,fed
+recipe 144,kanel,0.5,stk
+recipe 144,lime,4.0,stk
+recipe 144,løg,4.5,stk
+recipe 144,majs,250.0,g
+recipe 144,olivenolie,998.5,ml
+recipe 144,rød chili,0.5,stk
+recipe 144,rød peberfrugt,2.5,stk
+recipe 144,smør,4.5,g
+recipe 144,squash,0.25,stk
+recipe 144,stødt spidskommen,0.5,stk
+recipe 144,tortillas pandekager,4.0,stk
+recipe 144,æg,8.0,stk
+recipe 145,avocado,33.5,stk
+recipe 145,cheddar ost,75.0,g
+recipe 145,grøntsagsbouillon,198.5,
+recipe 145,hakkede tomater,0.5,stk
+recipe 145,hvidløg,9.0,fed
+recipe 145,ingefær,199.5,g
+recipe 145,kanel,0.75,stk
+recipe 145,lime,4.0,stk
+recipe 145,løg,3.5,stk
+recipe 145,majs,275.0,g
+recipe 145,mørk chokolade,87.5,g
+recipe 145,olivenolie,998.5,ml
+recipe 145,rød chili,0.5,stk
+recipe 145,rød peberfrugt,2.0,stk
+recipe 145,røget paprika,0.25,stk
+recipe 145,squash,0.25,stk
+recipe 145,stængler bladselleri,0.5,stk
+recipe 145,stødt koriander,0.5,stk
+recipe 145,tortillas pandekager,2.0,stk
+recipe 145,æg,8.0,stk
+recipe 146,agurk,0.75,stk
+recipe 146,avocado,33.0,stk
+recipe 146,cheddar ost,37.5,g
+recipe 146,cherrytomater,237.5,g
+recipe 146,grøntsagsbouillon,197.0,
+recipe 146,hakkede tomater,0.5,stk
+recipe 146,hvidløg,9.5,fed
+recipe 146,kikærter,399.5,g
+recipe 146,kyllingebryst,125.0,g
+recipe 146,lime,4.5,stk
+recipe 146,løg,4.5,stk
+recipe 146,majs,325.0,g
+recipe 146,olivenolie,999.0,ml
+recipe 146,rød chili,0.5,stk
+recipe 146,rød peberfrugt,2.5,stk
+recipe 146,rødløg,6.5,stk
+recipe 146,røget paprika,0.5,stk
+recipe 146,squash,0.5,stk
+recipe 146,stødt spidskommen,0.5,stk
+recipe 147,broccoli,399.25,g
+recipe 147,cashewnødder,80.0,g
+recipe 147,fishsauce,199.5,ml
+recipe 147,gulerod,5.0,stk
+recipe 147,hvidløg,9.0,fed
+recipe 147,ingefær,180.0,g
+recipe 147,lime,4.0,stk
+recipe 147,nudler,100.0,g
+recipe 147,olivenolie,999.0,ml
+recipe 147,peanutbutter,349.0,g
+recipe 147,sesamfrø,240.0,g
+recipe 147,soja,249.5,ml
+recipe 147,spinat,50.0,g
+recipe 147,æg,8.0,stk
+recipe 148,agurk,0.75,stk
+recipe 148,avocado,33.5,stk
+recipe 148,basmati ris,350.0,g
+recipe 148,cheddar ost,25.0,g
+recipe 148,cherrytomater,180.0,g
+recipe 148,grøntsagsbouillon,196.5,
+recipe 148,gulerod,7.0,stk
+recipe 148,hakkede tomater,0.5,stk
+recipe 148,hvidløg,9.0,fed
+recipe 148,kanel,0.75,stk
+recipe 148,lime,4.0,stk
+recipe 148,løg,4.5,stk
+recipe 148,majs,325.0,g
+recipe 148,olivenolie,998.0,ml
+recipe 148,rød chili,0.75,stk
+recipe 148,rød peberfrugt,2.0,stk
+recipe 148,rødløg,6.5,stk
+recipe 148,squash,0.5,stk
+recipe 148,sriracha chilisauce,449.5,ml
+recipe 148,stødt koriander,0.5,stk
+recipe 148,stødt spidskommen,0.5,stk
+recipe 149,aubergine,0.5,stk
+recipe 149,avocado,34.5,stk
+recipe 149,cheddar ost,75.0,g
+recipe 149,grøntsagsbouillon,198.0,
+recipe 149,hvidløg,9.0,fed
+recipe 149,ingefær,199.5,g
+recipe 149,kanel,0.25,stk
+recipe 149,lime,4.5,stk
+recipe 149,løg,4.5,stk
+recipe 149,majs,275.0,g
+recipe 149,mørk chokolade,72.5,g
+recipe 149,olivenolie,998.0,ml
+recipe 149,rød chili,0.75,stk
+recipe 149,rød peberfrugt,2.5,stk
+recipe 149,rødløg,6.0,stk
+recipe 149,røget paprika,0.25,stk
+recipe 149,soltørrede tomater i olie,118.5,g
+recipe 149,stængler bladselleri,0.5,stk
+recipe 149,stødt koriander,0.25,stk
+recipe 149,stødt spidskommen,0.25,stk
+recipe 150,agurk,0.75,stk
+recipe 150,avocado,34.5,stk
+recipe 150,baby spinat,50.0,g
+recipe 150,basmati ris,497.0,g
+recipe 150,bredbladet persille,179.5,g
+recipe 150,fishsauce,199.5,ml
+recipe 150,frisk koriander,0.5,stk
+recipe 150,gulerod,4.5,stk
+recipe 150,hvidløg,10.0,fed
+recipe 150,ingefær,194.5,g
+recipe 150,løg,5.5,stk
+recipe 150,mayonnaise,297.5,g
+recipe 150,olivenolie,999.0,ml
+recipe 150,sesamfrø,230.0,g
+recipe 150,soja,249.5,ml
+recipe 150,spinat,50.0,g
+recipe 150,sriracha chilisauce,449.5,ml
+recipe 150,sukker,970.0,g
+recipe 150,æblecidereddike,749.0,ml
+recipe 150,æg,8.0,stk
+recipe 151,avocado,33.0,stk
+recipe 151,cheddar ost,25.0,g
+recipe 151,cherrytomater,245.0,g
+recipe 151,grøntsagsbouillon,197.5,
+recipe 151,hakkede tomater,0.5,stk
+recipe 151,hvidløg,9.5,fed
+recipe 151,kikærter,399.5,g
+recipe 151,kyllingebryst,125.0,g
+recipe 151,lime,4.0,stk
+recipe 151,løg,4.0,stk
+recipe 151,olivenolie,998.5,ml
+recipe 151,rød peberfrugt,2.0,stk
+recipe 151,squash,0.25,stk
+recipe 151,tortillas pandekager,2.0,stk
+recipe 151,æg,8.0,stk
+recipe 152,agurk,0.75,stk
+recipe 152,cayenne peber,0.5,stk
+recipe 152,hvidløg,10.5,fed
+recipe 152,ingefær,199.5,g
+recipe 152,kartoffel,850.0,g
+recipe 152,lime,4.0,stk
+recipe 152,løg,5.5,stk
+recipe 152,olivenolie,998.5,ml
+recipe 152,stødt koriander,0.5,stk
+recipe 152,stødt spidskommen,0.75,stk
+recipe 153,babykartofler,825.0,g
+recipe 153,blåbær,124.5,g
+recipe 153,dijon sennep,378.5,g
+recipe 153,grønne asparges,150.0,g
+recipe 153,honning,398.5,g
+recipe 153,mayonnaise,349.0,g
+recipe 153,olivenolie,998.0,ml
+recipe 153,purløg,179.5,g
+recipe 153,rødløg,6.5,stk
+recipe 153,smør,4.0,g
+recipe 153,valnødder,115.0,g
+recipe 153,æblecidereddike,748.5,ml
+recipe 153,æg,8.0,stk
+recipe 154,basmati ris,498.5,g
+recipe 154,blomkål,0.25,stk
+recipe 154,frisk koriander,0.5,stk
+recipe 154,grøntsagsbouillon,199.0,
+recipe 154,hvidløg,8.0,fed
+recipe 154,ingefær,199.0,g
+recipe 154,kartoffel,748.5,g
+recipe 154,kikærter,399.5,g
+recipe 154,kokosmælk,200.0,ml
+recipe 154,løg,4.5,stk
+recipe 154,olivenolie,998.5,ml
+recipe 154,squash,0.5,stk
+recipe 155,bredbladet persille,179.75,g
+recipe 155,hvidløg,9.0,fed
+recipe 155,mælk,999.0,ml
+recipe 155,olivenolie,999.0,ml
+recipe 155,parmesan,125.0,g
+recipe 155,spaghetti,300.0,g
+recipe 155,tomat,5.0,stk
+recipe 156,frisk basilikum,0.5,stk
+recipe 156,hvidløg,9.5,fed
+recipe 156,olivenolie,998.5,ml
+recipe 156,parmesan,125.0,g
+recipe 156,pasta,50.0,g
+recipe 156,rød chili,0.75,stk
+recipe 156,spaghetti,300.0,g
+recipe 156,sukker,999.5,g
+recipe 157,agurk,0.5,stk
+recipe 157,chili,0.75,stk
+recipe 157,citron,5.75,stk
+recipe 157,frisk mynte,0.5,stk
+recipe 157,hvidløg,10.0,fed
+recipe 157,kartoffel,999.0,g
+recipe 157,løg,5.0,stk
+recipe 157,rasp,498.0,g
+recipe 157,stødt spidskommen,0.75,stk
+recipe 157,tomat,9.0,stk
+recipe 157,æg,8.5,stk
+recipe 158,aubergine,0.5,stk
+recipe 158,champignon,75.0,g
+recipe 158,frisk basilikum,0.5,stk
+recipe 158,grøntsagsbouillon,199.0,
+recipe 158,gulerod,6.0,stk
+recipe 158,hakkede tomater,0.5,stk
+recipe 158,hvedemel,1999.0,g
+recipe 158,hvidløg,7.5,fed
+recipe 158,koncentreret tomatpuré,199.5,g
+recipe 158,løg,3.0,stk
+recipe 158,mælk,998.5,ml
+recipe 158,olivenolie,998.5,ml
+recipe 158,piskefløde,26.25,ml
+recipe 158,rød chili,0.5,stk
+recipe 158,smør,4.0,g
+recipe 158,squash,0.5,stk
+recipe 158,stængler bladselleri,0.5,stk
+recipe 158,sukker,999.5,g
+recipe 159,basmati ris,498.5,g
+recipe 159,broccoli,399.25,g
+recipe 159,brun farin,499.5,g
+recipe 159,cashewnødder,80.0,g
+recipe 159,fishsauce,198.5,ml
+recipe 159,gulerod,5.5,stk
+recipe 159,hvidløg,9.5,fed
+recipe 159,ingefær,189.5,g
+recipe 159,kartoffel,999.0,g
+recipe 159,kokosmælk,200.0,ml
+recipe 159,lime,4.5,stk
+recipe 159,løg,5.0,stk
+recipe 159,nudler,50.0,g
+recipe 159,olivenolie,998.5,ml
+recipe 159,pillede edamamebønner,150.0,g
+recipe 159,saltede peanuts,199.5,g
+recipe 159,spinat,150.0,g
+recipe 159,squash,0.5,stk
+recipe 160,agurk,0.75,stk
+recipe 160,basmati ris,498.5,g
+recipe 160,frisk mynte,0.5,stk
+recipe 160,grøntsagsbouillon,196.5,
+recipe 160,hvidløg,7.5,fed
+recipe 160,ingefær,198.5,g
+recipe 160,løg,5.0,stk
+recipe 160,olivenolie,997.5,ml
+recipe 160,rød chili,0.75,stk
+recipe 160,stødt koriander,0.75,stk
+recipe 160,stødt spidskommen,0.5,stk
+recipe 160,sukker,999.0,g
+recipe 161,frisk basilikum,0.5,stk
+recipe 161,grøntsagsbouillon,195.5,
+recipe 161,hakkede tomater,0.5,stk
+recipe 161,hvidløg,7.5,fed
+recipe 161,løg,3.5,stk
+recipe 161,olivenolie,999.0,ml
+recipe 161,parmesan,162.5,g
+recipe 161,piskefløde,26.5,ml
+recipe 161,rød chili,0.5,stk
+recipe 161,soltørrede tomater i olie,95.0,g
+recipe 161,spinat,200.0,g
+recipe 161,squash,0.5,stk
+recipe 161,sukker,999.5,g
+recipe 162,avocado,34.5,stk
+recipe 162,blomkål,0.75,stk
+recipe 162,frisk koriander,0.5,stk
+recipe 162,grøntsagsbouillon,198.5,
+recipe 162,hvidløg,8.0,fed
+recipe 162,ingefær,199.0,g
+recipe 162,kartoffel,998.5,g
+recipe 162,kikærter,399.5,g
+recipe 162,kokosmælk,200.0,ml
+recipe 162,løg,5.0,stk
+recipe 162,olivenolie,998.0,ml
+recipe 162,squash,0.5,stk
+recipe 162,stødt koriander,0.25,stk
+recipe 162,stødt spidskommen,0.5,stk
+recipe 163,avocado,34.0,stk
+recipe 163,cherrytomater,100.0,g
+recipe 163,frisk basilikum,0.5,stk
+recipe 163,hvidløg,11.5,fed
+recipe 163,kikærter,399.5,g
+recipe 163,olivenolie,999.0,ml
+recipe 163,pinjekerner,25.0,g
+recipe 163,rucola,50.0,g
+recipe 164,agurk,0.5,stk
+recipe 164,avocado,33.0,stk
+recipe 164,cayenne peber,0.75,stk
+recipe 164,cheddar ost,37.5,g
+recipe 164,cherrytomater,237.5,g
+recipe 164,frisk koriander,0.5,stk
+recipe 164,grøntsagsbouillon,199.5,
+recipe 164,hakkede tomater,0.5,stk
+recipe 164,hvidløg,10.5,fed
+recipe 164,lime,4.0,stk
+recipe 164,løg,5.0,stk
+recipe 164,majs,325.0,g
+recipe 164,olivenolie,999.0,ml
+recipe 164,rødløg,6.0,stk
+recipe 164,røget paprika,0.5,stk
+recipe 165,baby spinat,99.5,g
+recipe 165,basmati ris,498.5,g
+recipe 165,frisk koriander,0.5,stk
+recipe 165,frisk mynte,0.5,stk
+recipe 165,grøntsagsbouillon,199.0,
+recipe 165,hvidløg,8.5,fed
+recipe 165,ingefær,198.5,g
+recipe 165,kartoffel,750.0,g
+recipe 165,kokosmælk,200.0,ml
+recipe 165,løg,5.5,stk
+recipe 165,olivenolie,999.0,ml
+recipe 165,rødløg,6.5,stk
+recipe 165,stødt spidskommen,0.5,stk
+recipe 166,agurk,0.75,stk
+recipe 166,avocado,34.5,stk
+recipe 166,cherrytomater,242.5,g
+recipe 166,citron,5.75,stk
+recipe 166,hvidløg,11.5,fed
+recipe 166,kikærter,399.5,g
+recipe 166,olivenolie,998.5,ml
+recipe 166,pillede edamamebønner,275.0,g
+recipe 166,rucola,37.5,g
+recipe 166,rødløg,6.5,stk
+recipe 166,røget paprika,0.75,stk
+recipe 166,sesamfrø,249.0,g
+recipe 166,squash,0.5,stk
+recipe 166,stødt spidskommen,0.5,stk
+recipe 166,tahin,0.5,stk
+recipe 167,basmati ris,498.5,g
+recipe 167,frisk koriander,0.5,stk
+recipe 167,grøntsagsbouillon,199.0,
+recipe 167,hvidløg,6.5,fed
+recipe 167,ingefær,199.5,g
+recipe 167,løg,3.0,stk
+recipe 167,olivenolie,998.0,ml
+recipe 167,rød chili,0.25,stk
+recipe 167,sukker,998.5,g
+recipe 168,aubergine,0.5,stk
+recipe 168,champignon,100.0,g
+recipe 168,forårsløg,2.0,stk
+recipe 168,grøntsagsbouillon,199.25,
+recipe 168,hvedemel,1997.5,g
+recipe 168,hvidløg,9.5,fed
+recipe 168,kanel,0.5,stk
+recipe 168,kartoffel,998.0,g
+recipe 168,løg,4.0,stk
+recipe 168,mælk,998.5,ml
+recipe 168,olivenolie,999.0,ml
+recipe 168,piskefløde,26.5,ml
+recipe 168,smør,4.5,g
+recipe 168,soltørrede tomater i olie,118.5,g
+recipe 168,squash,0.5,stk
+recipe 168,stødt spidskommen,0.5,stk
+recipe 169,grøntsagsbouillon,195.5,
+recipe 169,hakkede tomater,0.5,stk
+recipe 169,hvidløg,9.5,fed
+recipe 169,løg,5.0,stk
+recipe 169,olivenolie,999.0,ml
+recipe 169,parmesan,147.5,g
+recipe 169,piskefløde,26.0,ml
+recipe 169,soltørrede tomater i olie,95.0,g
+recipe 169,spaghetti,300.0,g
+recipe 169,spinat,137.5,g
+recipe 169,squash,0.5,stk
+recipe 170,agurk,0.25,stk
+recipe 170,avocado,33.5,stk
+recipe 170,baby spinat,50.0,g
+recipe 170,basmati ris,498.5,g
+recipe 170,fishsauce,199.5,ml
+recipe 170,græskarkerner,249.5,g
+recipe 170,grøntsagsbouillon,197.0,
+recipe 170,gulerod,6.5,stk
+recipe 170,hvidløg,11.0,fed
+recipe 170,ingefær,195.0,g
+recipe 170,kokosmælk,200.0,ml
+recipe 170,mayonnaise,312.5,g
+recipe 170,olivenolie,999.5,ml
+recipe 170,pinjekerner,49.5,g
+recipe 170,sesamfrø,242.5,g
+recipe 170,solsikkekerner,249.5,g
+recipe 170,spinat,200.0,g
+recipe 170,sukker,985.0,g
+recipe 170,æblecidereddike,749.5,ml
+recipe 171,agurk,0.75,stk
+recipe 171,avocado,34.5,stk
+recipe 171,frisk mynte,0.5,stk
+recipe 171,grøntsagsbouillon,195.5,
+recipe 171,hakkede tomater,0.5,stk
+recipe 171,hvidløg,8.0,fed
+recipe 171,ingefær,198.5,g
+recipe 171,kanel,0.75,stk
+recipe 171,løg,4.5,stk
+recipe 171,majs,275.0,g
+recipe 171,mørk chokolade,87.5,g
+recipe 171,olivenolie,998.5,ml
+recipe 171,rød peberfrugt,2.5,stk
+recipe 171,røget paprika,0.75,stk
+recipe 171,squash,0.5,stk
+recipe 171,stængler bladselleri,0.5,stk
+recipe 171,stødt koriander,0.75,stk
+recipe 171,stødt spidskommen,0.5,stk
+recipe 172,frisk basilikum,0.5,stk
+recipe 172,frisk mynte,0.5,stk
+recipe 172,grøntsagsbouillon,199.5,
+recipe 172,hvidløg,11.0,fed
+recipe 172,hvidvin,749.5,ml
+recipe 172,løg,5.5,stk
+recipe 172,olivenolie,999.0,ml
+recipe 172,parmesan,175.0,g
+recipe 172,smør,4.5,g
+recipe 173,champignon,150.0,g
+recipe 173,feta,112.5,g
+recipe 173,frisk timian,0.5,stk
+recipe 173,grøntsagsbouillon,198.0,
+recipe 173,hvidløg,9.5,fed
+recipe 173,koncentreret tomatpuré,197.5,g
+recipe 173,løg,5.0,stk
+recipe 173,parmesan,112.5,g
+recipe 173,persille,179.5,g
+recipe 173,rødløg,6.5,stk
+recipe 173,smør,4.5,g
+recipe 173,soltørrede tomater i olie,119.5,g
+recipe 173,spaghetti,125.0,g
+recipe 173,timian,0.5,stk
+recipe 173,æblecidereddike,748.0,ml
+recipe 173,æg,9.0,stk
+recipe 174,agurk,0.75,stk
+recipe 174,avocado,33.0,stk
+recipe 174,cayenne peber,0.75,stk
+recipe 174,cheddar ost,25.0,g
+recipe 174,cherrytomater,240.0,g
+recipe 174,frisk koriander,0.5,stk
+recipe 174,grøntsagsbouillon,197.5,
+recipe 174,hvidløg,10.0,fed
+recipe 174,kikærter,399.5,g
+recipe 174,kyllingebryst,125.0,g
+recipe 174,lime,4.5,stk
+recipe 174,løg,4.5,stk
+recipe 174,olivenolie,999.0,ml
+recipe 174,rød chili,0.5,stk
+recipe 174,rød peberfrugt,2.5,stk
+recipe 174,rødløg,6.5,stk
+recipe 174,squash,0.5,stk
+recipe 174,stødt spidskommen,0.5,stk
+recipe 175,aubergine,0.5,stk
+recipe 175,frisk timian,0.75,stk
+recipe 175,fuldkornshvedemel,975.0,g
+recipe 175,hakkede tomater,0.5,stk
+recipe 175,hvedemel,1937.5,g
+recipe 175,hvidløg,9.5,fed
+recipe 175,koncentreret tomatpuré,150.0,g
+recipe 175,løg,5.5,stk
+recipe 175,olivenolie,999.5,ml
+recipe 175,parmesan,115.0,g
+recipe 175,rød peberfrugt,2.5,stk
+recipe 175,spaghetti,300.0,g
+recipe 175,squash,0.5,stk
+recipe 175,tomat,9.0,stk
+recipe 176,champignon,75.0,g
+recipe 176,frisk basilikum,0.5,stk
+recipe 176,grøntsagsbouillon,199.5,
+recipe 176,hasselnødder,148.0,g
+recipe 176,hvidløg,11.5,fed
+recipe 176,kartoffel,999.5,g
+recipe 176,løg,5.5,stk
+recipe 176,olivenolie,999.0,ml
+recipe 176,parmesan,150.0,g
+recipe 176,smør,4.5,g
+recipe 176,æg,7.0,stk
+recipe 177,baby spinat,50.0,g
+recipe 177,broccoli,324.5,g
+recipe 177,gulerod,7.0,stk
+recipe 177,hvidløg,10.0,fed
+recipe 177,ingefær,199.5,g
+recipe 177,lime,4.0,stk
+recipe 177,nudler,25.0,g
+recipe 177,olivenolie,998.0,ml
+recipe 177,sesamfrø,238.5,g
+recipe 177,sesamolie,498.75,ml
+recipe 177,soja,249.0,ml
+recipe 177,sriracha chilisauce,449.5,ml
+recipe 177,æg,8.0,stk
+recipe 178,hvidløg,9.0,fed
+recipe 178,olivenolie,998.5,ml
+recipe 178,parmesan,125.0,g
+recipe 178,rød chili,0.75,stk
+recipe 178,spaghetti,300.0,g
+recipe 178,spinat,200.0,g
+recipe 178,æg,9.5,stk
+recipe 179,aubergine,0.5,stk
+recipe 179,champignon,100.0,g
+recipe 179,grøntsagsbouillon,199.0,
+recipe 179,gulerod,7.0,stk
+recipe 179,hakkede tomater,0.5,stk
+recipe 179,hvidløg,10.5,fed
+recipe 179,kartoffel,999.5,g
+recipe 179,koncentreret tomatpuré,150.0,g
+recipe 179,løg,4.5,stk
+recipe 179,olivenolie,998.5,ml
+recipe 179,persille,179.5,g
+recipe 179,piskefløde,26.5,ml
+recipe 179,rasp,499.0,g
+recipe 179,rosmarin,0.5,stk
+recipe 179,røget paprika,0.5,stk
+recipe 179,soltørrede tomater i olie,105.0,g
+recipe 179,squash,0.5,stk
+recipe 179,sødmælk,999.5,ml
+recipe 179,timian,0.5,stk
+recipe 180,agurk,0.75,stk
+recipe 180,baby spinat,99.5,g
+recipe 180,blomkål,0.5,stk
+recipe 180,grøntsagsbouillon,199.0,
+recipe 180,hakkede tomater,0.5,stk
+recipe 180,hvidløg,10.5,fed
+recipe 180,ingefær,199.5,g
+recipe 180,kokosmælk,200.0,ml
+recipe 180,olivenolie,999.5,ml
+recipe 180,rødløg,6.5,stk
+recipe 180,stødt koriander,0.5,stk
+recipe 180,stødt spidskommen,0.25,stk
+recipe 181,grøntsagsbouillon,195.5,
+recipe 181,hakkede tomater,0.5,stk
+recipe 181,hvidløg,9.0,fed
+recipe 181,løg,5.0,stk
+recipe 181,olivenolie,999.0,ml
+recipe 181,parmesan,137.5,g
+recipe 181,piskefløde,26.5,ml
+recipe 181,rosmarin,0.5,stk
+recipe 181,soltørrede tomater i olie,70.0,g
+recipe 181,spinat,200.0,g
+recipe 181,squash,0.5,stk
+recipe 182,agurk,0.75,stk
+recipe 182,basmati ris,498.5,g
+recipe 182,bredbladet persille,179.5,g
+recipe 182,frisk koriander,0.5,stk
+recipe 182,frisk mynte,0.5,stk
+recipe 182,grøntsagsbouillon,195.5,
+recipe 182,hakkede tomater,0.5,stk
+recipe 182,hvidløg,8.0,fed
+recipe 182,ingefær,198.5,g
+recipe 182,kikærter,399.5,g
+recipe 182,kokosmælk,200.0,ml
+recipe 182,løg,5.5,stk
+recipe 182,olivenolie,998.0,ml
+recipe 182,rød peberfrugt,2.5,stk
+recipe 182,squash,0.5,stk
+recipe 182,stødt koriander,0.25,stk
+recipe 182,stødt spidskommen,0.5,stk
+recipe 183,basmati ris,497.0,g
+recipe 183,blomkål,0.5,stk
+recipe 183,broccoli,399.5,g
+recipe 183,brun farin,499.5,g
+recipe 183,fishsauce,199.0,ml
+recipe 183,gulerod,7.0,stk
+recipe 183,hakkede tomater,0.5,stk
+recipe 183,hvidløg,9.0,fed
+recipe 183,ingefær,198.5,g
+recipe 183,kartoffel,749.0,g
+recipe 183,løg,4.5,stk
+recipe 183,olivenolie,998.5,ml
+recipe 183,saltede peanuts,199.5,g
+recipe 183,squash,0.5,stk
+recipe 183,stødt koriander,0.5,stk
+recipe 184,agurk,0.75,stk
+recipe 184,bredbladet persille,179.5,g
+recipe 184,citron,5.75,stk
+recipe 184,grøntsagsbouillon,199.5,
+recipe 184,hakkede tomater,0.5,stk
+recipe 184,hvidløg,10.5,fed
+recipe 184,ingefær,199.5,g
+recipe 184,kikærter,399.5,g
+recipe 184,koncentreret tomatpuré,175.0,g
+recipe 184,løg,5.0,stk
+recipe 184,olivenolie,999.0,ml
+recipe 184,rød chili,0.75,stk
+recipe 184,røget paprika,0.5,stk
+recipe 184,safran,0.5,stk
+recipe 184,stødt koriander,0.5,stk
+recipe 184,stødt spidskommen,0.25,stk
+recipe 185,frisk basilikum,0.5,stk
+recipe 185,grøntsagsbouillon,199.5,
+recipe 185,hvidløg,9.5,fed
+recipe 185,løg,5.5,stk
+recipe 185,olivenolie,999.5,ml
+recipe 185,parmesan,135.0,g
+recipe 185,piskefløde,26.5,ml
+recipe 185,spaghetti,100.0,g
+recipe 185,spinat,187.5,g
+recipe 186,avocado,34.5,stk
+recipe 186,basmati ris,350.0,g
+recipe 186,cheddar ost,112.5,g
+recipe 186,cherrytomater,187.5,g
+recipe 186,grøntsagsbouillon,196.5,
+recipe 186,gulerod,7.0,stk
+recipe 186,hvedemel,1999.5,g
+recipe 186,hvidløg,9.0,fed
+recipe 186,kanel,0.25,stk
+recipe 186,lime,4.5,stk
+recipe 186,løg,4.5,stk
+recipe 186,majs,250.0,g
+recipe 186,olivenolie,998.0,ml
+recipe 186,rød chili,0.75,stk
+recipe 186,rød peberfrugt,2.0,stk
+recipe 186,røget paprika,0.5,stk
+recipe 186,smør,4.5,g
+recipe 186,sriracha chilisauce,449.5,ml
+recipe 186,stødt koriander,0.5,stk
+recipe 186,stødt spidskommen,0.5,stk
+recipe 186,tortillas pandekager,2.0,stk
+recipe 187,avocado,34.0,stk
+recipe 187,basmati ris,350.0,g
+recipe 187,cheddar ost,62.5,g
+recipe 187,cherrytomater,187.5,g
+recipe 187,grøntsagsbouillon,195.5,
+recipe 187,gulerod,7.0,stk
+recipe 187,hvidløg,8.0,fed
+recipe 187,ingefær,199.5,g
+recipe 187,kanel,0.5,stk
+recipe 187,lime,4.5,stk
+recipe 187,løg,3.5,stk
+recipe 187,majs,275.0,g
+recipe 187,mørk chokolade,87.5,g
+recipe 187,olivenolie,998.0,ml
+recipe 187,rød chili,0.75,stk
+recipe 187,rød peberfrugt,1.5,stk
+recipe 187,røget paprika,0.75,stk
+recipe 187,sriracha chilisauce,449.5,ml
+recipe 187,stængler bladselleri,0.5,stk
+recipe 188,aubergine,0.5,stk
+recipe 188,avocado,34.5,stk
+recipe 188,basmati ris,350.0,g
+recipe 188,cheddar ost,12.5,g
+recipe 188,cherrytomater,187.5,g
+recipe 188,grøntsagsbouillon,196.5,
+recipe 188,gulerod,7.0,stk
+recipe 188,hvidløg,9.0,fed
+recipe 188,kanel,0.25,stk
+recipe 188,lime,4.0,stk
+recipe 188,løg,5.0,stk
+recipe 188,mørk chokolade,85.0,g
+recipe 188,olivenolie,997.0,ml
+recipe 188,rød chili,0.5,stk
+recipe 188,rød peberfrugt,2.0,stk
+recipe 188,rødløg,6.0,stk
+recipe 188,røget paprika,0.5,stk
+recipe 188,soltørrede tomater i olie,118.5,g
+recipe 188,sriracha chilisauce,449.5,ml
+recipe 188,stødt koriander,0.25,stk
+recipe 188,stødt spidskommen,0.25,stk
+recipe 189,champignon,175.0,g
+recipe 189,frisk basilikum,0.5,stk
+recipe 189,grøntsagsbouillon,199.0,
+recipe 189,gulerod,5.0,stk
+recipe 189,hvedemel,1999.0,g
+recipe 189,hvidløg,9.0,fed
+recipe 189,kartoffel,999.5,g
+recipe 189,koncentreret tomatpuré,149.5,g
+recipe 189,løg,4.0,stk
+recipe 189,mælk,998.5,ml
+recipe 189,olivenolie,998.0,ml
+recipe 189,piskefløde,26.25,ml
+recipe 189,rasp,499.0,g
+recipe 189,rosmarin,0.5,stk
+recipe 189,røget paprika,0.5,stk
+recipe 189,smør,4.0,g
+recipe 189,soltørrede tomater i olie,105.0,g
+recipe 189,stængler bladselleri,0.5,stk
+recipe 189,sødmælk,999.5,ml
+recipe 189,timian,0.5,stk
+recipe 190,avocado,34.0,stk
+recipe 190,basmati ris,350.0,g
+recipe 190,cheddar ost,62.5,g
+recipe 190,cherrytomater,187.5,g
+recipe 190,grøntsagsbouillon,195.5,
+recipe 190,gulerod,7.0,stk
+recipe 190,hvidløg,8.0,fed
+recipe 190,ingefær,199.5,g
+recipe 190,kanel,0.5,stk
+recipe 190,lime,4.5,stk
+recipe 190,løg,3.5,stk
+recipe 190,majs,275.0,g
+recipe 190,mørk chokolade,87.5,g
+recipe 190,olivenolie,998.0,ml
+recipe 190,rød chili,0.75,stk
+recipe 190,rød peberfrugt,1.5,stk
+recipe 190,røget paprika,0.75,stk
+recipe 190,sriracha chilisauce,449.5,ml
+recipe 190,stængler bladselleri,0.5,stk
+recipe 191,avocado,33.5,stk
+recipe 191,basmati ris,350.0,g
+recipe 191,cheddar ost,12.5,g
+recipe 191,cherrytomater,187.5,g
+recipe 191,grøntsagsbouillon,197.0,
+recipe 191,gulerod,7.0,stk
+recipe 191,hakkede tomater,0.5,stk
+recipe 191,hvidløg,9.0,fed
+recipe 191,kanel,0.75,stk
+recipe 191,lime,3.5,stk
+recipe 191,løg,4.0,stk
+recipe 191,olivenolie,997.5,ml
+recipe 191,rød chili,0.25,stk
+recipe 191,rød peberfrugt,1.5,stk
+recipe 191,røget paprika,0.5,stk
+recipe 191,squash,0.25,stk
+recipe 191,sriracha chilisauce,449.5,ml
+recipe 191,stødt koriander,0.5,stk
+recipe 191,tortillas pandekager,2.0,stk
+recipe 191,æg,8.0,stk
+recipe 192,avocado,34.5,stk
+recipe 192,basmati ris,348.5,g
+recipe 192,bredbladet persille,179.5,g
+recipe 192,cheddar ost,62.5,g
+recipe 192,cherrytomater,187.5,g
+recipe 192,frisk koriander,0.5,stk
+recipe 192,grøntsagsbouillon,195.5,
+recipe 192,gulerod,7.0,stk
+recipe 192,hvidløg,8.0,fed
+recipe 192,ingefær,199.5,g
+recipe 192,kanel,0.75,stk
+recipe 192,kikærter,399.5,g
+recipe 192,kokosmælk,200.0,ml
+recipe 192,lime,4.5,stk
+recipe 192,løg,4.5,stk
+recipe 192,olivenolie,997.5,ml
+recipe 192,rød chili,0.75,stk
+recipe 192,rød peberfrugt,1.5,stk
+recipe 192,sriracha chilisauce,449.5,ml
+recipe 192,stødt koriander,0.5,stk
+recipe 193,basmati ris,350.0,g
+recipe 193,broccoli,399.5,g
+recipe 193,cashewnødder,99.5,g
+recipe 193,fishsauce,199.0,ml
+recipe 193,forårsløg,1.0,stk
+recipe 193,gulerod,6.5,stk
+recipe 193,hvidløg,9.5,fed
+recipe 193,ingefær,199.5,g
+recipe 193,lime,3.5,stk
+recipe 193,løg,5.0,stk
+recipe 193,nudler,100.0,g
+recipe 193,olivenolie,997.0,ml
+recipe 193,pillede edamamebønner,225.0,g
+recipe 193,rød chili,0.25,stk
+recipe 193,rød peberfrugt,2.5,stk
+recipe 193,soja,248.5,ml
+recipe 193,spidskål,0.5,stk
+recipe 193,squash,0.5,stk
+recipe 193,sukker,998.5,g
+recipe 193,æblecidereddike,749.0,ml
+recipe 193,æg,6.0,stk
+recipe 194,champignon,75.0,g
+recipe 194,frisk basilikum,0.5,stk
+recipe 194,frisk timian,0.75,stk
+recipe 194,fuldkornshvedemel,975.0,g
+recipe 194,grøntsagsbouillon,199.5,
+recipe 194,gulerod,6.0,stk
+recipe 194,hvedemel,1936.5,g
+recipe 194,hvidløg,9.5,fed
+recipe 194,koncentreret tomatpuré,149.5,g
+recipe 194,løg,4.5,stk
+recipe 194,mælk,998.5,ml
+recipe 194,olivenolie,998.5,ml
+recipe 194,parmesan,165.0,g
+recipe 194,piskefløde,26.25,ml
+recipe 194,rød peberfrugt,2.5,stk
+recipe 194,smør,4.0,g
+recipe 194,stængler bladselleri,0.5,stk
+recipe 194,tomat,9.0,stk
+recipe 195,basmati ris,497.0,g
+recipe 195,blomkål,0.5,stk
+recipe 195,grøntsagsbouillon,199.5,
+recipe 195,hakkede tomater,0.5,stk
+recipe 195,hvidløg,7.5,fed
+recipe 195,ingefær,198.5,g
+recipe 195,kartoffel,750.0,g
+recipe 195,løg,4.5,stk
+recipe 195,olivenolie,998.0,ml
+recipe 195,rød chili,0.75,stk
+recipe 195,stødt koriander,0.5,stk
+recipe 195,sukker,999.0,g
+recipe 196,avocado,34.5,stk
+recipe 196,basmati ris,498.5,g
+recipe 196,bredbladet persille,179.5,g
+recipe 196,frisk koriander,0.5,stk
+recipe 196,grøntsagsbouillon,198.0,
+recipe 196,hvidløg,8.0,fed
+recipe 196,ingefær,198.5,g
+recipe 196,kikærter,399.5,g
+recipe 196,kokosmælk,200.0,ml
+recipe 196,løg,5.5,stk
+recipe 196,olivenolie,998.0,ml
+recipe 196,rød peberfrugt,2.5,stk
+recipe 196,squash,0.5,stk
+recipe 196,stødt koriander,0.25,stk
+recipe 196,stødt spidskommen,0.5,stk
+recipe 197,baby spinat,99.5,g
+recipe 197,basmati ris,498.5,g
+recipe 197,blomkål,0.5,stk
+recipe 197,bredbladet persille,179.5,g
+recipe 197,frisk mynte,0.5,stk
+recipe 197,grøntsagsbouillon,197.5,
+recipe 197,hvidløg,8.5,fed
+recipe 197,ingefær,199.0,g
+recipe 197,kikærter,399.5,g
+recipe 197,løg,5.5,stk
+recipe 197,olivenolie,998.5,ml
+recipe 197,rød peberfrugt,2.5,stk
+recipe 197,rødløg,6.5,stk
+recipe 197,squash,0.5,stk
+recipe 197,stødt spidskommen,0.5,stk
+recipe 198,avocado,34.0,stk
+recipe 198,basmati ris,498.5,g
+recipe 198,bredbladet persille,179.5,g
+recipe 198,cheddar ost,75.0,g
+recipe 198,cherrytomater,245.0,g
+recipe 198,frisk koriander,0.5,stk
+recipe 198,grøntsagsbouillon,196.0,
+recipe 198,hvidløg,8.5,fed
+recipe 198,ingefær,199.5,g
+recipe 198,kikærter,399.0,g
+recipe 198,kokosmælk,200.0,ml
+recipe 198,kyllingebryst,125.0,g
+recipe 198,løg,4.5,stk
+recipe 198,olivenolie,998.5,ml
+recipe 198,rød chili,0.5,stk
+recipe 198,rød peberfrugt,2.0,stk
+recipe 198,røget paprika,0.5,stk
+recipe 199,basmati ris,497.0,g
+recipe 199,bredbladet persille,179.0,g
+recipe 199,citron,5.75,stk
+recipe 199,grøntsagsbouillon,196.5,
+recipe 199,gulerod,2.5,stk
+recipe 199,hakkede tomater,0.5,stk
+recipe 199,hvidløg,9.0,fed
+recipe 199,ingefær,199.5,g
+recipe 199,kikærter,399.5,g
+recipe 199,kokosmælk,200.0,ml
+recipe 199,løg,5.0,stk
+recipe 199,olivenolie,998.5,ml
+recipe 199,piskefløde,26.75,ml
+recipe 199,rød peberfrugt,2.5,stk
+recipe 199,saltede peanuts,175.0,g
+recipe 199,squash,0.5,stk
+recipe 199,stødt spidskommen,0.5,stk
+recipe 199,æble,8.5,stk
+recipe 200,basmati ris,497.0,g
+recipe 200,blomkål,0.5,stk
+recipe 200,frisk koriander,0.5,stk
+recipe 200,hvidløg,9.0,fed
+recipe 200,ingefær,198.5,g
+recipe 200,kartoffel,750.0,g
+recipe 200,løg,5.0,stk
+recipe 200,olivenolie,998.5,ml
+recipe 200,piskefløde,26.75,ml
+recipe 200,stødt koriander,0.5,stk
+recipe 200,stødt nellike,0.75,stk
+recipe 201,agurk,0.75,stk
+recipe 201,avocado,34.5,stk
+recipe 201,bredbladet persille,179.0,g
+recipe 201,burgerboller,4.0,stk
+recipe 201,cayenne peber,0.5,stk
+recipe 201,hvedemel,1985.0,g
+recipe 201,hvidløg,9.5,fed
+recipe 201,kikærter,399.5,g
+recipe 201,mayonnaise,348.0,g
+recipe 201,olivenolie,999.0,ml
+recipe 201,rasp,475.0,g
+recipe 201,rødløg,6.0,stk
+recipe 201,tomat,9.0,stk
+recipe 201,æg,8.5,stk
+recipe 202,agurk,0.75,stk
+recipe 202,avocado,34.0,stk
+recipe 202,bredbladet persille,179.5,g
+recipe 202,cayenne peber,0.75,stk
+recipe 202,champignon,100.0,g
+recipe 202,cheddar ost,12.5,g
+recipe 202,cherrytomater,245.0,g
+recipe 202,flødeost,112.5,g
+recipe 202,grøntsagsbouillon,199.5,
+recipe 202,hvidløg,11.5,fed
+recipe 202,lime,4.5,stk
+recipe 202,løg,5.5,stk
+recipe 202,olivenolie,999.0,ml
+recipe 202,rød peberfrugt,1.0,stk
+recipe 202,rødløg,6.0,stk
+recipe 202,røget paprika,0.5,stk
+recipe 203,bredbladet persille,179.5,g
+recipe 203,champignon,100.0,g
+recipe 203,cheddar ost,112.5,g
+recipe 203,flødeost,112.5,g
+recipe 203,frisk koriander,0.5,stk
+recipe 203,grøntsagsbouillon,199.0,
+recipe 203,hvedemel,1999.5,g
+recipe 203,hvidløg,11.0,fed
+recipe 203,kanel,0.5,stk
+recipe 203,løg,5.5,stk
+recipe 203,majs,250.0,g
+recipe 203,olivenolie,999.0,ml
+recipe 203,rød peberfrugt,1.0,stk
+recipe 203,rødløg,6.5,stk
+recipe 203,røget paprika,0.5,stk
+recipe 203,smør,4.5,g
+recipe 203,squash,0.5,stk
+recipe 203,tortillas pandekager,2.0,stk
+recipe 204,avocado,34.5,stk
+recipe 204,basmati ris,350.0,g
+recipe 204,bredbladet persille,179.5,g
+recipe 204,champignon,100.0,g
+recipe 204,cherrytomater,187.5,g
+recipe 204,flødeost,112.5,g
+recipe 204,frisk koriander,0.5,stk
+recipe 204,grøntsagsbouillon,196.5,
+recipe 204,gulerod,7.0,stk
+recipe 204,hvidløg,10.0,fed
+recipe 204,kanel,0.75,stk
+recipe 204,lime,4.5,stk
+recipe 204,løg,5.0,stk
+recipe 204,olivenolie,998.0,ml
+recipe 204,rød chili,0.75,stk
+recipe 204,rødløg,6.5,stk
+recipe 204,squash,0.5,stk
+recipe 204,sriracha chilisauce,449.5,ml
+recipe 204,stødt koriander,0.5,stk
+recipe 204,stødt spidskommen,0.5,stk
+recipe 205,aubergine,0.5,stk
+recipe 205,bredbladet persille,179.5,g
+recipe 205,champignon,100.0,g
+recipe 205,cheddar ost,12.5,g
+recipe 205,flødeost,112.5,g
+recipe 205,frisk koriander,0.5,stk
+recipe 205,grøntsagsbouillon,199.0,
+recipe 205,hvidløg,11.0,fed
+recipe 205,kanel,0.5,stk
+recipe 205,lime,4.5,stk
+recipe 205,mørk chokolade,85.0,g
+recipe 205,olivenolie,998.0,ml
+recipe 205,rød chili,0.75,stk
+recipe 205,rød peberfrugt,1.0,stk
+recipe 205,rødløg,5.5,stk
+recipe 205,røget paprika,0.5,stk
+recipe 205,soltørrede tomater i olie,118.5,g
+recipe 205,squash,0.5,stk
+recipe 205,stødt koriander,0.75,stk
+recipe 205,stødt spidskommen,0.75,stk
+recipe 206,frisk timian,0.5,stk
+recipe 206,grøntsagsbouillon,195.5,
+recipe 206,gulerod,4.5,stk
+recipe 206,hvidløg,9.0,fed
+recipe 206,kartoffel,998.5,g
+recipe 206,koncentreret tomatpuré,150.0,g
+recipe 206,løg,4.0,stk
+recipe 206,olivenolie,998.5,ml
+recipe 206,piskefløde,26.75,ml
+recipe 206,porre,0.5,stk
+recipe 206,stødt spidskommen,0.5,stk
+recipe 207,basmati ris,498.5,g
+recipe 207,bredbladet persille,179.0,g
+recipe 207,champignon,100.0,g
+recipe 207,cheddar ost,62.5,g
+recipe 207,flødeost,112.5,g
+recipe 207,grøntsagsbouillon,198.0,
+recipe 207,hvidløg,10.0,fed
+recipe 207,ingefær,199.5,g
+recipe 207,kikærter,399.5,g
+recipe 207,kokosmælk,200.0,ml
+recipe 207,løg,5.5,stk
+recipe 207,olivenolie,998.5,ml
+recipe 207,rød peberfrugt,0.5,stk
+recipe 207,rødløg,6.5,stk
+recipe 207,squash,0.5,stk
+recipe 207,stødt spidskommen,0.5,stk
+recipe 208,aubergine,0.5,stk
+recipe 208,baby spinat,50.0,g
+recipe 208,champignon,75.0,g
+recipe 208,flødeost,112.5,g
+recipe 208,frisk basilikum,0.5,stk
+recipe 208,grøntsagsbouillon,197.5,
+recipe 208,gulerod,6.0,stk
+recipe 208,hakkede tomater,0.5,stk
+recipe 208,hvedemel,1999.0,g
+recipe 208,hvidløg,9.5,fed
+recipe 208,koncentreret tomatpuré,199.5,g
+recipe 208,løg,4.5,stk
+recipe 208,mælk,998.5,ml
+recipe 208,olivenolie,999.0,ml
+recipe 208,parmesan,175.0,g
+recipe 208,piskefløde,26.25,ml
+recipe 208,smør,4.0,g
+recipe 208,squash,0.5,stk
+recipe 208,stængler bladselleri,0.5,stk
+recipe 209,bredbladet persille,179.0,g
+recipe 209,frisk timian,0.5,stk
+recipe 209,fuldkornshvedemel,937.5,g
+recipe 209,grahamsmel,950.0,g
+recipe 209,gær,27.5,g
+recipe 209,hvedemel,1612.5,g
+recipe 209,hvidløg,10.5,fed
+recipe 209,kartoffel,900.0,g
+recipe 209,olivenolie,997.0,ml
+recipe 209,parmesan,150.0,g
+recipe 209,rødløg,6.5,stk
+recipe 209,spinat,187.5,g
+recipe 210,aubergine,0.5,stk
+recipe 210,frisk timian,0.75,stk
+recipe 210,fuldkornshvedemel,950.0,g
+recipe 210,hakkede tomater,0.5,stk
+recipe 210,hvedemel,1875.0,g
+recipe 210,hvidløg,11.0,fed
+recipe 210,koncentreret tomatpuré,150.0,g
+recipe 210,løg,5.5,stk
+recipe 210,mælk,999.5,ml
+recipe 210,olivenolie,999.5,ml
+recipe 210,parmesan,150.0,g
+recipe 210,rød peberfrugt,2.5,stk
+recipe 210,tomat,9.0,stk
+recipe 210,æg,8.0,stk
+recipe 211,aubergine,0.5,stk
+recipe 211,champignon,75.0,g
+recipe 211,frisk basilikum,0.5,stk
+recipe 211,grøntsagsbouillon,195.5,
+recipe 211,gulerod,4.0,stk
+recipe 211,hakkede tomater,0.5,stk
+recipe 211,hvedemel,1999.0,g
+recipe 211,hvidløg,8.5,fed
+recipe 211,koncentreret tomatpuré,199.5,g
+recipe 211,løg,4.0,stk
+recipe 211,mælk,998.5,ml
+recipe 211,olivenolie,998.5,ml
+recipe 211,piskefløde,26.25,ml
+recipe 211,smør,4.0,g
+recipe 211,squash,0.5,stk
+recipe 211,stængler bladselleri,0.5,stk
+recipe 211,timian,0.5,stk
+recipe 212,bredbladet persille,179.0,g
+recipe 212,broccoli,399.5,g
+recipe 212,cayenne peber,0.25,stk
+recipe 212,citron,5.75,stk
+recipe 212,grøntsagsbouillon,198.5,
+recipe 212,gulerod,6.0,stk
+recipe 212,hvedemel,1985.0,g
+recipe 212,hvidløg,10.0,fed
+recipe 212,kanel,0.5,stk
+recipe 212,kikærter,399.5,g
+recipe 212,olivenolie,999.0,ml
+recipe 212,rødløg,6.0,stk
+recipe 212,squash,0.5,stk
+recipe 212,stødt ingefær,0.5,stk
+recipe 212,stødt spidskommen,0.5,stk
+recipe 212,æg,9.0,stk
+recipe 213,aubergine,0.5,stk
+recipe 213,champignon,75.0,g
+recipe 213,grøntsagsbouillon,199.5,
+recipe 213,hasselnødder,148.0,g
+recipe 213,hvedemel,1950.0,g
+recipe 213,hvidløg,10.0,fed
+recipe 213,løg,5.0,stk
+recipe 213,olivenolie,999.0,ml
+recipe 213,parmesan,50.0,g
+recipe 213,rasp,498.5,g
+recipe 213,smør,4.0,g
+recipe 213,æg,6.0,stk
+recipe 214,frisk basilikum,0.5,stk
+recipe 214,frisk timian,0.5,stk
+recipe 214,grahamsmel,950.0,g
+recipe 214,gær,35.0,g
+recipe 214,hakkede tomater,0.75,stk
+recipe 214,hvedemel,1550.0,g
+recipe 214,hvidløg,9.5,fed
+recipe 214,koncentreret tomatpuré,185.0,g
+recipe 214,olivenolie,997.0,ml
+recipe 214,parmesan,150.0,g
+recipe 214,rødløg,6.5,stk
+recipe 214,spinat,187.5,g
+recipe 215,champignon,75.0,g
+recipe 215,frisk basilikum,0.5,stk
+recipe 215,hvedemel,1949.5,g
+recipe 215,hvidløg,9.5,fed
+recipe 215,kanel,0.5,stk
+recipe 215,kartoffel,998.0,g
+recipe 215,løg,4.5,stk
+recipe 215,mælk,998.5,ml
+recipe 215,olivenolie,998.5,ml
+recipe 215,parmesan,75.0,g
+recipe 215,rasp,498.5,g
+recipe 215,smør,4.0,g
+recipe 215,soltørrede tomater i olie,118.5,g
+recipe 215,squash,0.5,stk
+recipe 215,stødt spidskommen,0.5,stk
+recipe 215,æg,8.5,stk
+recipe 216,champignon,75.0,g
+recipe 216,frisk mynte,0.5,stk
+recipe 216,grøntsagsbouillon,199.0,
+recipe 216,hasselnødder,148.0,g
+recipe 216,hvidløg,10.5,fed
+recipe 216,hvidvin,749.5,ml
+recipe 216,løg,5.0,stk
+recipe 216,olivenolie,999.0,ml
+recipe 216,parmesan,150.0,g
+recipe 216,smør,4.0,g
+recipe 216,æg,7.5,stk
+recipe 217,aubergine,0.5,stk
+recipe 217,champignon,100.0,g
+recipe 217,grøntsagsbouillon,195.5,
+recipe 217,gulerod,5.0,stk
+recipe 217,hakkede tomater,0.5,stk
+recipe 217,hvidløg,8.5,fed
+recipe 217,kartoffel,999.5,g
+recipe 217,koncentreret tomatpuré,150.0,g
+recipe 217,løg,4.0,stk
+recipe 217,olivenolie,998.5,ml
+recipe 217,rasp,499.0,g
+recipe 217,rosmarin,0.5,stk
+recipe 217,røget paprika,0.5,stk
+recipe 217,soltørrede tomater i olie,105.0,g
+recipe 217,squash,0.5,stk
+recipe 217,sødmælk,999.5,ml
+recipe 218,bacon,75.0,g
+recipe 218,bredbladet persille,179.5,g
+recipe 218,champignon,75.0,g
+recipe 218,frisk basilikum,0.5,stk
+recipe 218,grøntsagsbouillon,199.5,
+recipe 218,hasselnødder,148.0,g
+recipe 218,hvidløg,11.0,fed
+recipe 218,løg,5.25,stk
+recipe 218,olivenolie,999.0,ml
+recipe 218,parmesan,175.0,g
+recipe 218,piskefløde,26.0,ml
+recipe 218,smør,4.5,g
+recipe 218,æg,5.5,stk
+recipe 219,frisk mynte,0.5,stk
+recipe 219,grøntsagsbouillon,199.0,
+recipe 219,hvidløg,10.0,fed
+recipe 219,hvidvin,749.5,ml
+recipe 219,løg,5.0,stk
+recipe 219,olivenolie,999.0,ml
+recipe 219,parmesan,160.0,g
+recipe 219,piskefløde,26.5,ml
+recipe 219,smør,4.5,g
+recipe 219,spaghetti,300.0,g
+recipe 219,spinat,187.5,g
+recipe 220,broccoli,399.5,g
+recipe 220,forårsløg,1.0,stk
+recipe 220,frisk koriander,0.5,stk
+recipe 220,grøntsagsbouillon,198.0,
+recipe 220,hvedemel,1900.0,g
+recipe 220,hvidløg,9.5,fed
+recipe 220,ingefær,199.5,g
+recipe 220,lime,4.0,stk
+recipe 220,løg,5.0,stk
+recipe 220,mayonnaise,349.0,g
+recipe 220,nudler,100.0,g
+recipe 220,olivenolie,998.0,ml
+recipe 220,rød chili,0.5,stk
+recipe 220,soja,249.0,ml
+recipe 220,spidskål,0.5,stk
+recipe 220,squash,0.5,stk
+recipe 220,sukker,999.0,g
+recipe 220,æblecidereddike,749.0,ml
+recipe 220,æg,6.0,stk
+recipe 221,bredbladet persille,179.5,g
+recipe 221,champignon,50.0,g
+recipe 221,frisk basilikum,0.5,stk
+recipe 221,frisk mynte,0.5,stk
+recipe 221,grøntsagsbouillon,199.0,
+recipe 221,hvidløg,10.5,fed
+recipe 221,hvidvin,749.5,ml
+recipe 221,løg,5.0,stk
+recipe 221,olivenolie,998.5,ml
+recipe 221,parmesan,150.0,g
+recipe 221,smør,4.0,g
+recipe 222,frisk basilikum,0.5,stk
+recipe 222,grøntsagsbouillon,199.0,
+recipe 222,hasselnødder,148.0,g
+recipe 222,hvidløg,10.0,fed
+recipe 222,hvidvin,749.5,ml
+recipe 222,løg,5.0,stk
+recipe 222,olivenolie,999.5,ml
+recipe 222,parmesan,125.0,g
+recipe 222,smør,3.5,g
+recipe 222,timian,0.5,stk
+recipe 222,valnødder,82.5,g
+recipe 222,æg,7.5,stk
+recipe 223,frisk basilikum,0.5,stk
+recipe 223,frisk timian,0.75,stk
+recipe 223,fuldkornshvedemel,975.0,g
+recipe 223,hakkede tomater,0.5,stk
+recipe 223,hvedemel,1887.5,g
+recipe 223,hvidløg,9.5,fed
+recipe 223,koncentreret tomatpuré,150.0,g
+recipe 223,løg,5.0,stk
+recipe 223,olivenolie,999.0,ml
+recipe 223,parmesan,40.0,g
+recipe 223,rasp,498.5,g
+recipe 223,rød peberfrugt,2.5,stk
+recipe 223,smør,4.5,g
+recipe 223,squash,0.5,stk
+recipe 223,tomat,9.0,stk
+recipe 223,æg,8.5,stk
+recipe 224,feta,100.0,g
+recipe 224,frisk basilikum,0.5,stk
+recipe 224,frisk timian,0.5,stk
+recipe 224,grahamsmel,950.0,g
+recipe 224,gær,35.0,g
+recipe 224,hvedemel,1525.0,g
+recipe 224,hvidløg,10.0,fed
+recipe 224,kartoffel,999.0,g
+recipe 224,olivenolie,997.0,ml
+recipe 224,parmesan,150.0,g
+recipe 224,soltørrede tomater i olie,95.0,g
+recipe 224,spinat,187.5,g
+recipe 225,aubergine,0.5,stk
+recipe 225,frisk timian,0.25,stk
+recipe 225,fuldkornshvedemel,975.0,g
+recipe 225,grahamsmel,950.0,g
+recipe 225,gær,40.0,g
+recipe 225,hakkede tomater,0.5,stk
+recipe 225,hvedemel,1712.5,g
+recipe 225,hvidløg,10.0,fed
+recipe 225,koncentreret tomatpuré,150.0,g
+recipe 225,løg,5.5,stk
+recipe 225,olivenolie,998.0,ml
+recipe 225,parmesan,115.0,g
+recipe 225,rød peberfrugt,2.5,stk
+recipe 225,spinat,187.5,g
+recipe 225,squash,0.5,stk
+recipe 225,tomat,9.0,stk
+recipe 226,champignon,75.0,g
+recipe 226,feta,112.5,g
+recipe 226,frisk timian,0.5,stk
+recipe 226,grøntsagsbouillon,197.5,
+recipe 226,hvidløg,9.5,fed
+recipe 226,hvidvin,749.5,ml
+recipe 226,koncentreret tomatpuré,197.5,g
+recipe 226,løg,4.5,stk
+recipe 226,parmesan,112.5,g
+recipe 226,persille,179.5,g
+recipe 226,rødløg,6.5,stk
+recipe 226,smør,3.5,g
+recipe 226,soltørrede tomater i olie,119.5,g
+recipe 226,spaghetti,325.0,g
+recipe 226,valnødder,82.5,g
+recipe 226,æblecidereddike,748.0,ml
+recipe 226,æg,9.0,stk
+recipe 227,aubergine,0.5,stk
+recipe 227,grøntsagsbouillon,198.0,
+recipe 227,hakkede tomater,0.5,stk
+recipe 227,hvedemel,1950.0,g
+recipe 227,hvidløg,9.0,fed
+recipe 227,løg,5.0,stk
+recipe 227,olivenolie,999.0,ml
+recipe 227,parmesan,37.5,g
+recipe 227,piskefløde,26.5,ml
+recipe 227,rasp,483.5,g
+recipe 227,smør,4.5,g
+recipe 227,soltørrede tomater i olie,95.0,g
+recipe 227,æg,8.5,stk
+recipe 228,bredbladet persille,179.0,g
+recipe 228,champignon,25.0,g
+recipe 228,hasselnødder,149.0,g
+recipe 228,hokkaido græskar,0.5,stk
+recipe 228,hvidløg,9.0,fed
+recipe 228,kartoffel,800.0,g
+recipe 228,løg,5.0,stk
+recipe 228,olivenolie,998.0,ml
+recipe 228,æg,6.0,stk
+recipe 229,bredbladet persille,179.0,g
+recipe 229,hvidløg,8.0,fed
+recipe 229,kartoffel,800.0,g
+recipe 229,løg,5.5,stk
+recipe 229,olivenolie,997.0,ml
+recipe 229,parmesan,175.0,g
+recipe 229,rød chili,0.75,stk
+recipe 229,æg,6.0,stk
+recipe 230,aubergine,0.5,stk
+recipe 230,bredbladet persille,179.5,g
+recipe 230,champignon,100.0,g
+recipe 230,grøntsagsbouillon,199.5,
+recipe 230,gulerod,7.0,stk
+recipe 230,hakkede tomater,0.5,stk
+recipe 230,hvidløg,8.5,fed
+recipe 230,kartoffel,799.5,g
+recipe 230,koncentreret tomatpuré,150.0,g
+recipe 230,løg,4.5,stk
+recipe 230,olivenolie,997.5,ml
+recipe 230,rasp,499.0,g
+recipe 230,rosmarin,0.5,stk
+recipe 230,røget paprika,0.5,stk
+recipe 230,soltørrede tomater i olie,105.0,g
+recipe 230,squash,0.5,stk
+recipe 230,sødmælk,999.5,ml
+recipe 230,timian,0.5,stk
+recipe 230,æg,6.0,stk
+recipe 231,bredbladet persille,179.5,g
+recipe 231,frisk basilikum,0.5,stk
+recipe 231,grøntsagsbouillon,199.5,
+recipe 231,hvidløg,9.0,fed
+recipe 231,løg,5.5,stk
+recipe 231,olivenolie,998.0,ml
+recipe 231,parmesan,160.0,g
+recipe 231,piskefløde,26.5,ml
+recipe 231,rød chili,0.75,stk
+recipe 231,spaghetti,300.0,g
+recipe 231,spinat,187.5,g
+recipe 232,aubergine,0.5,stk
+recipe 232,bredbladet persille,179.5,g
+recipe 232,frisk timian,0.75,stk
+recipe 232,fuldkornshvedemel,975.0,g
+recipe 232,hakkede tomater,0.5,stk
+recipe 232,hvedemel,1937.5,g
+recipe 232,hvidløg,9.0,fed
+recipe 232,kartoffel,800.0,g
+recipe 232,koncentreret tomatpuré,150.0,g
+recipe 232,løg,5.0,stk
+recipe 232,olivenolie,998.0,ml
+recipe 232,parmesan,165.0,g
+recipe 232,rød peberfrugt,2.5,stk
+recipe 232,squash,0.5,stk
+recipe 232,tomat,9.0,stk
+recipe 232,æg,6.0,stk
+recipe 233,basmati ris,498.5,g
+recipe 233,bredbladet persille,179.5,g
+recipe 233,broccoli,399.5,g
+recipe 233,brun farin,499.5,g
+recipe 233,fishsauce,199.0,ml
+recipe 233,frisk koriander,0.5,stk
+recipe 233,gulerod,7.0,stk
+recipe 233,hvidløg,9.0,fed
+recipe 233,ingefær,199.5,g
+recipe 233,kartoffel,799.0,g
+recipe 233,løg,4.5,stk
+recipe 233,olivenolie,997.5,ml
+recipe 233,saltede peanuts,199.5,g
+recipe 233,squash,0.5,stk
+recipe 233,æg,6.0,stk
+recipe 234,bredbladet persille,179.5,g
+recipe 234,forårsløg,3.0,stk
+recipe 234,grøntsagsbouillon,198.0,
+recipe 234,hvedemel,1900.0,g
+recipe 234,hvidløg,9.0,fed
+recipe 234,kartoffel,800.0,g
+recipe 234,løg,5.0,stk
+recipe 234,mayonnaise,349.0,g
+recipe 234,olivenolie,998.0,ml
+recipe 234,æg,4.0,stk
+recipe 235,champignon,150.0,g
+recipe 235,feta,112.5,g
+recipe 235,grøntsagsbouillon,198.0,
+recipe 235,hvidløg,10.5,fed
+recipe 235,koncentreret tomatpuré,197.5,g
+recipe 235,løg,5.0,stk
+recipe 235,parmesan,112.5,g
+recipe 235,pasta,50.0,g
+recipe 235,persille,179.5,g
+recipe 235,piskefløde,26.5,ml
+recipe 235,rødløg,6.5,stk
+recipe 235,smør,4.0,g
+recipe 235,soltørrede tomater i olie,119.5,g
+recipe 235,spaghetti,325.0,g
+recipe 235,timian,0.5,stk
+recipe 235,æblecidereddike,748.0,ml
+recipe 235,æg,9.0,stk
+recipe 236,basmati ris,498.5,g
+recipe 236,bredbladet persille,179.5,g
+recipe 236,frisk koriander,0.5,stk
+recipe 236,grøntsagsbouillon,199.5,
+recipe 236,hvidløg,7.5,fed
+recipe 236,ingefær,199.5,g
+recipe 236,kartoffel,800.0,g
+recipe 236,løg,4.5,stk
+recipe 236,olivenolie,997.0,ml
+recipe 236,rød chili,0.75,stk
+recipe 236,sukker,999.0,g
+recipe 236,æg,6.0,stk
+recipe 237,aubergine,0.5,stk
+recipe 237,bredbladet persille,179.5,g
+recipe 237,champignon,75.0,g
+recipe 237,hvedemel,1999.5,g
+recipe 237,hvidløg,9.0,fed
+recipe 237,kanel,0.5,stk
+recipe 237,kartoffel,798.0,g
+recipe 237,løg,4.5,stk
+recipe 237,mælk,998.5,ml
+recipe 237,olivenolie,997.5,ml
+recipe 237,smør,4.5,g
+recipe 237,soltørrede tomater i olie,118.5,g
+recipe 237,squash,0.5,stk
+recipe 237,stødt spidskommen,0.5,stk
+recipe 237,æg,6.0,stk
+recipe 238,grøntsagsbouillon,197.5,
+recipe 238,hakkede tomater,0.5,stk
+recipe 238,hvidløg,9.5,fed
+recipe 238,løg,5.0,stk
+recipe 238,olivenolie,999.0,ml
+recipe 238,parmesan,147.5,g
+recipe 238,piskefløde,26.0,ml
+recipe 238,rasp,485.0,g
+recipe 238,soltørrede tomater i olie,95.0,g
+recipe 238,spaghetti,300.0,g
+recipe 238,spinat,187.5,g
+recipe 239,aubergine,0.5,stk
+recipe 239,champignon,100.0,g
+recipe 239,frisk basilikum,0.5,stk
+recipe 239,grøntsagsbouillon,197.5,
+recipe 239,gulerod,7.0,stk
+recipe 239,hvidløg,9.0,fed
+recipe 239,kartoffel,999.5,g
+recipe 239,koncentreret tomatpuré,150.0,g
+recipe 239,løg,4.5,stk
+recipe 239,olivenolie,998.5,ml
+recipe 239,parmesan,162.5,g
+recipe 239,piskefløde,26.5,ml
+recipe 239,rasp,484.0,g
+recipe 239,rosmarin,0.5,stk
+recipe 239,røget paprika,0.5,stk
+recipe 239,soltørrede tomater i olie,80.0,g
+recipe 239,squash,0.5,stk
+recipe 239,sødmælk,999.5,ml
+recipe 239,timian,0.5,stk
+recipe 240,basmati ris,498.5,g
+recipe 240,bredbladet persille,179.5,g
+recipe 240,frisk koriander,0.5,stk
+recipe 240,grøntsagsbouillon,199.5,
+recipe 240,hvidløg,7.5,fed
+recipe 240,ingefær,199.5,g
+recipe 240,løg,5.0,stk
+recipe 240,olivenolie,997.0,ml
+recipe 240,parmesan,175.0,g
+recipe 240,rød chili,0.5,stk
+recipe 240,sukker,999.0,g
+recipe 241,baby spinat,62.5,g
+recipe 241,basmati ris,498.5,g
+recipe 241,bredbladet persille,179.5,g
+recipe 241,forårsløg,3.0,stk
+recipe 241,hvidløg,8.5,fed
+recipe 241,ingefær,199.5,g
+recipe 241,kartoffel,800.0,g
+recipe 241,kikærter,399.5,g
+recipe 241,løg,5.0,stk
+recipe 241,mango,249.5,g
+recipe 241,mayonnaise,335.0,g
+recipe 241,olivenolie,998.0,ml
+recipe 241,persille,179.5,g
+recipe 241,røget paprika,0.5,stk
+recipe 241,sesamfrø,240.0,g
+recipe 241,stødt spidskommen,0.5,stk
+recipe 241,æg,6.0,stk
+recipe 242,aubergine,0.5,stk
+recipe 242,bredbladet persille,179.5,g
+recipe 242,champignon,175.0,g
+recipe 242,grøntsagsbouillon,198.5,
+recipe 242,gulerod,7.0,stk
+recipe 242,hakkede tomater,0.5,stk
+recipe 242,hvedemel,1999.5,g
+recipe 242,hvidløg,8.5,fed
+recipe 242,kartoffel,999.5,g
+recipe 242,koncentreret tomatpuré,147.5,g
+recipe 242,løg,4.0,stk
+recipe 242,olivenolie,998.5,ml
+recipe 242,piskefløde,26.5,ml
+recipe 242,rasp,499.0,g
+recipe 242,rosmarin,0.5,stk
+recipe 242,smør,4.5,g
+recipe 242,soltørrede tomater i olie,105.0,g
+recipe 242,squash,0.5,stk
+recipe 242,sødmælk,999.5,ml
+recipe 242,timian,0.5,stk
+recipe 243,bredbladet persille,179.5,g
+recipe 243,frisk basilikum,0.5,stk
+recipe 243,grøntsagsbouillon,199.5,
+recipe 243,hvidløg,9.0,fed
+recipe 243,kartoffel,800.0,g
+recipe 243,løg,5.0,stk
+recipe 243,olivenolie,998.0,ml
+recipe 243,parmesan,185.0,g
+recipe 243,piskefløde,26.5,ml
+recipe 243,spaghetti,300.0,g
+recipe 243,spinat,187.5,g
+recipe 243,æg,6.0,stk
+recipe 244,aubergine,0.5,stk
+recipe 244,champignon,100.0,g
+recipe 244,frisk basilikum,0.5,stk
+recipe 244,grøntsagsbouillon,199.0,
+recipe 244,gulerod,7.0,stk
+recipe 244,hakkede tomater,0.5,stk
+recipe 244,hvidløg,9.0,fed
+recipe 244,kartoffel,999.5,g
+recipe 244,koncentreret tomatpuré,150.0,g
+recipe 244,løg,4.5,stk
+recipe 244,olivenolie,998.5,ml
+recipe 244,parmesan,175.0,g
+recipe 244,rasp,499.0,g
+recipe 244,røget paprika,0.5,stk
+recipe 244,soltørrede tomater i olie,80.0,g
+recipe 244,squash,0.5,stk
+recipe 244,sødmælk,999.5,ml
+recipe 244,timian,0.5,stk
+recipe 245,blomkål,0.75,stk
+recipe 245,bredbladet persille,179.5,g
+recipe 245,grøntsagsbouillon,199.0,
+recipe 245,hakkede tomater,0.5,stk
+recipe 245,hvidløg,8.0,fed
+recipe 245,kartoffel,798.5,g
+recipe 245,kikærter,399.5,g
+recipe 245,kokosmælk,200.0,ml
+recipe 245,løg,4.5,stk
+recipe 245,olivenolie,997.5,ml
+recipe 245,squash,0.5,stk
+recipe 245,stødt koriander,0.5,stk
+recipe 245,æg,6.0,stk
+recipe 246,blomkål,0.5,stk
+recipe 246,feta,12.5,g
+recipe 246,fuldkornshvedemel,975.0,g
+recipe 246,grøntsagsbouillon,199.0,
+recipe 246,hvedemel,1975.0,g
+recipe 246,hvidløg,10.0,fed
+recipe 246,kikærter,399.5,g
+recipe 246,olivenolie,999.0,ml
+recipe 246,persille,179.5,g
+recipe 246,rødløg,6.0,stk
+recipe 246,timian,0.5,stk
+recipe 246,æg,7.0,stk
+recipe 247,basmati ris,498.5,g
+recipe 247,blomkål,0.5,stk
+recipe 247,bredbladet persille,179.5,g
+recipe 247,frisk koriander,0.5,stk
+recipe 247,hakkede tomater,0.5,stk
+recipe 247,hvidløg,8.0,fed
+recipe 247,ingefær,199.0,g
+recipe 247,kartoffel,550.0,g
+recipe 247,løg,5.0,stk
+recipe 247,olivenolie,998.0,ml
+recipe 247,stødt koriander,0.5,stk
+recipe 247,æg,6.0,stk
+recipe 248,bredbladet persille,179.5,g
+recipe 248,frisk basilikum,0.5,stk
+recipe 248,grøntsagsbouillon,199.5,
+recipe 248,gulerod,6.5,stk
+recipe 248,hvidløg,9.0,fed
+recipe 248,kartoffel,798.5,g
+recipe 248,koncentreret tomatpuré,165.0,g
+recipe 248,løg,5.0,stk
+recipe 248,olivenolie,998.0,ml
+recipe 248,porre,0.5,stk
+recipe 248,æg,6.0,stk
+recipe 249,bredbladet persille,179.0,g
+recipe 249,cayenne peber,0.5,stk
+recipe 249,hvedemel,1985.0,g
+recipe 249,hvidløg,9.0,fed
+recipe 249,olivenolie,998.0,ml
+recipe 249,parmesan,175.0,g
+recipe 249,rød chili,0.75,stk
+recipe 249,rødløg,6.5,stk
+recipe 249,stødt koriander,0.5,stk
+recipe 249,stødt spidskommen,0.5,stk
+recipe 249,æg,9.0,stk
+recipe 250,basmati ris,498.5,g
+recipe 250,bredbladet persille,179.0,g
+recipe 250,citron,5.75,stk
+recipe 250,grøntsagsbouillon,198.0,
+recipe 250,gulerod,2.5,stk
+recipe 250,hvidløg,9.0,fed
+recipe 250,kartoffel,800.0,g
+recipe 250,løg,5.0,stk
+recipe 250,olivenolie,998.0,ml
+recipe 250,piskefløde,26.75,ml
+recipe 250,saltede peanuts,175.0,g
+recipe 250,stødt koriander,0.5,stk
+recipe 250,stødt spidskommen,0.5,stk
+recipe 250,æble,8.5,stk
+recipe 250,æg,6.0,stk
+recipe 251,bredbladet persille,179.0,g
+recipe 251,grøntsagsbouillon,198.0,
+recipe 251,hvedemel,1999.0,g
+recipe 251,hvidløg,9.0,fed
+recipe 251,kartoffel,800.0,g
+recipe 251,løg,5.0,stk
+recipe 251,olivenolie,998.5,ml
+recipe 251,røget paprika,0.5,stk
+recipe 251,stødt koriander,0.5,stk
+recipe 251,stødt spidskommen,0.5,stk
+recipe 251,æg,5.5,stk
+recipe 252,bacon,50.0,g
+recipe 252,champignon,75.0,g
+recipe 252,cherrytomater,242.5,g
+recipe 252,frisk timian,0.5,stk
+recipe 252,hvidløg,11.5,fed
+recipe 252,parmesan,125.0,g
+recipe 252,pasta,112.5,g
+recipe 252,piskefløde,26.25,ml
+recipe 252,smør,4.0,g
+recipe 253,avocado,34.0,stk
+recipe 253,bredbladet persille,179.5,g
+recipe 253,cheddar ost,75.0,g
+recipe 253,frisk koriander,0.5,stk
+recipe 253,hvidløg,9.0,fed
+recipe 253,kartoffel,800.0,g
+recipe 253,lime,4.0,stk
+recipe 253,løg,4.5,stk
+recipe 253,olivenolie,997.5,ml
+recipe 253,rød chili,0.5,stk
+recipe 253,rød peberfrugt,2.5,stk
+recipe 253,røget paprika,0.5,stk
+recipe 253,squash,0.75,stk
+recipe 253,stødt koriander,0.5,stk
+recipe 253,tortillas pandekager,2.0,stk
+recipe 253,æg,4.0,stk
+recipe 254,bredbladet persille,179.0,g
+recipe 254,champignon,50.0,g
+recipe 254,grøntsagsbouillon,199.5,
+recipe 254,hvidløg,9.5,fed
+recipe 254,løg,5.5,stk
+recipe 254,olivenolie,997.5,ml
+recipe 254,parmesan,150.0,g
+recipe 254,rød chili,0.75,stk
+recipe 254,smør,4.5,g
+recipe 255,bredbladet persille,179.0,g
+recipe 255,citron,5.75,stk
+recipe 255,frisk mynte,0.5,stk
+recipe 255,grøntsagsbouillon,199.5,
+recipe 255,hakkede tomater,0.5,stk
+recipe 255,hvidløg,8.5,fed
+recipe 255,ingefær,199.5,g
+recipe 255,kikærter,399.5,g
+recipe 255,koncentreret tomatpuré,175.0,g
+recipe 255,løg,5.0,stk
+recipe 255,olivenolie,997.5,ml
+recipe 255,parmesan,175.0,g
+recipe 255,rød chili,0.5,stk
+recipe 255,røget paprika,0.5,stk
+recipe 255,safran,0.5,stk
+recipe 255,stødt koriander,0.5,stk
+recipe 255,stødt spidskommen,0.5,stk
+recipe 256,bacon,75.0,g
+recipe 256,bredbladet persille,179.0,g
+recipe 256,hvidløg,9.5,fed
+recipe 256,løg,5.75,stk
+recipe 256,olivenolie,998.0,ml
+recipe 256,parmesan,175.0,g
+recipe 256,piskefløde,26.0,ml
+recipe 256,rød chili,0.75,stk
+recipe 256,æg,8.0,stk
+recipe 257,bredbladet persille,179.5,g
+recipe 257,cayenne peber,0.5,stk
+recipe 257,frisk mynte,0.5,stk
+recipe 257,hvidløg,8.5,fed
+recipe 257,ingefær,199.5,g
+recipe 257,kartoffel,650.0,g
+recipe 257,lime,4.0,stk
+recipe 257,løg,5.0,stk
+recipe 257,olivenolie,997.0,ml
+recipe 257,stødt koriander,0.5,stk
+recipe 257,æg,6.0,stk
+recipe 258,bredbladet persille,179.0,g
+recipe 258,citron,5.75,stk
+recipe 258,frisk mynte,0.5,stk
+recipe 258,grøntsagsbouillon,199.5,
+recipe 258,hakkede tomater,0.5,stk
+recipe 258,hvidløg,8.5,fed
+recipe 258,ingefær,199.5,g
+recipe 258,kartoffel,800.0,g
+recipe 258,kikærter,399.5,g
+recipe 258,koncentreret tomatpuré,175.0,g
+recipe 258,løg,4.5,stk
+recipe 258,olivenolie,997.5,ml
+recipe 258,rød chili,0.75,stk
+recipe 258,røget paprika,0.5,stk
+recipe 258,safran,0.5,stk
+recipe 258,stødt koriander,0.5,stk
+recipe 258,stødt spidskommen,0.5,stk
+recipe 258,æg,6.0,stk
+recipe 259,agurk,0.75,stk
+recipe 259,avocado,34.5,stk
+recipe 259,bredbladet persille,179.0,g
+recipe 259,burgerboller,4.0,stk
+recipe 259,hvidløg,8.5,fed
+recipe 259,kartoffel,800.0,g
+recipe 259,kikærter,399.5,g
+recipe 259,løg,5.5,stk
+recipe 259,mayonnaise,348.0,g
+recipe 259,olivenolie,998.0,ml
+recipe 259,rasp,475.0,g
+recipe 259,rødløg,6.5,stk
+recipe 259,stødt koriander,0.5,stk
+recipe 259,stødt spidskommen,0.5,stk
+recipe 259,tomat,9.0,stk
+recipe 259,æg,5.5,stk
+recipe 260,aubergine,0.5,stk
+recipe 260,bredbladet persille,179.5,g
+recipe 260,frisk timian,0.75,stk
+recipe 260,fuldkornshvedemel,975.0,g
+recipe 260,hakkede tomater,0.5,stk
+recipe 260,hvedemel,1937.5,g
+recipe 260,hvidløg,9.0,fed
+recipe 260,koncentreret tomatpuré,150.0,g
+recipe 260,løg,5.5,stk
+recipe 260,olivenolie,998.0,ml
+recipe 260,parmesan,140.0,g
+recipe 260,rød chili,0.75,stk
+recipe 260,rød peberfrugt,2.5,stk
+recipe 260,squash,0.5,stk
+recipe 260,tomat,9.0,stk
+recipe 261,basmati ris,498.5,g
+recipe 261,bredbladet persille,179.0,g
+recipe 261,grøntsagsbouillon,198.5,
+recipe 261,hakkede tomater,0.5,stk
+recipe 261,hvidløg,8.0,fed
+recipe 261,ingefær,199.5,g
+recipe 261,kartoffel,800.0,g
+recipe 261,kikærter,399.5,g
+recipe 261,kokosmælk,200.0,ml
+recipe 261,løg,5.0,stk
+recipe 261,olivenolie,997.5,ml
+recipe 261,rød peberfrugt,2.5,stk
+recipe 261,squash,0.5,stk
+recipe 261,stødt koriander,0.5,stk
+recipe 261,æg,6.0,stk
+recipe 262,bredbladet persille,179.0,g
+recipe 262,champignon,75.0,g
+recipe 262,grøntsagsbouillon,199.0,
+recipe 262,hvedemel,1999.5,g
+recipe 262,hvidløg,8.0,fed
+recipe 262,kartoffel,800.0,g
+recipe 262,koncentreret tomatpuré,197.5,g
+recipe 262,løg,4.5,stk
+recipe 262,olivenolie,998.0,ml
+recipe 262,piskefløde,26.5,ml
+recipe 262,røget paprika,0.5,stk
+recipe 262,smør,4.5,g
+recipe 262,æg,6.0,stk
+recipe 263,bredbladet persille,179.5,g
+recipe 263,græskarkerner,249.5,g
+recipe 263,grønkål,175.0,g
+recipe 263,grøntsagsbouillon,199.4,
+recipe 263,hvidløg,8.5,fed
+recipe 263,kartoffel,400.0,g
+recipe 263,løg,4.5,stk
+recipe 263,olivenolie,998.0,ml
+recipe 263,piskefløde,26.5,ml
+recipe 263,æble,8.5,stk
+recipe 263,æg,6.0,stk
+recipe 264,bredbladet persille,179.0,g
+recipe 264,champignon,75.0,g
+recipe 264,citron,5.75,stk
+recipe 264,frisk mynte,0.5,stk
+recipe 264,grøntsagsbouillon,198.5,
+recipe 264,hakkede tomater,0.5,stk
+recipe 264,hvedemel,1999.5,g
+recipe 264,hvidløg,8.5,fed
+recipe 264,ingefær,199.5,g
+recipe 264,kikærter,399.5,g
+recipe 264,koncentreret tomatpuré,172.5,g
+recipe 264,løg,4.0,stk
+recipe 264,olivenolie,998.5,ml
+recipe 264,piskefløde,26.5,ml
+recipe 264,rød chili,0.75,stk
+recipe 264,safran,0.5,stk
+recipe 264,smør,4.5,g
+recipe 264,stødt koriander,0.5,stk
+recipe 264,stødt spidskommen,0.5,stk
+recipe 265,agurk,0.75,stk
+recipe 265,blomkål,0.75,stk
+recipe 265,bredbladet persille,179.0,g
+recipe 265,citron,5.5,stk
+recipe 265,græskarkerner,248.5,g
+recipe 265,hvidløg,9.0,fed
+recipe 265,kapers,64.5,g
+recipe 265,kartoffel,800.0,g
+recipe 265,kikærter,337.5,g
+recipe 265,løg,5.0,stk
+recipe 265,olivenolie,998.0,ml
+recipe 265,rucola,85.0,g
+recipe 265,tomat,8.5,stk
+recipe 265,tortillas pandekager,3.0,stk
+recipe 265,æg,6.0,stk
+recipe 266,bredbladet persille,179.5,g
+recipe 266,champignon,75.0,g
+recipe 266,frisk basilikum,0.5,stk
+recipe 266,grøntsagsbouillon,199.5,
+recipe 266,hasselnødder,148.0,g
+recipe 266,hvidløg,9.5,fed
+recipe 266,løg,5.5,stk
+recipe 266,olivenolie,998.0,ml
+recipe 266,parmesan,150.0,g
+recipe 266,rød chili,0.75,stk
+recipe 266,smør,4.5,g
+recipe 266,æg,7.5,stk
+recipe 267,bredbladet persille,179.5,g
+recipe 267,frisk basilikum,0.5,stk
+recipe 267,hvidløg,9.0,fed
+recipe 267,olivenolie,997.0,ml
+recipe 267,parmesan,150.0,g
+recipe 267,pasta,50.0,g
+recipe 267,rød chili,0.5,stk
+recipe 267,sukker,999.5,g
+recipe 268,bredbladet persille,179.5,g
+recipe 268,frisk timian,0.5,stk
+recipe 268,grahamsmel,950.0,g
+recipe 268,gær,40.0,g
+recipe 268,hvedemel,1775.0,g
+recipe 268,hvidløg,9.0,fed
+recipe 268,olivenolie,997.0,ml
+recipe 268,parmesan,125.0,g
+recipe 268,rød chili,0.75,stk
+recipe 268,spinat,187.5,g
+recipe 269,bredbladet persille,179.0,g
+recipe 269,champignon,50.0,g
+recipe 269,grøntsagsbouillon,199.5,
+recipe 269,hvidløg,9.5,fed
+recipe 269,kartoffel,800.0,g
+recipe 269,løg,5.0,stk
+recipe 269,olivenolie,997.5,ml
+recipe 269,parmesan,175.0,g
+recipe 269,smør,4.5,g
+recipe 269,æg,6.0,stk
+recipe 270,bredbladet persille,179.5,g
+recipe 270,hvidløg,10.0,fed
+recipe 270,kartoffel,799.5,g
+recipe 270,løg,5.5,stk
+recipe 270,olivenolie,998.0,ml
+recipe 270,parmesan,175.0,g
+recipe 270,æg,5.5,stk
+recipe 271,bredbladet persille,179.0,g
+recipe 271,grøntsagsbouillon,197.0,
+recipe 271,hvidløg,7.5,fed
+recipe 271,kartoffel,800.0,g
+recipe 271,kikærter,399.5,g
+recipe 271,løg,4.5,stk
+recipe 271,olivenolie,997.5,ml
+recipe 271,piskefløde,26.5,ml
+recipe 271,rød peberfrugt,1.5,stk
+recipe 271,røget paprika,0.75,stk
+recipe 271,æg,6.0,stk
+recipe 272,aubergine,0.5,stk
+recipe 272,bredbladet persille,179.5,g
+recipe 272,frisk basilikum,0.5,stk
+recipe 272,hvedemel,1950.0,g
+recipe 272,hvidløg,8.5,fed
+recipe 272,kartoffel,800.0,g
+recipe 272,løg,5.0,stk
+recipe 272,olivenolie,998.0,ml
+recipe 272,parmesan,75.0,g
+recipe 272,rasp,498.5,g
+recipe 272,smør,4.5,g
+recipe 272,æg,4.5,stk
+recipe 273,champignon,75.0,g
+recipe 273,grøntsagsbouillon,199.5,
+recipe 273,hasselnødder,148.0,g
+recipe 273,hvidløg,10.5,fed
+recipe 273,løg,4.5,stk
+recipe 273,olivenolie,999.0,ml
+recipe 273,parmesan,150.0,g
+recipe 273,pinjekerner,48.5,g
+recipe 273,smør,4.0,g
+recipe 273,spinat,150.0,g
+recipe 273,sukker,999.5,g
+recipe 273,æblecidereddike,749.5,ml
+recipe 273,æg,6.5,stk
+recipe 274,basmati ris,498.5,g
+recipe 274,bredbladet persille,179.0,g
+recipe 274,gulerod,6.0,stk
+recipe 274,hvidløg,8.5,fed
+recipe 274,ingefær,199.5,g
+recipe 274,kokosmælk,200.0,ml
+recipe 274,løg,5.5,stk
+recipe 274,mayonnaise,335.0,g
+recipe 274,olivenolie,998.0,ml
+recipe 274,parmesan,175.0,g
+recipe 274,rød chili,0.75,stk
+recipe 274,sesamfrø,237.5,g
+recipe 274,soja,249.5,ml
+recipe 274,spinat,100.0,g
+recipe 274,sriracha chilisauce,449.5,ml
+recipe 274,sukker,985.0,g
+recipe 274,æblecidereddike,749.5,ml
+recipe 274,æg,8.0,stk
+recipe 275,hvidløg,11.5,fed
+recipe 275,parmesan,115.0,g
+recipe 275,pasta,50.0,g
+recipe 275,piskefløde,26.5,ml
+recipe 275,smør,4.5,g
+recipe 275,spaghetti,300.0,g
+recipe 276,bredbladet persille,179.5,g
+recipe 276,frisk basilikum,0.5,stk
+recipe 276,hvidløg,9.0,fed
+recipe 276,kartoffel,800.0,g
+recipe 276,løg,4.5,stk
+recipe 276,olivenolie,998.0,ml
+recipe 276,parmesan,175.0,g
+recipe 276,pinjekerner,48.5,g
+recipe 276,smør,4.5,g
+recipe 276,spinat,150.0,g
+recipe 276,sukker,999.5,g
+recipe 276,æblecidereddike,749.5,ml
+recipe 276,æg,5.0,stk
+recipe 277,bredbladet persille,179.5,g
+recipe 277,broccoli,399.5,g
+recipe 277,forårsløg,2.0,stk
+recipe 277,frisk koriander,0.5,stk
+recipe 277,hvidløg,8.5,fed
+recipe 277,ingefær,199.5,g
+recipe 277,kartoffel,800.0,g
+recipe 277,lime,4.0,stk
+recipe 277,løg,5.0,stk
+recipe 277,nudler,100.0,g
+recipe 277,olivenolie,997.0,ml
+recipe 277,rød chili,0.5,stk
+recipe 277,soja,249.0,ml
+recipe 277,spidskål,0.5,stk
+recipe 277,squash,0.5,stk
+recipe 277,sukker,999.0,g
+recipe 277,æblecidereddike,749.0,ml
+recipe 277,æg,4.0,stk
+recipe 278,frisk basilikum,0.5,stk
+recipe 278,frisk timian,0.5,stk
+recipe 278,hvidløg,9.5,fed
+recipe 278,løg,5.5,stk
+recipe 278,olivenolie,999.5,ml
+recipe 278,parmesan,125.0,g
+recipe 278,pasta,100.0,g
+recipe 278,piskefløde,26.25,ml
+recipe 278,smør,4.5,g
+recipe 278,squash,0.5,stk
+recipe 279,bredbladet persille,179.5,g
+recipe 279,frisk basilikum,0.5,stk
+recipe 279,gær,42.5,g
+recipe 279,hvidløg,9.5,fed
+recipe 279,kartoffel,800.0,g
+recipe 279,løg,5.0,stk
+recipe 279,olivenolie,997.0,ml
+recipe 279,æg,6.0,stk
+recipe 280,bredbladet persille,179.25,g
+recipe 280,hvidløg,8.5,fed
+recipe 280,mælk,999.0,ml
+recipe 280,olivenolie,997.5,ml
+recipe 280,parmesan,150.0,g
+recipe 280,rød chili,0.75,stk
+recipe 280,tomat,5.0,stk
+recipe 281,aubergine,0.5,stk
+recipe 281,frisk timian,0.25,stk
+recipe 281,fuldkornshvedemel,975.0,g
+recipe 281,hakkede tomater,0.5,stk
+recipe 281,hvedemel,1937.5,g
+recipe 281,hvidløg,10.5,fed
+recipe 281,koncentreret tomatpuré,150.0,g
+recipe 281,løg,5.5,stk
+recipe 281,olivenolie,999.5,ml
+recipe 281,parmesan,115.0,g
+recipe 281,pasta,50.0,g
+recipe 281,piskefløde,26.5,ml
+recipe 281,rød peberfrugt,2.5,stk
+recipe 281,smør,4.5,g
+recipe 281,squash,0.5,stk
+recipe 281,tomat,9.0,stk
+recipe 282,baby spinat,62.5,g
+recipe 282,basmati ris,498.5,g
+recipe 282,bredbladet persille,179.5,g
+recipe 282,frisk koriander,0.5,stk
+recipe 282,gulerod,7.0,stk
+recipe 282,hvidløg,9.5,fed
+recipe 282,ingefær,199.5,g
+recipe 282,kartoffel,800.0,g
+recipe 282,løg,5.0,stk
+recipe 282,olivenolie,997.0,ml
+recipe 282,soja,249.5,ml
+recipe 282,spidskål,0.75,stk
+recipe 282,squash,0.5,stk
+recipe 282,sriracha chilisauce,440.0,ml
+recipe 282,stødt spidskommen,0.5,stk
+recipe 282,æg,6.0,stk
+recipe 283,bredbladet persille,179.5,g
+recipe 283,græskarkerner,237.5,g
+recipe 283,hvidløg,8.0,fed
+recipe 283,kapers,52.5,g
+recipe 283,olivenolie,998.0,ml
+recipe 283,parmesan,150.0,g
+recipe 283,rød chili,0.75,stk
+recipe 283,smør,2.5,g
+recipe 283,valnødder,95.0,g
+recipe 284,bredbladet persille,178.5,g
+recipe 284,fuldkornshvedemel,937.5,g
+recipe 284,gær,37.5,g
+recipe 284,hvedemel,1837.5,g
+recipe 284,hvidløg,9.5,fed
+recipe 284,kartoffel,900.0,g
+recipe 284,olivenolie,997.0,ml
+recipe 284,parmesan,175.0,g
+recipe 284,rød chili,0.75,stk
+recipe 284,rødløg,6.5,stk
+recipe 285,bredbladet persille,179.0,g
+recipe 285,hvidløg,8.0,fed
+recipe 285,kartoffel,800.0,g
+recipe 285,løg,5.5,stk
+recipe 285,olivenolie,997.0,ml
+recipe 285,parmesan,175.0,g
+recipe 285,rød chili,0.75,stk
+recipe 285,æg,6.0,stk
+recipe 286,basmati ris,350.0,g
+recipe 286,bredbladet persille,179.5,g
+recipe 286,cashewnødder,99.5,g
+recipe 286,fishsauce,199.0,ml
+recipe 286,forårsløg,3.0,stk
+recipe 286,frisk koriander,0.5,stk
+recipe 286,gulerod,6.5,stk
+recipe 286,hvidløg,9.0,fed
+recipe 286,kartoffel,800.0,g
+recipe 286,lime,4.5,stk
+recipe 286,løg,5.0,stk
+recipe 286,olivenolie,997.0,ml
+recipe 286,pillede edamamebønner,225.0,g
+recipe 286,rød chili,0.75,stk
+recipe 286,rød peberfrugt,2.5,stk
+recipe 286,soja,249.5,ml
+recipe 286,sukker,999.5,g
+recipe 286,æg,4.0,stk
+recipe 287,aubergine,0.5,stk
+recipe 287,avocado,34.0,stk
+recipe 287,cheddar ost,25.0,g
+recipe 287,cherrytomater,245.0,g
+recipe 287,grøntsagsbouillon,197.0,
+recipe 287,hvidløg,9.5,fed
+recipe 287,kanel,0.5,stk
+recipe 287,kikærter,399.5,g
+recipe 287,kyllingebryst,125.0,g
+recipe 287,lime,4.5,stk
+recipe 287,løg,5.0,stk
+recipe 287,mørk chokolade,85.0,g
+recipe 287,olivenolie,998.0,ml
+recipe 287,rød chili,0.25,stk
+recipe 287,rød peberfrugt,2.5,stk
+recipe 287,rødløg,6.0,stk
+recipe 287,soltørrede tomater i olie,118.5,g
+recipe 287,stødt koriander,0.75,stk
+recipe 287,stødt spidskommen,0.25,stk
+recipe 288,aubergine,0.5,stk
+recipe 288,avocado,34.0,stk
+recipe 288,cheddar ost,25.0,g
+recipe 288,cherrytomater,245.0,g
+recipe 288,grøntsagsbouillon,197.0,
+recipe 288,hvidløg,9.5,fed
+recipe 288,kanel,0.5,stk
+recipe 288,kikærter,399.5,g
+recipe 288,kyllingebryst,125.0,g
+recipe 288,lime,4.5,stk
+recipe 288,løg,5.0,stk
+recipe 288,mørk chokolade,85.0,g
+recipe 288,olivenolie,998.0,ml
+recipe 288,rød chili,0.25,stk
+recipe 288,rød peberfrugt,2.5,stk
+recipe 288,rødløg,6.0,stk
+recipe 288,soltørrede tomater i olie,118.5,g
+recipe 288,stødt koriander,0.75,stk
+recipe 288,stødt spidskommen,0.25,stk
+recipe 289,aubergine,0.5,stk
+recipe 289,avocado,34.5,stk
+recipe 289,basmati ris,350.0,g
+recipe 289,cheddar ost,12.5,g
+recipe 289,cherrytomater,187.5,g
+recipe 289,grøntsagsbouillon,196.5,
+recipe 289,gulerod,7.0,stk
+recipe 289,hvidløg,9.0,fed
+recipe 289,kanel,0.25,stk
+recipe 289,lime,4.0,stk
+recipe 289,løg,5.0,stk
+recipe 289,mørk chokolade,85.0,g
+recipe 289,olivenolie,997.0,ml
+recipe 289,rød chili,0.5,stk
+recipe 289,rød peberfrugt,2.0,stk
+recipe 289,rødløg,6.0,stk
+recipe 289,røget paprika,0.5,stk
+recipe 289,soltørrede tomater i olie,118.5,g
+recipe 289,sriracha chilisauce,449.5,ml
+recipe 289,stødt koriander,0.25,stk
+recipe 289,stødt spidskommen,0.25,stk
+recipe 290,avocado,34.5,stk
+recipe 290,blomkål,0.75,stk
+recipe 290,frisk koriander,0.5,stk
+recipe 290,grøntsagsbouillon,198.5,
+recipe 290,hvidløg,8.0,fed
+recipe 290,ingefær,199.0,g
+recipe 290,kartoffel,998.5,g
+recipe 290,kikærter,399.5,g
+recipe 290,kokosmælk,200.0,ml
+recipe 290,løg,5.0,stk
+recipe 290,olivenolie,998.0,ml
+recipe 290,squash,0.5,stk
+recipe 290,stødt koriander,0.25,stk
+recipe 290,stødt spidskommen,0.5,stk
+recipe 291,basmati ris,498.5,g
+recipe 291,blomkål,0.25,stk
+recipe 291,frisk koriander,0.5,stk
+recipe 291,grøntsagsbouillon,199.0,
+recipe 291,hvidløg,8.0,fed
+recipe 291,ingefær,199.0,g
+recipe 291,kartoffel,748.5,g
+recipe 291,kikærter,399.5,g
+recipe 291,kokosmælk,200.0,ml
+recipe 291,løg,4.5,stk
+recipe 291,olivenolie,998.5,ml
+recipe 291,squash,0.5,stk
+recipe 292,avocado,34.0,stk
+recipe 292,blomkål,0.75,stk
+recipe 292,cheddar ost,75.0,g
+recipe 292,cherrytomater,245.0,g
+recipe 292,frisk koriander,0.5,stk
+recipe 292,grøntsagsbouillon,196.5,
+recipe 292,hvidløg,8.5,fed
+recipe 292,kartoffel,998.5,g
+recipe 292,kikærter,399.0,g
+recipe 292,kokosmælk,200.0,ml
+recipe 292,kyllingebryst,125.0,g
+recipe 292,løg,4.0,stk
+recipe 292,olivenolie,998.5,ml
+recipe 292,rød chili,0.5,stk
+recipe 292,rød peberfrugt,2.5,stk
+recipe 292,røget paprika,0.5,stk
+recipe 293,baby spinat,62.5,g
+recipe 293,basmati ris,497.0,g
+recipe 293,blomkål,0.5,stk
+recipe 293,forårsløg,3.0,stk
+recipe 293,frisk koriander,0.5,stk
+recipe 293,hvidløg,8.5,fed
+recipe 293,ingefær,199.0,g
+recipe 293,kikærter,399.0,g
+recipe 293,kokosmælk,200.0,ml
+recipe 293,koncentreret tomatpuré,162.5,g
+recipe 293,lime,4.5,stk
+recipe 293,løg,4.5,stk
+recipe 293,mandler,112.5,g
+recipe 293,mango,249.5,g
+recipe 293,mayonnaise,335.0,g
+recipe 293,olivenolie,999.0,ml
+recipe 293,persille,179.5,g
+recipe 293,røget paprika,0.5,stk
+recipe 293,sesamfrø,240.0,g
+recipe 293,stødt spidskommen,0.5,stk
+recipe 294,basmati ris,498.5,g
+recipe 294,blomkål,0.75,stk
+recipe 294,bredbladet persille,179.5,g
+recipe 294,citron,5.75,stk
+recipe 294,grøntsagsbouillon,197.0,
+recipe 294,gulerod,2.5,stk
+recipe 294,hakkede tomater,0.5,stk
+recipe 294,hvidløg,9.0,fed
+recipe 294,kartoffel,998.5,g
+recipe 294,kikærter,399.5,g
+recipe 294,kokosmælk,200.0,ml
+recipe 294,løg,4.5,stk
+recipe 294,olivenolie,998.5,ml
+recipe 294,piskefløde,26.75,ml
+recipe 294,saltede peanuts,175.0,g
+recipe 294,squash,0.5,stk
+recipe 294,stødt spidskommen,0.5,stk
+recipe 294,æble,8.5,stk
+recipe 295,agurk,0.75,stk
+recipe 295,avocado,34.0,stk
+recipe 295,cheddar ost,12.5,g
+recipe 295,cherrytomater,242.5,g
+recipe 295,grøntsagsbouillon,199.0,
+recipe 295,hakkede tomater,0.5,stk
+recipe 295,hvedemel,1999.5,g
+recipe 295,hvidløg,10.0,fed
+recipe 295,kanel,0.5,stk
+recipe 295,lime,4.5,stk
+recipe 295,løg,5.0,stk
+recipe 295,majs,175.0,g
+recipe 295,olivenolie,999.0,ml
+recipe 295,rødløg,6.5,stk
+recipe 295,røget paprika,0.5,stk
+recipe 295,smør,4.5,g
+recipe 295,squash,0.5,stk
+recipe 295,tortillas pandekager,2.0,stk
+recipe 296,basmati ris,497.0,g
+recipe 296,bredbladet persille,179.5,g
+recipe 296,broccoli,399.5,g
+recipe 296,brun farin,499.5,g
+recipe 296,citron,5.75,stk
+recipe 296,fishsauce,199.0,ml
+recipe 296,frisk koriander,0.5,stk
+recipe 296,grøntsagsbouillon,198.0,
+recipe 296,gulerod,1.5,stk
+recipe 296,hvidløg,10.0,fed
+recipe 296,ingefær,199.5,g
+recipe 296,kartoffel,999.0,g
+recipe 296,løg,4.5,stk
+recipe 296,olivenolie,998.5,ml
+recipe 296,piskefløde,26.75,ml
+recipe 296,saltede peanuts,174.5,g
+recipe 296,squash,0.5,stk
+recipe 296,stødt koriander,0.5,stk
+recipe 296,stødt spidskommen,0.5,stk
+recipe 296,æble,8.5,stk
+recipe 297,frisk basilikum,0.5,stk
+recipe 297,græskarkerner,249.5,g
+recipe 297,grønkål,175.0,g
+recipe 297,grøntsagsbouillon,198.9,
+recipe 297,gulerod,6.5,stk
+recipe 297,hvidløg,9.5,fed
+recipe 297,kartoffel,598.5,g
+recipe 297,koncentreret tomatpuré,165.0,g
+recipe 297,løg,4.5,stk
+recipe 297,olivenolie,999.0,ml
+recipe 297,piskefløde,26.5,ml
+recipe 297,porre,0.5,stk
+recipe 297,æble,8.5,stk
+recipe 298,cherrytomater,50.0,g
+recipe 298,hvidløg,9.5,fed
+recipe 298,olivenolie,997.0,ml
+recipe 298,parmesan,175.0,g
+recipe 298,pasta,100.0,g
+recipe 298,rød chili,0.5,stk
+recipe 298,sukker,999.5,g
+recipe 298,timian,0.5,stk
+recipe 299,bredbladet persille,179.5,g
+recipe 299,champignon,50.0,g
+recipe 299,frisk basilikum,0.5,stk
+recipe 299,grøntsagsbouillon,199.0,
+recipe 299,hvidløg,10.5,fed
+recipe 299,løg,5.0,stk
+recipe 299,olivenolie,998.5,ml
+recipe 299,parmesan,160.0,g
+recipe 299,piskefløde,26.5,ml
+recipe 299,smør,4.5,g
+recipe 299,spaghetti,300.0,g
+recipe 299,spinat,187.5,g
+recipe 300,appelsin,9.0,stk
+recipe 300,avocado,34.5,stk
+recipe 300,baby spinat,27.5,g
+recipe 300,basmati ris,498.5,g
+recipe 300,forårsløg,3.0,stk
+recipe 300,hvidløg,10.5,fed
+recipe 300,ingefær,199.5,g
+recipe 300,kanel,0.5,stk
+recipe 300,kikærter,399.5,g
+recipe 300,løg,5.5,stk
+recipe 300,mango,249.5,g
+recipe 300,mayonnaise,335.0,g
+recipe 300,olivenolie,998.0,ml
+recipe 300,persille,179.5,g
+recipe 300,sesamfrø,239.5,g
+recipe 300,spidskål,0.75,stk
+recipe 300,stødt spidskommen,0.5,stk
+recipe 301,blomkål,0.75,stk
+recipe 301,græskarkerner,249.5,g
+recipe 301,grønkål,175.0,g
+recipe 301,grøntsagsbouillon,198.4,
+recipe 301,hakkede tomater,0.5,stk
+recipe 301,hvidløg,8.5,fed
+recipe 301,kartoffel,598.5,g
+recipe 301,kikærter,399.5,g
+recipe 301,kokosmælk,200.0,ml
+recipe 301,løg,4.0,stk
+recipe 301,olivenolie,998.5,ml
+recipe 301,piskefløde,26.5,ml
+recipe 301,squash,0.5,stk
+recipe 301,stødt koriander,0.5,stk
+recipe 301,æble,8.5,stk
+recipe 302,frisk basilikum,0.5,stk
+recipe 302,græskarkerner,249.5,g
+recipe 302,grønkål,175.0,g
+recipe 302,grøntsagsbouillon,195.4,
+recipe 302,hakkede tomater,0.5,stk
+recipe 302,hvidløg,9.0,fed
+recipe 302,kartoffel,600.0,g
+recipe 302,løg,4.5,stk
+recipe 302,olivenolie,999.0,ml
+recipe 302,parmesan,162.5,g
+recipe 302,piskefløde,26.0,ml
+recipe 302,soltørrede tomater i olie,95.0,g
+recipe 302,spinat,200.0,g
+recipe 302,squash,0.5,stk
+recipe 302,æble,8.5,stk
+recipe 303,agurk,0.5,stk
+recipe 303,appelsin,9.0,stk
+recipe 303,avocado,33.5,stk
+recipe 303,baby spinat,2.5,g
+recipe 303,frisk basilikum,0.5,stk
+recipe 303,frisk koriander,0.5,stk
+recipe 303,gulerod,6.5,stk
+recipe 303,ingefær,199.5,g
+recipe 303,kanel,0.5,stk
+recipe 303,kokosmælk,350.0,ml
+recipe 303,lime,3.5,stk
+recipe 303,olivenolie,997.5,ml
+recipe 303,peanutbutter,349.5,g
+recipe 303,røget paprika,0.5,stk
+recipe 303,sesamfrø,249.0,g
+recipe 303,soja,248.5,ml
+recipe 303,spidskål,0.5,stk
+recipe 304,bredbladet persille,179.25,g
+recipe 304,champignon,50.0,g
+recipe 304,grøntsagsbouillon,199.5,
+recipe 304,hvidløg,10.0,fed
+recipe 304,løg,5.5,stk
+recipe 304,mælk,999.0,ml
+recipe 304,olivenolie,998.0,ml
+recipe 304,parmesan,150.0,g
+recipe 304,smør,4.5,g
+recipe 304,tomat,5.0,stk
+recipe 305,bredbladet persille,179.5,g
+recipe 305,champignon,75.0,g
+recipe 305,græskarkerner,249.5,g
+recipe 305,grønkål,175.0,g
+recipe 305,grøntsagsbouillon,198.4,
+recipe 305,hvedemel,1999.5,g
+recipe 305,hvidløg,8.5,fed
+recipe 305,kartoffel,600.0,g
+recipe 305,koncentreret tomatpuré,197.5,g
+recipe 305,løg,4.0,stk
+recipe 305,olivenolie,999.0,ml
+recipe 305,piskefløde,26.0,ml
+recipe 305,røget paprika,0.5,stk
+recipe 305,smør,4.5,g
+recipe 305,æble,8.5,stk
+recipe 306,frisk basilikum,0.5,stk
+recipe 306,græskarkerner,249.5,g
+recipe 306,grønkål,175.0,g
+recipe 306,grøntsagsbouillon,197.4,
+recipe 306,hakkede tomater,0.5,stk
+recipe 306,hvidløg,9.0,fed
+recipe 306,kartoffel,600.0,g
+recipe 306,løg,4.5,stk
+recipe 306,olivenolie,999.0,ml
+recipe 306,parmesan,162.5,g
+recipe 306,piskefløde,26.0,ml
+recipe 306,rasp,485.0,g
+recipe 306,soltørrede tomater i olie,95.0,g
+recipe 306,æble,8.5,stk
+recipe 307,bredbladet persille,179.25,g
+recipe 307,champignon,75.0,g
+recipe 307,grøntsagsbouillon,199.0,
+recipe 307,hvedemel,1999.5,g
+recipe 307,hvidløg,10.0,fed
+recipe 307,koncentreret tomatpuré,197.0,g
+recipe 307,løg,4.5,stk
+recipe 307,olivenolie,999.0,ml
+recipe 307,parmesan,187.5,g
+recipe 307,piskefløde,25.75,ml
+recipe 307,røget paprika,0.5,stk
+recipe 307,smør,4.5,g
+recipe 308,aubergine,0.5,stk
+recipe 308,bredbladet persille,179.5,g
+recipe 308,champignon,50.0,g
+recipe 308,frisk timian,0.75,stk
+recipe 308,fuldkornshvedemel,975.0,g
+recipe 308,grøntsagsbouillon,199.5,
+recipe 308,hakkede tomater,0.5,stk
+recipe 308,hvedemel,1937.5,g
+recipe 308,hvidløg,10.5,fed
+recipe 308,koncentreret tomatpuré,150.0,g
+recipe 308,løg,5.0,stk
+recipe 308,olivenolie,998.5,ml
+recipe 308,parmesan,140.0,g
+recipe 308,rød peberfrugt,2.5,stk
+recipe 308,smør,4.5,g
+recipe 308,squash,0.5,stk
+recipe 308,tomat,9.0,stk
+recipe 309,bredbladet persille,179.0,g
+recipe 309,champignon,50.0,g
+recipe 309,grøntsagsbouillon,196.5,
+recipe 309,hvidløg,9.0,fed
+recipe 309,kikærter,399.5,g
+recipe 309,løg,4.5,stk
+recipe 309,olivenolie,998.0,ml
+recipe 309,parmesan,175.0,g
+recipe 309,piskefløde,26.5,ml
+recipe 309,rød peberfrugt,1.5,stk
+recipe 309,røget paprika,0.75,stk
+recipe 309,smør,4.5,g
+recipe 310,baby spinat,50.0,g
+recipe 310,bredbladet persille,179.5,g
+recipe 310,champignon,50.0,g
+recipe 310,flødeost,112.5,g
+recipe 310,grøntsagsbouillon,197.5,
+recipe 310,hvidløg,10.5,fed
+recipe 310,løg,5.0,stk
+recipe 310,olivenolie,999.0,ml
+recipe 310,parmesan,150.0,g
+recipe 310,smør,4.5,g
+recipe 311,frisk basilikum,0.5,stk
+recipe 311,græskarkerner,249.5,g
+recipe 311,grønkål,175.0,g
+recipe 311,grøntsagsbouillon,198.9,
+recipe 311,hvidløg,9.5,fed
+recipe 311,kartoffel,600.0,g
+recipe 311,løg,4.5,stk
+recipe 311,olivenolie,999.0,ml
+recipe 311,parmesan,185.0,g
+recipe 311,piskefløde,26.0,ml
+recipe 311,spaghetti,300.0,g
+recipe 311,spinat,187.5,g
+recipe 311,æble,8.5,stk
+recipe 312,agurk,0.75,stk
+recipe 312,avocado,33.0,stk
+recipe 312,cheddar ost,37.5,g
+recipe 312,cherrytomater,242.5,g
+recipe 312,grøntsagsbouillon,199.5,
+recipe 312,hvidløg,10.0,fed
+recipe 312,lime,3.5,stk
+recipe 312,løg,4.5,stk
+recipe 312,majs,325.0,g
+recipe 312,olivenolie,998.5,ml
+recipe 312,rød chili,0.5,stk
+recipe 312,rød peberfrugt,2.5,stk
+recipe 312,rødløg,6.5,stk
+recipe 312,røget paprika,0.5,stk
+recipe 312,squash,0.75,stk
+recipe 312,stødt spidskommen,0.5,stk
+recipe 312,tortillas pandekager,2.0,stk
+recipe 312,æg,8.0,stk
+recipe 313,bredbladet persille,179.5,g
+recipe 313,champignon,50.0,g
+recipe 313,frisk basilikum,0.5,stk
+recipe 313,grøntsagsbouillon,199.5,
+recipe 313,hvidløg,10.5,fed
+recipe 313,løg,4.5,stk
+recipe 313,olivenolie,998.5,ml
+recipe 313,parmesan,150.0,g
+recipe 313,pinjekerner,48.5,g
+recipe 313,smør,4.0,g
+recipe 313,spinat,150.0,g
+recipe 313,sukker,999.5,g
+recipe 313,æblecidereddike,749.5,ml
+recipe 313,æg,9.0,stk
+recipe 314,agurk,0.75,stk
+recipe 314,avocado,34.0,stk
+recipe 314,cheddar ost,12.5,g
+recipe 314,cherrytomater,242.5,g
+recipe 314,grøntsagsbouillon,199.0,
+recipe 314,hakkede tomater,0.5,stk
+recipe 314,hvedemel,1999.5,g
+recipe 314,hvidløg,10.0,fed
+recipe 314,kanel,0.5,stk
+recipe 314,lime,4.5,stk
+recipe 314,løg,5.0,stk
+recipe 314,majs,175.0,g
+recipe 314,olivenolie,999.0,ml
+recipe 314,rødløg,6.5,stk
+recipe 314,røget paprika,0.5,stk
+recipe 314,smør,4.5,g
+recipe 314,squash,0.5,stk
+recipe 314,tortillas pandekager,2.0,stk
+recipe 315,baby spinat,62.5,g
+recipe 315,basmati ris,497.0,g
+recipe 315,broccoli,399.5,g
+recipe 315,brun farin,499.5,g
+recipe 315,fishsauce,199.0,ml
+recipe 315,gulerod,6.0,stk
+recipe 315,hvidløg,10.5,fed
+recipe 315,ingefær,199.0,g
+recipe 315,kartoffel,999.0,g
+recipe 315,løg,4.5,stk
+recipe 315,olivenolie,997.5,ml
+recipe 315,saltede peanuts,199.5,g
+recipe 315,soja,249.5,ml
+recipe 315,spidskål,0.75,stk
+recipe 315,sriracha chilisauce,440.0,ml
+recipe 315,stødt spidskommen,0.5,stk
+recipe 316,basmati ris,498.5,g
+recipe 316,bredbladet persille,179.0,g
+recipe 316,champignon,50.0,g
+recipe 316,grøntsagsbouillon,198.0,
+recipe 316,hakkede tomater,0.5,stk
+recipe 316,hvidløg,9.5,fed
+recipe 316,ingefær,199.5,g
+recipe 316,kikærter,399.5,g
+recipe 316,kokosmælk,200.0,ml
+recipe 316,løg,5.0,stk
+recipe 316,olivenolie,998.0,ml
+recipe 316,parmesan,175.0,g
+recipe 316,rød peberfrugt,2.5,stk
+recipe 316,smør,4.5,g
+recipe 316,squash,0.5,stk
+recipe 316,stødt koriander,0.5,stk
+recipe 317,aubergine,0.5,stk
+recipe 317,bredbladet persille,179.5,g
+recipe 317,champignon,50.0,g
+recipe 317,frisk basilikum,0.5,stk
+recipe 317,grøntsagsbouillon,199.5,
+recipe 317,hvedemel,1950.0,g
+recipe 317,hvidløg,10.0,fed
+recipe 317,løg,5.0,stk
+recipe 317,olivenolie,998.5,ml
+recipe 317,parmesan,50.0,g
+recipe 317,rasp,498.5,g
+recipe 317,smør,4.0,g
+recipe 317,æg,8.5,stk
+recipe 318,aubergine,0.5,stk
+recipe 318,champignon,100.0,g
+recipe 318,græskarkerner,249.5,g
+recipe 318,grønkål,175.0,g
+recipe 318,grøntsagsbouillon,198.9,
+recipe 318,gulerod,7.0,stk
+recipe 318,hakkede tomater,0.5,stk
+recipe 318,hvidløg,9.0,fed
+recipe 318,kartoffel,599.5,g
+recipe 318,koncentreret tomatpuré,150.0,g
+recipe 318,løg,4.0,stk
+recipe 318,olivenolie,998.5,ml
+recipe 318,piskefløde,26.5,ml
+recipe 318,rasp,499.0,g
+recipe 318,rosmarin,0.5,stk
+recipe 318,røget paprika,0.5,stk
+recipe 318,soltørrede tomater i olie,105.0,g
+recipe 318,squash,0.5,stk
+recipe 318,sødmælk,999.5,ml
+recipe 318,timian,0.5,stk
+recipe 318,æble,8.5,stk
+recipe 319,basmati ris,498.5,g
+recipe 319,bredbladet persille,179.0,g
+recipe 319,champignon,50.0,g
+recipe 319,citron,5.75,stk
+recipe 319,grøntsagsbouillon,197.5,
+recipe 319,gulerod,2.5,stk
+recipe 319,hvidløg,10.5,fed
+recipe 319,løg,5.0,stk
+recipe 319,olivenolie,998.5,ml
+recipe 319,parmesan,175.0,g
+recipe 319,piskefløde,26.75,ml
+recipe 319,saltede peanuts,175.0,g
+recipe 319,smør,4.5,g
+recipe 319,stødt koriander,0.5,stk
+recipe 319,stødt spidskommen,0.5,stk
+recipe 319,æble,8.5,stk
+recipe 320,bredbladet persille,179.5,g
+recipe 320,champignon,50.0,g
+recipe 320,cheddar ost,50.0,g
+recipe 320,frisk koriander,0.5,stk
+recipe 320,grøntsagsbouillon,199.0,
+recipe 320,hakkede tomater,0.5,stk
+recipe 320,hvedemel,1999.5,g
+recipe 320,hvidløg,10.5,fed
+recipe 320,kanel,0.5,stk
+recipe 320,løg,5.0,stk
+recipe 320,majs,250.0,g
+recipe 320,olivenolie,998.5,ml
+recipe 320,parmesan,175.0,g
+recipe 320,røget paprika,0.5,stk
+recipe 320,smør,4.0,g
+recipe 320,squash,0.5,stk
+recipe 320,stødt koriander,0.5,stk
+recipe 320,stødt spidskommen,0.5,stk
+recipe 320,tortillas pandekager,2.0,stk
+recipe 321,bredbladet persille,179.5,g
+recipe 321,champignon,50.0,g
+recipe 321,frisk basilikum,0.5,stk
+recipe 321,grøntsagsbouillon,199.0,
+recipe 321,hvidløg,10.0,fed
+recipe 321,løg,5.0,stk
+recipe 321,olivenolie,998.5,ml
+recipe 321,parmesan,150.0,g
+recipe 321,rosmarin,0.5,stk
+recipe 321,smør,4.5,g
+recipe 321,soltørrede tomater i olie,95.0,g
+recipe 322,bredbladet persille,179.0,g
+recipe 322,champignon,50.0,g
+recipe 322,citron,5.75,stk
+recipe 322,frisk mynte,0.5,stk
+recipe 322,grøntsagsbouillon,199.0,
+recipe 322,hakkede tomater,0.5,stk
+recipe 322,hvidløg,10.0,fed
+recipe 322,ingefær,199.5,g
+recipe 322,kikærter,399.5,g
+recipe 322,koncentreret tomatpuré,175.0,g
+recipe 322,løg,4.5,stk
+recipe 322,olivenolie,998.0,ml
+recipe 322,parmesan,175.0,g
+recipe 322,rød chili,0.75,stk
+recipe 322,røget paprika,0.5,stk
+recipe 322,safran,0.5,stk
+recipe 322,smør,4.5,g
+recipe 322,stødt koriander,0.5,stk
+recipe 322,stødt spidskommen,0.5,stk
+recipe 323,agurk,0.75,stk
+recipe 323,avocado,33.0,stk
+recipe 323,cheddar ost,37.5,g
+recipe 323,cherrytomater,242.5,g
+recipe 323,grøntsagsbouillon,199.5,
+recipe 323,hvidløg,10.0,fed
+recipe 323,lime,3.5,stk
+recipe 323,løg,4.5,stk
+recipe 323,majs,325.0,g
+recipe 323,olivenolie,998.5,ml
+recipe 323,rød chili,0.5,stk
+recipe 323,rød peberfrugt,2.5,stk
+recipe 323,rødløg,6.5,stk
+recipe 323,røget paprika,0.5,stk
+recipe 323,squash,0.75,stk
+recipe 323,stødt spidskommen,0.5,stk
+recipe 323,tortillas pandekager,2.0,stk
+recipe 323,æg,8.0,stk
+recipe 324,basmati ris,498.5,g
+recipe 324,blomkål,0.5,stk
+recipe 324,cayenne peber,0.5,stk
+recipe 324,frisk koriander,0.5,stk
+recipe 324,frisk mynte,0.5,stk
+recipe 324,hakkede tomater,0.5,stk
+recipe 324,hvidløg,8.5,fed
+recipe 324,ingefær,198.5,g
+recipe 324,kartoffel,600.0,g
+recipe 324,lime,4.0,stk
+recipe 324,løg,5.0,stk
+recipe 324,olivenolie,998.0,ml
+recipe 325,agurk,0.5,stk
+recipe 325,bredbladet persille,179.5,g
+recipe 325,cherrytomater,200.0,g
+recipe 325,feta,75.0,g
+recipe 325,frisk basilikum,0.5,stk
+recipe 325,hvidløg,10.0,fed
+recipe 325,olivenolie,998.25,ml
+recipe 325,pasta,150.0,g
+recipe 325,rød chili,0.75,stk
+recipe 325,rød peberfrugt,2.5,stk
+recipe 325,rødløg,6.5,stk
+recipe 325,sukker,999.5,g
+recipe 325,timian,0.5,stk
+recipe 326,agurk,0.25,stk
+recipe 326,avocado,34.5,stk
+recipe 326,bredbladet persille,179.5,g
+recipe 326,burgerboller,4.0,stk
+recipe 326,frisk dild,179.5,g
+recipe 326,hvidløg,10.0,fed
+recipe 326,kikærter,399.5,g
+recipe 326,lime,4.75,stk
+recipe 326,mayonnaise,348.0,g
+recipe 326,olivenolie,999.0,ml
+recipe 326,rasp,475.0,g
+recipe 326,rød peberfrugt,2.5,stk
+recipe 326,rødløg,6.5,stk
+recipe 326,stødt koriander,0.5,stk
+recipe 326,stødt spidskommen,0.5,stk
+recipe 326,tomat,9.0,stk
+recipe 326,æg,9.5,stk
+recipe 327,bredbladet persille,179.5,g
+recipe 327,græskarkerner,249.5,g
+recipe 327,grønkål,175.0,g
+recipe 327,grøntsagsbouillon,196.4,
+recipe 327,hvidløg,8.0,fed
+recipe 327,kartoffel,600.0,g
+recipe 327,kikærter,399.5,g
+recipe 327,løg,4.0,stk
+recipe 327,olivenolie,998.5,ml
+recipe 327,piskefløde,26.0,ml
+recipe 327,rød peberfrugt,1.5,stk
+recipe 327,røget paprika,0.75,stk
+recipe 327,æble,8.5,stk
+recipe 328,cherrytomater,50.0,g
+recipe 328,feta,112.5,g
+recipe 328,frisk basilikum,0.5,stk
+recipe 328,grøntsagsbouillon,199.0,
+recipe 328,hvedemel,1975.0,g
+recipe 328,hvidløg,9.0,fed
+recipe 328,kikærter,399.5,g
+recipe 328,olivenolie,998.0,ml
+recipe 328,pasta,50.0,g
+recipe 328,persille,179.5,g
+recipe 328,rød chili,0.75,stk
+recipe 328,rødløg,6.0,stk
+recipe 328,æg,8.5,stk
+recipe 329,bredbladet persille,179.5,g
+recipe 329,champignon,75.0,g
+recipe 329,forårsløg,2.0,stk
+recipe 329,grøntsagsbouillon,198.75,
+recipe 329,hvedemel,1998.0,g
+recipe 329,hvidløg,10.0,fed
+recipe 329,løg,4.5,stk
+recipe 329,olivenolie,999.0,ml
+recipe 329,parmesan,175.0,g
+recipe 329,piskefløde,26.5,ml
+recipe 329,smør,4.5,g
+recipe 330,agurk,0.75,stk
+recipe 330,avocado,33.0,stk
+recipe 330,cayenne peber,0.75,stk
+recipe 330,cheddar ost,25.0,g
+recipe 330,cherrytomater,245.0,g
+recipe 330,frisk koriander,0.5,stk
+recipe 330,hakkede tomater,0.5,stk
+recipe 330,hvidløg,10.5,fed
+recipe 330,lime,3.5,stk
+recipe 330,løg,4.5,stk
+recipe 330,olivenolie,998.5,ml
+recipe 330,rød chili,0.5,stk
+recipe 330,rød peberfrugt,2.5,stk
+recipe 330,rødløg,6.5,stk
+recipe 330,squash,0.75,stk
+recipe 330,stødt spidskommen,0.5,stk
+recipe 330,tortillas pandekager,2.0,stk
+recipe 330,æg,8.0,stk
+recipe 331,bredbladet persille,179.5,g
+recipe 331,champignon,50.0,g
+recipe 331,frisk basilikum,0.5,stk
+recipe 331,grøntsagsbouillon,197.5,
+recipe 331,hakkede tomater,0.5,stk
+recipe 331,hvidløg,10.0,fed
+recipe 331,løg,5.0,stk
+recipe 331,olivenolie,998.5,ml
+recipe 331,parmesan,137.5,g
+recipe 331,piskefløde,26.5,ml
+recipe 331,rasp,485.0,g
+recipe 331,smør,4.5,g
+recipe 331,soltørrede tomater i olie,95.0,g
+recipe 332,bredbladet persille,179.0,g
+recipe 332,champignon,75.0,g
+recipe 332,grøntsagsbouillon,199.5,
+recipe 332,hasselnødder,149.0,g
+recipe 332,hokkaido græskar,0.5,stk
+recipe 332,hvidløg,10.5,fed
+recipe 332,løg,5.0,stk
+recipe 332,olivenolie,998.5,ml
+recipe 332,parmesan,175.0,g
+recipe 332,smør,4.5,g
+recipe 333,basmati ris,498.5,g
+recipe 333,bredbladet persille,179.5,g
+recipe 333,broccoli,399.5,g
+recipe 333,frisk koriander,0.5,stk
+recipe 333,gulerod,4.5,stk
+recipe 333,hvidløg,9.0,fed
+recipe 333,ingefær,189.5,g
+recipe 333,lime,4.5,stk
+recipe 333,løg,5.5,stk
+recipe 333,mayonnaise,335.0,g
+recipe 333,nudler,50.0,g
+recipe 333,olivenolie,999.0,ml
+recipe 333,peanutbutter,349.0,g
+recipe 333,pillede edamamebønner,150.0,g
+recipe 333,sesamfrø,227.5,g
+recipe 333,soja,249.0,ml
+recipe 333,sriracha chilisauce,449.5,ml
+recipe 333,sukker,985.0,g
+recipe 333,æblecidereddike,749.5,ml
+recipe 333,æg,6.0,stk
+recipe 334,bredbladet persille,179.5,g
+recipe 334,champignon,50.0,g
+recipe 334,frisk basilikum,0.5,stk
+recipe 334,grøntsagsbouillon,195.5,
+recipe 334,hakkede tomater,0.5,stk
+recipe 334,hvidløg,10.0,fed
+recipe 334,løg,5.0,stk
+recipe 334,olivenolie,998.5,ml
+recipe 334,parmesan,137.5,g
+recipe 334,piskefløde,26.5,ml
+recipe 334,smør,4.5,g
+recipe 334,soltørrede tomater i olie,95.0,g
+recipe 334,spinat,200.0,g
+recipe 334,squash,0.5,stk
+recipe 335,bredbladet persille,179.5,g
+recipe 335,champignon,50.0,g
+recipe 335,grøntsagsbouillon,199.0,
+recipe 335,hvidløg,11.5,fed
+recipe 335,løg,5.0,stk
+recipe 335,olivenolie,998.5,ml
+recipe 335,parmesan,175.0,g
+recipe 335,persille,179.5,g
+recipe 335,piskefløde,26.5,ml
+recipe 335,smør,4.5,g
+recipe 336,agurk,0.75,stk
+recipe 336,avocado,34.0,stk
+recipe 336,bredbladet persille,179.5,g
+recipe 336,champignon,50.0,g
+recipe 336,cheddar ost,87.5,g
+recipe 336,cherrytomater,242.5,g
+recipe 336,frisk koriander,0.5,stk
+recipe 336,grøntsagsbouillon,199.0,
+recipe 336,hvidløg,10.5,fed
+recipe 336,lime,4.5,stk
+recipe 336,løg,5.0,stk
+recipe 336,majs,325.0,g
+recipe 336,olivenolie,998.5,ml
+recipe 336,parmesan,175.0,g
+recipe 336,rødløg,6.5,stk
+recipe 336,smør,4.5,g
+recipe 336,stødt koriander,0.5,stk
+recipe 336,stødt spidskommen,0.5,stk
+recipe 337,aubergine,0.5,stk
+recipe 337,champignon,75.0,g
+recipe 337,frisk basilikum,0.5,stk
+recipe 337,græskarkerner,249.5,g
+recipe 337,grønkål,175.0,g
+recipe 337,grøntsagsbouillon,198.9,
+recipe 337,gulerod,6.0,stk
+recipe 337,hakkede tomater,0.5,stk
+recipe 337,hvedemel,1999.0,g
+recipe 337,hvidløg,9.0,fed
+recipe 337,kartoffel,600.0,g
+recipe 337,koncentreret tomatpuré,199.5,g
+recipe 337,løg,4.0,stk
+recipe 337,mælk,998.5,ml
+recipe 337,olivenolie,998.5,ml
+recipe 337,piskefløde,25.75,ml
+recipe 337,smør,4.0,g
+recipe 337,squash,0.5,stk
+recipe 337,stængler bladselleri,0.5,stk
+recipe 337,æble,8.5,stk
+recipe 338,aubergine,0.5,stk
+recipe 338,bredbladet persille,179.5,g
+recipe 338,champignon,125.0,g
+recipe 338,grøntsagsbouillon,199.5,
+recipe 338,hvedemel,1999.5,g
+recipe 338,hvidløg,10.5,fed
+recipe 338,kanel,0.5,stk
+recipe 338,kartoffel,998.0,g
+recipe 338,løg,4.5,stk
+recipe 338,mælk,998.5,ml
+recipe 338,olivenolie,998.0,ml
+recipe 338,parmesan,175.0,g
+recipe 338,smør,4.0,g
+recipe 338,soltørrede tomater i olie,118.5,g
+recipe 338,squash,0.5,stk
+recipe 338,stødt spidskommen,0.5,stk
+recipe 339,avocado,34.0,stk
+recipe 339,cheddar ost,75.0,g
+recipe 339,cherrytomater,45.0,g
+recipe 339,frisk basilikum,0.5,stk
+recipe 339,frisk koriander,0.5,stk
+recipe 339,grøntsagsbouillon,197.5,
+recipe 339,hakkede tomater,0.5,stk
+recipe 339,hvidløg,9.0,fed
+recipe 339,kikærter,399.5,g
+recipe 339,kyllingebryst,125.0,g
+recipe 339,løg,5.0,stk
+recipe 339,olivenolie,998.0,ml
+recipe 339,pasta,50.0,g
+recipe 339,rød chili,0.25,stk
+recipe 339,rød peberfrugt,2.5,stk
+recipe 339,røget paprika,0.5,stk
+recipe 339,squash,0.5,stk
+recipe 339,stødt koriander,0.5,stk
+recipe 339,timian,0.5,stk
+recipe 340,aubergine,0.5,stk
+recipe 340,avocado,34.0,stk
+recipe 340,cheddar ost,25.0,g
+recipe 340,grøntsagsbouillon,199.5,
+recipe 340,hakkede tomater,0.5,stk
+recipe 340,hvidløg,10.0,fed
+recipe 340,kanel,0.5,stk
+recipe 340,lime,3.5,stk
+recipe 340,løg,5.0,stk
+recipe 340,mørk chokolade,85.0,g
+recipe 340,olivenolie,997.5,ml
+recipe 340,rød chili,0.25,stk
+recipe 340,rød peberfrugt,2.5,stk
+recipe 340,rødløg,6.0,stk
+recipe 340,soltørrede tomater i olie,118.5,g
+recipe 340,squash,0.25,stk
+recipe 340,stødt koriander,0.75,stk
+recipe 340,stødt spidskommen,0.25,stk
+recipe 340,tortillas pandekager,2.0,stk
+recipe 340,æg,8.0,stk
+recipe 341,agurk,0.75,stk
+recipe 341,avocado,33.5,stk
+recipe 341,cheddar ost,87.5,g
+recipe 341,cherrytomater,242.5,g
+recipe 341,grøntsagsbouillon,198.0,
+recipe 341,hakkede tomater,0.5,stk
+recipe 341,hvidløg,9.0,fed
+recipe 341,ingefær,199.5,g
+recipe 341,kanel,0.75,stk
+recipe 341,lime,4.5,stk
+recipe 341,løg,4.0,stk
+recipe 341,majs,200.0,g
+recipe 341,mørk chokolade,87.5,g
+recipe 341,olivenolie,999.0,ml
+recipe 341,rød peberfrugt,2.5,stk
+recipe 341,rødløg,6.5,stk
+recipe 341,røget paprika,0.75,stk
+recipe 341,squash,0.5,stk
+recipe 341,stængler bladselleri,0.5,stk
+recipe 341,stødt koriander,0.5,stk
+recipe 341,stødt spidskommen,0.5,stk
+recipe 342,agurk,0.75,stk
+recipe 342,aubergine,0.5,stk
+recipe 342,avocado,34.0,stk
+recipe 342,cayenne peber,0.75,stk
+recipe 342,cheddar ost,25.0,g
+recipe 342,cherrytomater,245.0,g
+recipe 342,frisk koriander,0.5,stk
+recipe 342,grøntsagsbouillon,199.5,
+recipe 342,hvidløg,10.5,fed
+recipe 342,kanel,0.5,stk
+recipe 342,lime,4.0,stk
+recipe 342,løg,5.5,stk
+recipe 342,mørk chokolade,85.0,g
+recipe 342,olivenolie,998.0,ml
+recipe 342,rød chili,0.75,stk
+recipe 342,rødløg,5.5,stk
+recipe 342,soltørrede tomater i olie,118.5,g
+recipe 342,squash,0.5,stk
+recipe 342,stødt koriander,0.75,stk
+recipe 342,stødt spidskommen,0.75,stk
+recipe 343,broccoli,399.0,g
+recipe 343,forårsløg,2.0,stk
+recipe 343,gulerod,6.5,stk
+recipe 343,hvidløg,9.0,fed
+recipe 343,ingefær,189.5,g
+recipe 343,kokosmælk,200.0,ml
+recipe 343,lime,3.5,stk
+recipe 343,løg,5.5,stk
+recipe 343,nudler,150.0,g
+recipe 343,olivenolie,998.0,ml
+recipe 343,peanutbutter,349.0,g
+recipe 343,pillede edamamebønner,150.0,g
+recipe 343,rød chili,0.5,stk
+recipe 343,sesamfrø,240.0,g
+recipe 343,soja,248.5,ml
+recipe 343,spidskål,0.5,stk
+recipe 343,spinat,150.0,g
+recipe 343,squash,0.5,stk
+recipe 343,sukker,999.0,g
+recipe 343,æblecidereddike,749.0,ml
+recipe 343,æg,6.0,stk
+recipe 344,agurk,0.75,stk
+recipe 344,avocado,33.5,stk
+recipe 344,basmati ris,350.0,g
+recipe 344,cayenne peber,0.75,stk
+recipe 344,cheddar ost,12.5,g
+recipe 344,cherrytomater,182.5,g
+recipe 344,frisk koriander,0.5,stk
+recipe 344,grøntsagsbouillon,197.0,
+recipe 344,gulerod,7.0,stk
+recipe 344,hvidløg,9.5,fed
+recipe 344,kanel,0.75,stk
+recipe 344,lime,4.0,stk
+recipe 344,løg,4.5,stk
+recipe 344,olivenolie,998.0,ml
+recipe 344,rød chili,0.75,stk
+recipe 344,rød peberfrugt,2.0,stk
+recipe 344,rødløg,6.5,stk
+recipe 344,røget paprika,0.5,stk
+recipe 344,squash,0.5,stk
+recipe 344,sriracha chilisauce,449.5,ml
+recipe 344,stødt koriander,0.5,stk
+recipe 344,stødt spidskommen,0.5,stk
+recipe 345,baby spinat,99.5,g
+recipe 345,blomkål,0.25,stk
+recipe 345,frisk mynte,0.5,stk
+recipe 345,grøntsagsbouillon,198.0,
+recipe 345,hvidløg,8.5,fed
+recipe 345,ingefær,199.5,g
+recipe 345,kartoffel,998.5,g
+recipe 345,kikærter,399.5,g
+recipe 345,løg,5.0,stk
+recipe 345,olivenolie,998.5,ml
+recipe 345,rødløg,6.5,stk
+recipe 345,squash,0.5,stk
+recipe 345,stødt spidskommen,0.5,stk
+recipe 346,avocado,34.5,stk
+recipe 346,basmati ris,350.0,g
+recipe 346,bredbladet persille,179.5,g
+recipe 346,cheddar ost,62.5,g
+recipe 346,cherrytomater,187.5,g
+recipe 346,frisk koriander,0.5,stk
+recipe 346,grøntsagsbouillon,195.0,
+recipe 346,gulerod,7.0,stk
+recipe 346,hakkede tomater,0.5,stk
+recipe 346,hvedemel,1999.0,g
+recipe 346,hvidløg,9.0,fed
+recipe 346,kanel,0.75,stk
+recipe 346,lime,4.5,stk
+recipe 346,løg,4.5,stk
+recipe 346,olivenolie,998.5,ml
+recipe 346,rød chili,0.75,stk
+recipe 346,rød peberfrugt,2.0,stk
+recipe 346,røget paprika,0.5,stk
+recipe 346,squash,0.5,stk
+recipe 346,sriracha chilisauce,449.5,ml
+recipe 346,stødt koriander,0.5,stk
+recipe 346,stødt spidskommen,0.5,stk
+recipe 346,æg,9.5,stk
+recipe 347,champignon,75.0,g
+recipe 347,grøntsagsbouillon,199.5,
+recipe 347,gær,42.5,g
+recipe 347,hasselnødder,148.0,g
+recipe 347,hvidløg,11.0,fed
+recipe 347,løg,5.0,stk
+recipe 347,olivenolie,998.0,ml
+recipe 347,parmesan,175.0,g
+recipe 347,smør,4.5,g
+recipe 347,æg,7.5,stk
+recipe 348,grøntsagsbouillon,199.5,
+recipe 348,gær,42.5,g
+recipe 348,hvidløg,10.0,fed
+recipe 348,løg,5.0,stk
+recipe 348,olivenolie,998.0,ml
+recipe 348,parmesan,175.0,g
+recipe 348,rosmarin,0.5,stk
+recipe 348,soltørrede tomater i olie,95.0,g
+recipe 349,aubergine,0.5,stk
+recipe 349,bredbladet persille,179.5,g
+recipe 349,champignon,100.0,g
+recipe 349,frisk basilikum,0.5,stk
+recipe 349,grøntsagsbouillon,199.5,
+recipe 349,gulerod,6.0,stk
+recipe 349,hakkede tomater,0.5,stk
+recipe 349,hasselnødder,149.0,g
+recipe 349,hokkaido græskar,0.5,stk
+recipe 349,hvedemel,1999.0,g
+recipe 349,hvidløg,9.5,fed
+recipe 349,koncentreret tomatpuré,199.5,g
+recipe 349,løg,4.5,stk
+recipe 349,mælk,998.5,ml
+recipe 349,olivenolie,998.5,ml
+recipe 349,piskefløde,26.25,ml
+recipe 349,smør,4.0,g
+recipe 349,squash,0.5,stk
+recipe 349,stængler bladselleri,0.5,stk
+recipe 350,avocado,34.5,stk
+recipe 350,cheddar ost,50.0,g
+recipe 350,grøntsagsbouillon,198.0,
+recipe 350,hvedemel,1999.5,g
+recipe 350,hvidløg,9.0,fed
+recipe 350,ingefær,199.5,g
+recipe 350,kanel,0.25,stk
+recipe 350,løg,4.0,stk
+recipe 350,majs,125.0,g
+recipe 350,mørk chokolade,87.5,g
+recipe 350,olivenolie,999.0,ml
+recipe 350,rød peberfrugt,2.5,stk
+recipe 350,røget paprika,0.25,stk
+recipe 350,smør,4.5,g
+recipe 350,stængler bladselleri,0.5,stk
+recipe 350,stødt koriander,0.5,stk
+recipe 350,stødt spidskommen,0.5,stk
+recipe 350,tortillas pandekager,2.0,stk
+recipe 351,blomkål,0.75,stk
+recipe 351,bredbladet persille,179.5,g
+recipe 351,grøntsagsbouillon,197.0,
+recipe 351,hakkede tomater,0.5,stk
+recipe 351,hvedemel,1999.0,g
+recipe 351,hvidløg,9.0,fed
+recipe 351,kartoffel,998.5,g
+recipe 351,kikærter,399.5,g
+recipe 351,kokosmælk,200.0,ml
+recipe 351,løg,4.5,stk
+recipe 351,olivenolie,999.0,ml
+recipe 351,røget paprika,0.5,stk
+recipe 351,squash,0.5,stk
+recipe 351,stødt spidskommen,0.5,stk
+recipe 351,æg,9.5,stk
+recipe 352,grøntsagsbouillon,199.0,
+recipe 352,gulerod,6.5,stk
+recipe 352,hvidløg,9.5,fed
+recipe 352,kartoffel,998.5,g
+recipe 352,koncentreret tomatpuré,165.0,g
+recipe 352,løg,5.0,stk
+recipe 352,olivenolie,999.0,ml
+recipe 352,parmesan,175.0,g
+recipe 352,porre,0.5,stk
+recipe 352,rosmarin,0.5,stk
+recipe 352,soltørrede tomater i olie,95.0,g
+recipe 353,bredbladet persille,179.0,g
+recipe 353,cayenne peber,0.5,stk
+recipe 353,grøntsagsbouillon,198.0,
+recipe 353,hvedemel,1984.0,g
+recipe 353,hvidløg,10.0,fed
+recipe 353,løg,5.5,stk
+recipe 353,olivenolie,999.5,ml
+recipe 353,rødløg,6.5,stk
+recipe 353,røget paprika,0.5,stk
+recipe 353,æg,8.5,stk
+recipe 354,avocado,34.0,stk
+recipe 354,bredbladet persille,179.5,g
+recipe 354,cheddar ost,75.0,g
+recipe 354,cherrytomater,245.0,g
+recipe 354,frisk koriander,0.5,stk
+recipe 354,grøntsagsbouillon,195.5,
+recipe 354,hakkede tomater,0.5,stk
+recipe 354,hvedemel,1999.0,g
+recipe 354,hvidløg,9.5,fed
+recipe 354,kikærter,399.5,g
+recipe 354,kyllingebryst,125.0,g
+recipe 354,løg,4.5,stk
+recipe 354,olivenolie,999.5,ml
+recipe 354,rød chili,0.5,stk
+recipe 354,rød peberfrugt,2.5,stk
+recipe 354,squash,0.5,stk
+recipe 354,stødt spidskommen,0.5,stk
+recipe 354,æg,9.5,stk
+recipe 355,avocado,34.0,stk
+recipe 355,bredbladet persille,179.5,g
+recipe 355,cheddar ost,75.0,g
+recipe 355,cherrytomater,245.0,g
+recipe 355,citron,5.75,stk
+recipe 355,frisk koriander,0.5,stk
+recipe 355,frisk mynte,0.5,stk
+recipe 355,grøntsagsbouillon,197.0,
+recipe 355,hvidløg,9.0,fed
+recipe 355,ingefær,199.5,g
+recipe 355,kikærter,399.0,g
+recipe 355,koncentreret tomatpuré,175.0,g
+recipe 355,kyllingebryst,125.0,g
+recipe 355,løg,4.0,stk
+recipe 355,olivenolie,998.5,ml
+recipe 355,rød chili,0.25,stk
+recipe 355,rød peberfrugt,2.5,stk
+recipe 355,safran,0.5,stk
+recipe 355,squash,0.5,stk
+recipe 355,stødt spidskommen,0.5,stk
+recipe 356,basmati ris,498.5,g
+recipe 356,bredbladet persille,179.0,g
+recipe 356,citron,5.75,stk
+recipe 356,frisk mynte,0.5,stk
+recipe 356,grøntsagsbouillon,198.0,
+recipe 356,hvidløg,8.5,fed
+recipe 356,ingefær,199.0,g
+recipe 356,kikærter,399.0,g
+recipe 356,kokosmælk,200.0,ml
+recipe 356,koncentreret tomatpuré,175.0,g
+recipe 356,løg,4.5,stk
+recipe 356,olivenolie,998.0,ml
+recipe 356,rød chili,0.75,stk
+recipe 356,rød peberfrugt,2.5,stk
+recipe 356,røget paprika,0.5,stk
+recipe 356,safran,0.5,stk
+recipe 356,squash,0.5,stk
+recipe 356,stødt spidskommen,0.5,stk
+recipe 357,avocado,34.5,stk
+recipe 357,bredbladet persille,179.5,g
+recipe 357,frisk koriander,0.5,stk
+recipe 357,grøntsagsbouillon,196.5,
+recipe 357,hakkede tomater,0.5,stk
+recipe 357,hvedemel,1999.0,g
+recipe 357,hvidløg,9.0,fed
+recipe 357,ingefær,199.5,g
+recipe 357,kanel,0.75,stk
+recipe 357,løg,4.0,stk
+recipe 357,majs,275.0,g
+recipe 357,mørk chokolade,87.5,g
+recipe 357,olivenolie,999.5,ml
+recipe 357,rød peberfrugt,2.5,stk
+recipe 357,røget paprika,0.25,stk
+recipe 357,squash,0.5,stk
+recipe 357,stængler bladselleri,0.5,stk
+recipe 357,stødt koriander,0.5,stk
+recipe 357,stødt spidskommen,0.5,stk
+recipe 357,æg,9.5,stk
+recipe 358,avocado,34.5,stk
+recipe 358,basmati ris,498.5,g
+recipe 358,bredbladet persille,179.5,g
+recipe 358,frisk koriander,0.5,stk
+recipe 358,grøntsagsbouillon,197.0,
+recipe 358,hvidløg,8.0,fed
+recipe 358,ingefær,199.0,g
+recipe 358,kanel,0.75,stk
+recipe 358,kikærter,399.5,g
+recipe 358,kokosmælk,200.0,ml
+recipe 358,løg,4.0,stk
+recipe 358,majs,275.0,g
+recipe 358,mørk chokolade,87.5,g
+recipe 358,olivenolie,998.5,ml
+recipe 358,rød peberfrugt,2.0,stk
+recipe 358,røget paprika,0.75,stk
+recipe 358,stængler bladselleri,0.5,stk
+recipe 358,stødt koriander,0.5,stk
+recipe 359,avocado,34.0,stk
+recipe 359,bredbladet persille,179.5,g
+recipe 359,cheddar ost,75.0,g
+recipe 359,frisk koriander,0.5,stk
+recipe 359,grøntsagsbouillon,198.0,
+recipe 359,hvedemel,1999.0,g
+recipe 359,hvidløg,10.0,fed
+recipe 359,lime,4.0,stk
+recipe 359,løg,4.5,stk
+recipe 359,olivenolie,999.0,ml
+recipe 359,rød chili,0.5,stk
+recipe 359,rød peberfrugt,2.5,stk
+recipe 359,squash,0.75,stk
+recipe 359,stødt spidskommen,0.5,stk
+recipe 359,tortillas pandekager,2.0,stk
+recipe 359,æg,7.5,stk
+recipe 360,aubergine,0.5,stk
+recipe 360,bredbladet persille,179.5,g
+recipe 360,champignon,100.0,g
+recipe 360,hasselnødder,149.0,g
+recipe 360,hokkaido græskar,0.5,stk
+recipe 360,hvedemel,1999.5,g
+recipe 360,hvidløg,10.0,fed
+recipe 360,kanel,0.5,stk
+recipe 360,kartoffel,998.0,g
+recipe 360,løg,4.5,stk
+recipe 360,mælk,998.5,ml
+recipe 360,olivenolie,998.5,ml
+recipe 360,smør,4.5,g
+recipe 360,soltørrede tomater i olie,118.5,g
+recipe 360,squash,0.5,stk
+recipe 360,stødt spidskommen,0.5,stk
+recipe 361,basmati ris,498.5,g
+recipe 361,bredbladet persille,179.0,g
+recipe 361,citron,5.75,stk
+recipe 361,grøntsagsbouillon,196.0,
+recipe 361,gulerod,2.5,stk
+recipe 361,hvedemel,1999.0,g
+recipe 361,hvidløg,10.0,fed
+recipe 361,løg,5.0,stk
+recipe 361,olivenolie,999.5,ml
+recipe 361,piskefløde,26.75,ml
+recipe 361,røget paprika,0.5,stk
+recipe 361,saltede peanuts,175.0,g
+recipe 361,æble,8.5,stk
+recipe 361,æg,9.5,stk
+recipe 362,agurk,0.75,stk
+recipe 362,avocado,34.5,stk
+recipe 362,basmati ris,498.5,g
+recipe 362,broccoli,325.0,g
+recipe 362,fishsauce,199.5,ml
+recipe 362,gulerod,6.5,stk
+recipe 362,hvidløg,10.5,fed
+recipe 362,ingefær,194.5,g
+recipe 362,kokosmælk,200.0,ml
+recipe 362,lime,4.5,stk
+recipe 362,mayonnaise,312.5,g
+recipe 362,nudler,150.0,g
+recipe 362,olivenolie,999.5,ml
+recipe 362,sesamfrø,241.0,g
+recipe 362,sesamolie,499.75,ml
+recipe 362,soja,249.5,ml
+recipe 362,spinat,200.0,g
+recipe 362,sukker,985.0,g
+recipe 362,æblecidereddike,749.5,ml
+recipe 363,bredbladet persille,179.5,g
+recipe 363,frisk timian,0.5,stk
+recipe 363,grøntsagsbouillon,196.5,
+recipe 363,gulerod,6.5,stk
+recipe 363,hvidløg,8.5,fed
+recipe 363,kartoffel,998.5,g
+recipe 363,kikærter,399.5,g
+recipe 363,koncentreret tomatpuré,150.0,g
+recipe 363,løg,4.0,stk
+recipe 363,olivenolie,998.0,ml
+recipe 363,piskefløde,26.25,ml
+recipe 363,porre,0.5,stk
+recipe 363,rød peberfrugt,1.5,stk
+recipe 363,røget paprika,0.75,stk
+recipe 363,stødt spidskommen,0.5,stk
+recipe 363,timian,0.5,stk
+recipe 364,bredbladet persille,179.0,g
+recipe 364,frisk basilikum,0.5,stk
+recipe 364,fuldkornshvedemel,937.5,g
+recipe 364,gær,32.5,g
+recipe 364,hakkede tomater,0.75,stk
+recipe 364,hvedemel,1612.5,g
+recipe 364,hvidløg,10.0,fed
+recipe 364,kartoffel,900.0,g
+recipe 364,koncentreret tomatpuré,185.0,g
+recipe 364,olivenolie,997.0,ml
+recipe 364,rødløg,6.0,stk
+recipe 365,bredbladet persille,179.0,g
+recipe 365,frisk basilikum,0.5,stk
+recipe 365,fuldkornshvedemel,937.5,g
+recipe 365,gær,32.5,g
+recipe 365,hakkede tomater,0.75,stk
+recipe 365,hvedemel,1612.5,g
+recipe 365,hvidløg,10.0,fed
+recipe 365,kartoffel,900.0,g
+recipe 365,koncentreret tomatpuré,185.0,g
+recipe 365,olivenolie,997.0,ml
+recipe 365,rødløg,6.0,stk
+recipe 366,avocado,34.5,stk
+recipe 366,bredbladet persille,179.5,g
+recipe 366,frisk koriander,0.5,stk
+recipe 366,grøntsagsbouillon,195.5,
+recipe 366,hakkede tomater,0.5,stk
+recipe 366,hvidløg,7.5,fed
+recipe 366,ingefær,199.5,g
+recipe 366,kanel,0.75,stk
+recipe 366,kikærter,399.5,g
+recipe 366,løg,3.5,stk
+recipe 366,majs,275.0,g
+recipe 366,mørk chokolade,87.5,g
+recipe 366,olivenolie,998.5,ml
+recipe 366,piskefløde,26.5,ml
+recipe 366,rød peberfrugt,1.0,stk
+recipe 366,røget paprika,0.5,stk
+recipe 366,squash,0.5,stk
+recipe 366,stængler bladselleri,0.5,stk
+recipe 367,frisk basilikum,0.5,stk
+recipe 367,frisk timian,0.5,stk
+recipe 367,grahamsmel,950.0,g
+recipe 367,gær,35.0,g
+recipe 367,hakkede tomater,0.75,stk
+recipe 367,hvedemel,1550.0,g
+recipe 367,hvidløg,9.5,fed
+recipe 367,koncentreret tomatpuré,185.0,g
+recipe 367,olivenolie,997.0,ml
+recipe 367,parmesan,150.0,g
+recipe 367,rødløg,6.5,stk
+recipe 367,spinat,187.5,g
+recipe 368,frisk basilikum,0.75,stk
+recipe 368,grøntsagsbouillon,199.5,
+recipe 368,hvedemel,1937.5,g
+recipe 368,hvidløg,9.5,fed
+recipe 368,løg,5.0,stk
+recipe 368,olivenolie,998.5,ml
+recipe 368,parmesan,125.0,g
+recipe 368,rød chili,0.75,stk
+recipe 368,soltørrede tomater i olie,119.5,g
+recipe 368,squash,0.5,stk
+recipe 368,timian,0.5,stk
+recipe 368,æg,8.5,stk
+recipe 369,basmati ris,498.5,g
+recipe 369,bredbladet persille,179.0,g
+recipe 369,grøntsagsbouillon,195.5,
+recipe 369,hakkede tomater,0.5,stk
+recipe 369,hvidløg,7.5,fed
+recipe 369,ingefær,199.5,g
+recipe 369,kikærter,399.0,g
+recipe 369,kokosmælk,200.0,ml
+recipe 369,løg,4.5,stk
+recipe 369,olivenolie,998.0,ml
+recipe 369,piskefløde,26.5,ml
+recipe 369,rød peberfrugt,1.0,stk
+recipe 369,røget paprika,0.75,stk
+recipe 369,squash,0.5,stk
+recipe 369,stødt koriander,0.5,stk
+recipe 370,frisk mynte,0.5,stk
+recipe 370,grøntsagsbouillon,199.0,
+recipe 370,hvidløg,10.0,fed
+recipe 370,hvidvin,749.5,ml
+recipe 370,løg,5.0,stk
+recipe 370,olivenolie,999.0,ml
+recipe 370,parmesan,160.0,g
+recipe 370,piskefløde,26.5,ml
+recipe 370,smør,4.5,g
+recipe 370,spaghetti,300.0,g
+recipe 370,spinat,187.5,g
+recipe 371,broccoli,399.5,g
+recipe 371,cashewnødder,75.0,g
+recipe 371,forårsløg,2.0,stk
+recipe 371,frisk koriander,0.5,stk
+recipe 371,frisk mynte,0.5,stk
+recipe 371,hvidløg,10.0,fed
+recipe 371,ingefær,198.5,g
+recipe 371,lime,4.0,stk
+recipe 371,løg,5.5,stk
+recipe 371,olivenolie,998.0,ml
+recipe 371,pillede edamamebønner,200.0,g
+recipe 371,rød chili,0.25,stk
+recipe 371,soja,249.0,ml
+recipe 371,spidskål,0.5,stk
+recipe 371,squash,0.5,stk
+recipe 371,sukker,998.25,g
+recipe 371,æblecidereddike,749.0,ml
+recipe 371,æg,8.0,stk
+recipe 372,agurk,0.5,stk
+recipe 372,avocado,34.5,stk
+recipe 372,blandet salat,37.5,g
+recipe 372,burgerboller,4.0,stk
+recipe 372,dijon sennep,379.0,g
+recipe 372,gulerod,7.5,stk
+recipe 372,havregryn,987.0,g
+recipe 372,hvedemel,1975.0,g
+recipe 372,hvidløg,11.0,fed
+recipe 372,kapers,64.0,g
+recipe 372,mayonnaise,349.0,g
+recipe 372,olivenolie,999.0,ml
+recipe 372,purløg,179.5,g
+recipe 372,rødbede,848.5,g
+recipe 372,rødløg,6.25,stk
+recipe 372,smør,4.0,g
+recipe 372,æg,8.0,stk
+recipe 373,aubergine,0.5,stk
+recipe 373,champignon,75.0,g
+recipe 373,grøntsagsbouillon,199.5,
+recipe 373,gulerod,6.0,stk
+recipe 373,gær,45.0,g
+recipe 373,hakkede tomater,0.25,stk
+recipe 373,hvedemel,1774.0,g
+recipe 373,hvidløg,9.0,fed
+recipe 373,koncentreret tomatpuré,184.5,g
+recipe 373,løg,5.0,stk
+recipe 373,mælk,998.5,ml
+recipe 373,olivenolie,997.5,ml
+recipe 373,piskefløde,26.25,ml
+recipe 373,rødløg,6.5,stk
+recipe 373,smør,4.0,g
+recipe 373,squash,0.5,stk
+recipe 373,stængler bladselleri,0.5,stk
+recipe 374,champignon,75.0,g
+recipe 374,frisk basilikum,0.25,stk
+recipe 374,grøntsagsbouillon,199.0,
+recipe 374,hasselnødder,148.0,g
+recipe 374,hvedemel,1937.5,g
+recipe 374,hvidløg,10.5,fed
+recipe 374,løg,4.5,stk
+recipe 374,olivenolie,999.5,ml
+recipe 374,parmesan,125.0,g
+recipe 374,smør,4.5,g
+recipe 374,soltørrede tomater i olie,119.5,g
+recipe 374,spinat,50.0,g
+recipe 374,squash,0.5,stk
+recipe 374,timian,0.5,stk
+recipe 374,æg,6.5,stk
+recipe 375,frisk basilikum,0.25,stk
+recipe 375,grøntsagsbouillon,199.0,
+recipe 375,hvedemel,1937.5,g
+recipe 375,hvidløg,10.0,fed
+recipe 375,løg,4.5,stk
+recipe 375,olivenolie,999.5,ml
+recipe 375,parmesan,135.0,g
+recipe 375,piskefløde,26.5,ml
+recipe 375,soltørrede tomater i olie,119.5,g
+recipe 375,spaghetti,300.0,g
+recipe 375,spinat,237.5,g
+recipe 375,squash,0.5,stk
+recipe 375,timian,0.5,stk
+recipe 375,æg,9.0,stk
+recipe 376,avocado,34.5,stk
+recipe 376,blandet salat,37.5,g
+recipe 376,burgerboller,4.0,stk
+recipe 376,honning,399.5,g
+recipe 376,hvidløg,11.5,fed
+recipe 376,mayonnaise,349.0,g
+recipe 376,olivenolie,998.5,ml
+recipe 376,rød peberfrugt,2.5,stk
+recipe 376,rødløg,5.0,stk
+recipe 376,røget paprika,0.75,stk
+recipe 376,sesamfrø,249.5,g
+recipe 376,squash,0.5,stk
+recipe 376,sriracha chilisauce,449.0,ml
+recipe 376,tahin,0.5,stk
+recipe 376,timian,0.5,stk
+recipe 376,æblecidereddike,748.5,ml
+recipe 377,bredbladet persille,179.0,g
+recipe 377,fuldkornshvedemel,937.5,g
+recipe 377,gær,25.0,g
+recipe 377,hvedemel,1587.5,g
+recipe 377,hvidløg,11.5,fed
+recipe 377,kartoffel,898.5,g
+recipe 377,olivenolie,997.0,ml
+recipe 377,rødløg,6.5,stk
+recipe 378,bredbladet persille,179.0,g
+recipe 378,champignon,75.0,g
+recipe 378,grøntsagsbouillon,196.0,
+recipe 378,hvedemel,1999.5,g
+recipe 378,hvidløg,7.5,fed
+recipe 378,kikærter,399.5,g
+recipe 378,koncentreret tomatpuré,197.5,g
+recipe 378,løg,4.0,stk
+recipe 378,olivenolie,998.5,ml
+recipe 378,piskefløde,26.0,ml
+recipe 378,rød peberfrugt,1.5,stk
+recipe 378,røget paprika,0.25,stk
+recipe 378,smør,4.5,g
+recipe 379,champignon,75.0,g
+recipe 379,grøntsagsbouillon,199.0,
+recipe 379,hasselnødder,148.0,g
+recipe 379,hvidløg,10.5,fed
+recipe 379,løg,5.0,stk
+recipe 379,olivenolie,999.0,ml
+recipe 379,parmesan,160.0,g
+recipe 379,piskefløde,26.5,ml
+recipe 379,smør,4.5,g
+recipe 379,spaghetti,300.0,g
+recipe 379,spinat,187.5,g
+recipe 379,æg,7.5,stk
+recipe 380,frisk basilikum,0.25,stk
+recipe 380,grøntsagsbouillon,199.0,
+recipe 380,hvedemel,1937.5,g
+recipe 380,hvidløg,10.0,fed
+recipe 380,løg,4.5,stk
+recipe 380,olivenolie,999.5,ml
+recipe 380,parmesan,135.0,g
+recipe 380,piskefløde,26.5,ml
+recipe 380,soltørrede tomater i olie,119.5,g
+recipe 380,spaghetti,300.0,g
+recipe 380,spinat,237.5,g
+recipe 380,squash,0.5,stk
+recipe 380,timian,0.5,stk
+recipe 380,æg,9.0,stk
+recipe 381,frisk basilikum,0.25,stk
+recipe 381,grøntsagsbouillon,197.5,
+recipe 381,hakkede tomater,0.5,stk
+recipe 381,hvedemel,1937.5,g
+recipe 381,hvidløg,9.5,fed
+recipe 381,løg,4.5,stk
+recipe 381,olivenolie,999.5,ml
+recipe 381,parmesan,112.5,g
+recipe 381,piskefløde,26.5,ml
+recipe 381,rasp,485.0,g
+recipe 381,soltørrede tomater i olie,94.5,g
+recipe 381,spinat,50.0,g
+recipe 381,squash,0.5,stk
+recipe 381,timian,0.5,stk
+recipe 381,æg,9.0,stk
+recipe 382,grøntsagsbouillon,199.0,
+recipe 382,hvidløg,9.5,fed
+recipe 382,løg,5.0,stk
+recipe 382,olivenolie,999.0,ml
+recipe 382,parmesan,160.0,g
+recipe 382,piskefløde,26.5,ml
+recipe 382,rosmarin,0.5,stk
+recipe 382,soltørrede tomater i olie,95.0,g
+recipe 382,spaghetti,300.0,g
+recipe 382,spinat,187.5,g
+recipe 383,feta,100.0,g
+recipe 383,frisk basilikum,0.5,stk
+recipe 383,frisk timian,0.5,stk
+recipe 383,grahamsmel,950.0,g
+recipe 383,gær,35.0,g
+recipe 383,hvedemel,1525.0,g
+recipe 383,hvidløg,10.0,fed
+recipe 383,kartoffel,999.0,g
+recipe 383,olivenolie,997.0,ml
+recipe 383,parmesan,150.0,g
+recipe 383,soltørrede tomater i olie,95.0,g
+recipe 383,spinat,187.5,g
+recipe 384,grøntsagsbouillon,199.5,
+recipe 384,hvidløg,9.0,fed
+recipe 384,løg,5.0,stk
+recipe 384,olivenolie,999.0,ml
+recipe 384,parmesan,160.0,g
+recipe 384,pasta,50.0,g
+recipe 384,piskefløde,26.25,ml
+recipe 384,spaghetti,300.0,g
+recipe 384,spinat,187.5,g
+recipe 384,squash,0.5,stk
+recipe 385,frisk basilikum,0.25,stk
+recipe 385,grøntsagsbouillon,199.5,
+recipe 385,hvedemel,1937.5,g
+recipe 385,hvidløg,10.0,fed
+recipe 385,løg,4.0,stk
+recipe 385,olivenolie,999.5,ml
+recipe 385,parmesan,125.0,g
+recipe 385,pinjekerner,48.5,g
+recipe 385,smør,4.5,g
+recipe 385,soltørrede tomater i olie,119.5,g
+recipe 385,spinat,200.0,g
+recipe 385,squash,0.5,stk
+recipe 385,sukker,999.5,g
+recipe 385,timian,0.5,stk
+recipe 385,æblecidereddike,749.5,ml
+recipe 385,æg,8.0,stk
+recipe 386,bredbladet persille,179.0,g
+recipe 386,frisk timian,0.5,stk
+recipe 386,fuldkornshvedemel,937.5,g
+recipe 386,grahamsmel,950.0,g
+recipe 386,gær,27.5,g
+recipe 386,hvedemel,1612.5,g
+recipe 386,hvidløg,10.5,fed
+recipe 386,kartoffel,900.0,g
+recipe 386,olivenolie,997.0,ml
+recipe 386,parmesan,150.0,g
+recipe 386,rødløg,6.5,stk
+recipe 386,spinat,187.5,g
+recipe 387,bredbladet persille,179.0,g
+recipe 387,citron,5.75,stk
+recipe 387,frisk mynte,0.5,stk
+recipe 387,grøntsagsbouillon,196.5,
+recipe 387,hakkede tomater,0.5,stk
+recipe 387,hvidløg,8.0,fed
+recipe 387,ingefær,199.5,g
+recipe 387,kikærter,399.0,g
+recipe 387,koncentreret tomatpuré,175.0,g
+recipe 387,løg,4.0,stk
+recipe 387,olivenolie,998.0,ml
+recipe 387,piskefløde,26.5,ml
+recipe 387,rød chili,0.75,stk
+recipe 387,rød peberfrugt,1.5,stk
+recipe 387,røget paprika,0.25,stk
+recipe 387,safran,0.5,stk
+recipe 387,stødt koriander,0.5,stk
+recipe 387,stødt spidskommen,0.5,stk
+recipe 388,basmati ris,498.5,g
+recipe 388,bredbladet persille,179.5,g
+recipe 388,broccoli,399.5,g
+recipe 388,frisk koriander,0.5,stk
+recipe 388,gulerod,5.0,stk
+recipe 388,hvidløg,9.5,fed
+recipe 388,ingefær,199.5,g
+recipe 388,kokosmælk,200.0,ml
+recipe 388,lime,4.5,stk
+recipe 388,løg,5.5,stk
+recipe 388,mayonnaise,335.0,g
+recipe 388,nudler,125.0,g
+recipe 388,olivenolie,997.5,ml
+recipe 388,sesamfrø,227.5,g
+recipe 388,sesamolie,499.0,ml
+recipe 388,soja,249.0,ml
+recipe 388,spinat,100.0,g
+recipe 388,sriracha chilisauce,449.0,ml
+recipe 388,sukker,985.0,g
+recipe 388,æblecidereddike,749.5,ml
+recipe 388,æg,6.0,stk
+recipe 389,agurk,0.25,stk
+recipe 389,avocado,34.0,stk
+recipe 389,blandet salat,37.5,g
+recipe 389,bredbladet persille,179.5,g
+recipe 389,burgerboller,2.0,stk
+recipe 389,dijon sennep,379.5,g
+recipe 389,gulerod,7.5,stk
+recipe 389,havregryn,999.5,g
+recipe 389,hvidløg,9.5,fed
+recipe 389,kikærter,399.5,g
+recipe 389,mayonnaise,347.0,g
+recipe 389,olivenolie,999.0,ml
+recipe 389,rasp,475.0,g
+recipe 389,rødbede,998.5,g
+recipe 389,rødløg,6.0,stk
+recipe 389,smør,4.5,g
+recipe 389,stødt koriander,0.5,stk
+recipe 389,stødt spidskommen,0.5,stk
+recipe 389,tomat,9.0,stk
+recipe 389,æg,8.5,stk
+recipe 390,avocado,34.5,stk
+recipe 390,basmati ris,498.5,g
+recipe 390,grøntsagsbouillon,199.0,
+recipe 390,hakkede tomater,0.5,stk
+recipe 390,hvidløg,7.5,fed
+recipe 390,ingefær,198.5,g
+recipe 390,løg,5.0,stk
+recipe 390,olivenolie,997.5,ml
+recipe 390,rød chili,0.75,stk
+recipe 390,stødt koriander,0.75,stk
+recipe 390,stødt spidskommen,0.5,stk
+recipe 390,sukker,999.0,g
+recipe 391,broccoli,299.75,g
+recipe 391,cashewnødder,80.0,g
+recipe 391,fishsauce,199.5,ml
+recipe 391,gulerod,5.0,stk
+recipe 391,hvidløg,8.5,fed
+recipe 391,ingefær,180.0,g
+recipe 391,kikærter,399.5,g
+recipe 391,lime,4.5,stk
+recipe 391,løg,5.0,stk
+recipe 391,nudler,50.0,g
+recipe 391,olivenolie,999.0,ml
+recipe 391,peanutbutter,349.0,g
+recipe 391,pillede edamamebønner,150.0,g
+recipe 391,rød peberfrugt,2.0,stk
+recipe 391,saltede peanuts,199.5,g
+recipe 391,soja,249.5,ml
+recipe 391,spinat,150.0,g
+recipe 391,sukker,999.5,g
+recipe 392,basmati ris,497.0,g
+recipe 392,blomkål,0.5,stk
+recipe 392,bredbladet persille,179.5,g
+recipe 392,frisk koriander,0.5,stk
+recipe 392,grøntsagsbouillon,198.5,
+recipe 392,hvidløg,8.0,fed
+recipe 392,ingefær,198.5,g
+recipe 392,kartoffel,750.0,g
+recipe 392,kikærter,399.5,g
+recipe 392,kokosmælk,200.0,ml
+recipe 392,løg,5.0,stk
+recipe 392,olivenolie,998.5,ml
+recipe 392,rød peberfrugt,2.5,stk
+recipe 392,squash,0.5,stk
+recipe 393,frisk basilikum,0.5,stk
+recipe 393,hvidløg,9.5,fed
+recipe 393,løg,5.0,stk
+recipe 393,olivenolie,998.0,ml
+recipe 393,parmesan,150.0,g
+recipe 393,pinjekerner,48.5,g
+recipe 393,rød chili,0.75,stk
+recipe 393,smør,4.5,g
+recipe 393,spinat,100.0,g
+recipe 393,sukker,999.5,g
+recipe 393,æblecidereddike,749.5,ml
+recipe 393,æg,8.5,stk
+recipe 394,basmati ris,350.0,g
+recipe 394,broccoli,399.75,g
+recipe 394,cashewnødder,79.5,g
+recipe 394,fishsauce,198.5,ml
+recipe 394,forårsløg,3.0,stk
+recipe 394,gulerod,5.0,stk
+recipe 394,hvidløg,9.5,fed
+recipe 394,ingefær,190.0,g
+recipe 394,kokosmælk,200.0,ml
+recipe 394,lime,4.0,stk
+recipe 394,løg,5.5,stk
+recipe 394,nudler,50.0,g
+recipe 394,olivenolie,998.0,ml
+recipe 394,pillede edamamebønner,75.0,g
+recipe 394,rød chili,0.75,stk
+recipe 394,rød peberfrugt,2.5,stk
+recipe 394,soja,249.5,ml
+recipe 394,spinat,150.0,g
+recipe 394,sukker,999.5,g
+recipe 394,æg,8.0,stk
+recipe 395,agurk,0.75,stk
+recipe 395,avocado,34.5,stk
+recipe 395,baby spinat,50.0,g
+recipe 395,basmati ris,498.5,g
+recipe 395,broccoli,399.75,g
+recipe 395,cashewnødder,80.0,g
+recipe 395,fishsauce,199.0,ml
+recipe 395,gulerod,5.0,stk
+recipe 395,hvidløg,10.0,fed
+recipe 395,ingefær,185.0,g
+recipe 395,lime,4.5,stk
+recipe 395,mayonnaise,312.5,g
+recipe 395,nudler,50.0,g
+recipe 395,olivenolie,999.0,ml
+recipe 395,pillede edamamebønner,150.0,g
+recipe 395,sesamfrø,242.5,g
+recipe 395,spinat,100.0,g
+recipe 395,sukker,985.0,g
+recipe 395,æblecidereddike,749.5,ml
+recipe 396,agurk,0.75,stk
+recipe 396,blomkål,0.75,stk
+recipe 396,frisk koriander,0.5,stk
+recipe 396,frisk mynte,0.5,stk
+recipe 396,grøntsagsbouillon,196.0,
+recipe 396,hakkede tomater,0.5,stk
+recipe 396,hvidløg,8.0,fed
+recipe 396,ingefær,199.0,g
+recipe 396,kartoffel,998.5,g
+recipe 396,kikærter,399.5,g
+recipe 396,kokosmælk,200.0,ml
+recipe 396,løg,5.0,stk
+recipe 396,olivenolie,998.0,ml
+recipe 396,squash,0.5,stk
+recipe 396,stødt koriander,0.25,stk
+recipe 396,stødt spidskommen,0.5,stk
+recipe 397,avocado,34.5,stk
+recipe 397,basmati ris,498.5,g
+recipe 397,blomkål,0.5,stk
+recipe 397,grøntsagsbouillon,199.5,
+recipe 397,hvidløg,8.0,fed
+recipe 397,ingefær,198.0,g
+recipe 397,kartoffel,750.0,g
+recipe 397,løg,5.5,stk
+recipe 397,olivenolie,998.5,ml
+recipe 397,stødt koriander,0.25,stk
+recipe 397,stødt spidskommen,0.5,stk
+recipe 398,avocado,34.5,stk
+recipe 398,basmati ris,498.5,g
+recipe 398,blomkål,0.5,stk
+recipe 398,grøntsagsbouillon,199.5,
+recipe 398,hvidløg,8.0,fed
+recipe 398,ingefær,198.0,g
+recipe 398,kartoffel,750.0,g
+recipe 398,løg,5.5,stk
+recipe 398,olivenolie,998.5,ml
+recipe 398,stødt koriander,0.25,stk
+recipe 398,stødt spidskommen,0.5,stk
+recipe 399,baby spinat,62.5,g
+recipe 399,basmati ris,497.0,g
+recipe 399,blomkål,0.5,stk
+recipe 399,gulerod,7.0,stk
+recipe 399,hakkede tomater,0.5,stk
+recipe 399,hvidløg,9.5,fed
+recipe 399,ingefær,198.5,g
+recipe 399,kartoffel,750.0,g
+recipe 399,løg,5.0,stk
+recipe 399,olivenolie,998.0,ml
+recipe 399,soja,249.5,ml
+recipe 399,spidskål,0.75,stk
+recipe 399,squash,0.5,stk
+recipe 399,sriracha chilisauce,440.0,ml
+recipe 399,stødt koriander,0.5,stk
+recipe 399,stødt spidskommen,0.5,stk
+recipe 400,avocado,34.5,stk
+recipe 400,basmati ris,498.5,g
+recipe 400,blomkål,0.5,stk
+recipe 400,grøntsagsbouillon,198.5,
+recipe 400,hvidløg,8.0,fed
+recipe 400,ingefær,198.5,g
+recipe 400,kanel,0.75,stk
+recipe 400,kartoffel,750.0,g
+recipe 400,løg,4.0,stk
+recipe 400,majs,275.0,g
+recipe 400,mørk chokolade,87.5,g
+recipe 400,olivenolie,999.0,ml
+recipe 400,rød peberfrugt,2.5,stk
+recipe 400,røget paprika,0.75,stk
+recipe 400,squash,0.5,stk
+recipe 400,stængler bladselleri,0.5,stk
+recipe 400,stødt koriander,0.5,stk
+recipe 401,grøntsagsbouillon,196.0,
+recipe 401,hakkede tomater,0.5,stk
+recipe 401,hvidløg,9.5,fed
+recipe 401,løg,4.5,stk
+recipe 401,olivenolie,999.0,ml
+recipe 401,parmesan,137.5,g
+recipe 401,pinjekerner,48.5,g
+recipe 401,piskefløde,26.5,ml
+recipe 401,smør,4.5,g
+recipe 401,soltørrede tomater i olie,95.0,g
+recipe 401,spinat,100.0,g
+recipe 401,squash,0.5,stk
+recipe 401,sukker,999.5,g
+recipe 401,æblecidereddike,749.5,ml
+recipe 401,æg,9.0,stk
+recipe 402,basmati ris,498.5,g
+recipe 402,blomkål,0.5,stk
+recipe 402,bredbladet persille,179.5,g
+recipe 402,citron,5.75,stk
+recipe 402,frisk koriander,0.5,stk
+recipe 402,frisk mynte,0.5,stk
+recipe 402,grøntsagsbouillon,199.5,
+recipe 402,hvidløg,8.5,fed
+recipe 402,ingefær,198.5,g
+recipe 402,kartoffel,750.0,g
+recipe 402,kikærter,399.5,g
+recipe 402,koncentreret tomatpuré,175.0,g
+recipe 402,løg,4.5,stk
+recipe 402,olivenolie,998.5,ml
+recipe 402,rød chili,0.75,stk
+recipe 402,røget paprika,0.5,stk
+recipe 402,safran,0.5,stk
+recipe 402,stødt spidskommen,0.5,stk
+recipe 403,frisk basilikum,0.25,stk
+recipe 403,grøntsagsbouillon,195.5,
+recipe 403,hakkede tomater,0.5,stk
+recipe 403,hvedemel,1937.5,g
+recipe 403,hvidløg,9.5,fed
+recipe 403,løg,4.5,stk
+recipe 403,olivenolie,999.5,ml
+recipe 403,parmesan,112.5,g
+recipe 403,piskefløde,26.5,ml
+recipe 403,soltørrede tomater i olie,94.5,g
+recipe 403,timian,0.5,stk
+recipe 403,æg,9.0,stk
+recipe 404,agurk,0.5,stk
+recipe 404,avocado,34.0,stk
+recipe 404,baby spinat,37.5,g
+recipe 404,broccoli,399.5,g
+recipe 404,frisk basilikum,0.5,stk
+recipe 404,gulerod,5.5,stk
+recipe 404,hvidløg,11.0,fed
+recipe 404,ingefær,199.5,g
+recipe 404,kokosmælk,350.0,ml
+recipe 404,lime,3.0,stk
+recipe 404,nudler,125.0,g
+recipe 404,olivenolie,997.0,ml
+recipe 404,peanutbutter,349.5,g
+recipe 404,sesamfrø,239.5,g
+recipe 404,sesamolie,499.0,ml
+recipe 404,soja,248.0,ml
+recipe 404,spidskål,0.75,stk
+recipe 404,sriracha chilisauce,449.5,ml
+recipe 404,æg,8.0,stk
+recipe 405,aubergine,0.5,stk
+recipe 405,avocado,34.5,stk
+recipe 405,cheddar ost,75.0,g
+recipe 405,grøntsagsbouillon,199.0,
+recipe 405,hvidløg,9.0,fed
+recipe 405,ingefær,199.0,g
+recipe 405,kanel,0.5,stk
+recipe 405,lime,4.5,stk
+recipe 405,mørk chokolade,85.0,g
+recipe 405,olivenolie,997.5,ml
+recipe 405,rød chili,0.75,stk
+recipe 405,rødløg,6.0,stk
+recipe 405,røget paprika,0.5,stk
+recipe 405,soltørrede tomater i olie,118.5,g
+recipe 405,squash,0.5,stk
+recipe 405,stødt spidskommen,0.75,stk
+recipe 406,basmati ris,497.0,g
+recipe 406,blomkål,0.5,stk
+recipe 406,bredbladet persille,179.5,g
+recipe 406,citron,5.75,stk
+recipe 406,frisk koriander,0.5,stk
+recipe 406,grøntsagsbouillon,198.0,
+recipe 406,gulerod,2.5,stk
+recipe 406,hakkede tomater,0.5,stk
+recipe 406,hvidløg,9.0,fed
+recipe 406,ingefær,199.0,g
+recipe 406,kartoffel,750.0,g
+recipe 406,løg,5.0,stk
+recipe 406,olivenolie,999.0,ml
+recipe 406,piskefløde,26.75,ml
+recipe 406,saltede peanuts,175.0,g
+recipe 406,stødt spidskommen,0.5,stk
+recipe 406,æble,8.5,stk
+recipe 407,avocado,34.5,stk
+recipe 407,basmati ris,348.5,g
+recipe 407,blomkål,0.5,stk
+recipe 407,cheddar ost,62.5,g
+recipe 407,cherrytomater,187.5,g
+recipe 407,grøntsagsbouillon,197.0,
+recipe 407,gulerod,7.0,stk
+recipe 407,hvidløg,8.0,fed
+recipe 407,ingefær,199.0,g
+recipe 407,kanel,0.75,stk
+recipe 407,kartoffel,750.0,g
+recipe 407,lime,4.5,stk
+recipe 407,løg,4.5,stk
+recipe 407,olivenolie,998.0,ml
+recipe 407,rød chili,0.75,stk
+recipe 407,rød peberfrugt,2.0,stk
+recipe 407,squash,0.5,stk
+recipe 407,sriracha chilisauce,449.5,ml
+recipe 407,stødt koriander,0.5,stk
+recipe 408,avocado,34.0,stk
+recipe 408,basmati ris,350.0,g
+recipe 408,cheddar ost,62.5,g
+recipe 408,cherrytomater,187.5,g
+recipe 408,grøntsagsbouillon,196.5,
+recipe 408,gulerod,7.0,stk
+recipe 408,hvidløg,8.0,fed
+recipe 408,ingefær,199.0,g
+recipe 408,kanel,0.75,stk
+recipe 408,lime,4.5,stk
+recipe 408,løg,5.0,stk
+recipe 408,olivenolie,997.5,ml
+recipe 408,rød chili,0.75,stk
+recipe 408,rød peberfrugt,2.0,stk
+recipe 408,squash,0.5,stk
+recipe 408,sriracha chilisauce,449.5,ml
+recipe 408,stødt koriander,0.75,stk
+recipe 408,stødt spidskommen,0.5,stk
+recipe 409,avocado,34.0,stk
+recipe 409,basmati ris,498.5,g
+recipe 409,blomkål,0.5,stk
+recipe 409,cheddar ost,75.0,g
+recipe 409,cherrytomater,245.0,g
+recipe 409,grøntsagsbouillon,197.5,
+recipe 409,hvidløg,8.5,fed
+recipe 409,ingefær,199.0,g
+recipe 409,kartoffel,750.0,g
+recipe 409,kikærter,399.5,g
+recipe 409,kyllingebryst,125.0,g
+recipe 409,løg,4.5,stk
+recipe 409,olivenolie,999.0,ml
+recipe 409,rød chili,0.5,stk
+recipe 409,rød peberfrugt,2.5,stk
+recipe 409,røget paprika,0.5,stk
+recipe 409,squash,0.5,stk
+recipe 410,agurk,0.75,stk
+recipe 410,bredbladet persille,179.5,g
+recipe 410,citron,5.75,stk
+recipe 410,frisk koriander,0.5,stk
+recipe 410,grøntsagsbouillon,196.5,
+recipe 410,hakkede tomater,0.5,stk
+recipe 410,hvidløg,8.5,fed
+recipe 410,ingefær,198.5,g
+recipe 410,kikærter,399.5,g
+recipe 410,koncentreret tomatpuré,175.0,g
+recipe 410,løg,5.0,stk
+recipe 410,olivenolie,998.0,ml
+recipe 410,rød chili,0.75,stk
+recipe 410,røget paprika,0.5,stk
+recipe 410,safran,0.5,stk
+recipe 410,stødt koriander,0.25,stk
+recipe 411,avocado,33.5,stk
+recipe 411,cheddar ost,75.0,g
+recipe 411,cherrytomater,245.0,g
+recipe 411,grøntsagsbouillon,197.0,
+recipe 411,hvidløg,8.5,fed
+recipe 411,ingefær,199.0,g
+recipe 411,kikærter,399.5,g
+recipe 411,kyllingebryst,125.0,g
+recipe 411,løg,5.0,stk
+recipe 411,olivenolie,998.5,ml
+recipe 411,rød chili,0.5,stk
+recipe 411,rød peberfrugt,2.5,stk
+recipe 411,røget paprika,0.5,stk
+recipe 411,squash,0.5,stk
+recipe 411,stødt koriander,0.25,stk
+recipe 411,stødt spidskommen,0.5,stk
+recipe 412,basmati ris,497.0,g
+recipe 412,bredbladet persille,179.5,g
+recipe 412,frisk koriander,0.5,stk
+recipe 412,grøntsagsbouillon,198.0,
+recipe 412,hakkede tomater,0.5,stk
+recipe 412,hvidløg,7.5,fed
+recipe 412,ingefær,199.0,g
+recipe 412,kikærter,399.5,g
+recipe 412,kokosmælk,200.0,ml
+recipe 412,løg,4.5,stk
+recipe 412,olivenolie,997.5,ml
+recipe 412,rød chili,0.75,stk
+recipe 412,rød peberfrugt,2.5,stk
+recipe 412,squash,0.5,stk
+recipe 412,stødt koriander,0.5,stk
+recipe 412,sukker,999.0,g
+recipe 413,aubergine,0.5,stk
+recipe 413,champignon,75.0,g
+recipe 413,grøntsagsbouillon,199.5,
+recipe 413,gulerod,6.0,stk
+recipe 413,hakkede tomater,0.5,stk
+recipe 413,hvedemel,1999.0,g
+recipe 413,hvidløg,9.5,fed
+recipe 413,koncentreret tomatpuré,199.5,g
+recipe 413,løg,4.0,stk
+recipe 413,mælk,998.5,ml
+recipe 413,olivenolie,998.5,ml
+recipe 413,parmesan,175.0,g
+recipe 413,pinjekerner,48.5,g
+recipe 413,piskefløde,26.25,ml
+recipe 413,smør,3.5,g
+recipe 413,spinat,150.0,g
+recipe 413,squash,0.5,stk
+recipe 413,stængler bladselleri,0.5,stk
+recipe 413,sukker,999.5,g
+recipe 413,æblecidereddike,749.5,ml
+recipe 413,æg,9.0,stk
+recipe 414,basmati ris,497.0,g
+recipe 414,frisk koriander,0.5,stk
+recipe 414,grøntsagsbouillon,199.5,
+recipe 414,hakkede tomater,0.5,stk
+recipe 414,hvidløg,8.5,fed
+recipe 414,ingefær,199.0,g
+recipe 414,løg,4.5,stk
+recipe 414,olivenolie,997.5,ml
+recipe 414,piskefløde,26.75,ml
+recipe 414,rød chili,0.75,stk
+recipe 414,stødt nellike,0.75,stk
+recipe 414,sukker,999.0,g
+recipe 415,avocado,34.5,stk
+recipe 415,basmati ris,498.5,g
+recipe 415,grøntsagsbouillon,198.0,
+recipe 415,hakkede tomater,0.5,stk
+recipe 415,hvidløg,7.5,fed
+recipe 415,ingefær,199.0,g
+recipe 415,kanel,0.75,stk
+recipe 415,løg,3.5,stk
+recipe 415,majs,275.0,g
+recipe 415,mørk chokolade,87.5,g
+recipe 415,olivenolie,998.0,ml
+recipe 415,rød chili,0.75,stk
+recipe 415,rød peberfrugt,2.5,stk
+recipe 415,røget paprika,0.75,stk
+recipe 415,squash,0.5,stk
+recipe 415,stængler bladselleri,0.5,stk
+recipe 415,sukker,999.0,g
+recipe 416,agurk,0.75,stk
+recipe 416,basmati ris,498.5,g
+recipe 416,frisk mynte,0.5,stk
+recipe 416,grøntsagsbouillon,196.5,
+recipe 416,hvidløg,7.5,fed
+recipe 416,ingefær,198.5,g
+recipe 416,løg,5.0,stk
+recipe 416,olivenolie,997.5,ml
+recipe 416,rød chili,0.75,stk
+recipe 416,stødt koriander,0.75,stk
+recipe 416,stødt spidskommen,0.5,stk
+recipe 416,sukker,999.0,g
+recipe 417,agurk,0.75,stk
+recipe 417,basmati ris,498.5,g
+recipe 417,bredbladet persille,179.5,g
+recipe 417,frisk koriander,0.5,stk
+recipe 417,frisk mynte,0.5,stk
+recipe 417,grøntsagsbouillon,195.5,
+recipe 417,hakkede tomater,0.5,stk
+recipe 417,hvidløg,8.0,fed
+recipe 417,ingefær,198.5,g
+recipe 417,kikærter,399.5,g
+recipe 417,kokosmælk,200.0,ml
+recipe 417,løg,5.5,stk
+recipe 417,olivenolie,998.0,ml
+recipe 417,rød peberfrugt,2.5,stk
+recipe 417,squash,0.5,stk
+recipe 417,stødt koriander,0.25,stk
+recipe 417,stødt spidskommen,0.5,stk
+recipe 418,avocado,34.5,stk
+recipe 418,basmati ris,200.0,g
+recipe 418,cashewnødder,99.5,g
+recipe 418,cheddar ost,62.5,g
+recipe 418,cherrytomater,187.5,g
+recipe 418,fishsauce,199.0,ml
+recipe 418,forårsløg,3.0,stk
+recipe 418,grøntsagsbouillon,197.0,
+recipe 418,gulerod,5.5,stk
+recipe 418,hakkede tomater,0.5,stk
+recipe 418,hvidløg,9.0,fed
+recipe 418,kanel,0.75,stk
+recipe 418,lime,4.0,stk
+recipe 418,løg,4.5,stk
+recipe 418,olivenolie,997.0,ml
+recipe 418,pillede edamamebønner,225.0,g
+recipe 418,rød chili,0.5,stk
+recipe 418,rød peberfrugt,1.5,stk
+recipe 418,soja,249.5,ml
+recipe 418,squash,0.5,stk
+recipe 418,sriracha chilisauce,449.5,ml
+recipe 418,sukker,999.5,g
+recipe 418,æg,8.0,stk
+recipe 419,agurk,0.5,stk
+recipe 419,avocado,34.0,stk
+recipe 419,bredbladet persille,179.5,g
+recipe 419,burgerboller,4.0,stk
+recipe 419,cayenne peber,0.75,stk
+recipe 419,hvidløg,9.5,fed
+recipe 419,kikærter,399.5,g
+recipe 419,løg,5.5,stk
+recipe 419,mayonnaise,346.0,g
+recipe 419,olivenolie,999.5,ml
+recipe 419,persille,179.0,g
+recipe 419,rasp,475.0,g
+recipe 419,rødløg,6.0,stk
+recipe 419,tomat,8.0,stk
+recipe 419,æg,8.5,stk
+recipe 420,avocado,34.5,stk
+recipe 420,basmati ris,348.5,g
+recipe 420,cheddar ost,62.5,g
+recipe 420,cherrytomater,187.5,g
+recipe 420,grøntsagsbouillon,196.5,
+recipe 420,gulerod,7.0,stk
+recipe 420,hakkede tomater,0.5,stk
+recipe 420,hvidløg,7.5,fed
+recipe 420,ingefær,199.5,g
+recipe 420,kanel,0.75,stk
+recipe 420,lime,4.5,stk
+recipe 420,løg,4.0,stk
+recipe 420,olivenolie,997.0,ml
+recipe 420,rød chili,0.5,stk
+recipe 420,rød peberfrugt,2.0,stk
+recipe 420,squash,0.5,stk
+recipe 420,sriracha chilisauce,449.5,ml
+recipe 420,sukker,999.0,g
+recipe 421,basmati ris,497.0,g
+recipe 421,frisk koriander,0.5,stk
+recipe 421,grøntsagsbouillon,199.5,
+recipe 421,hakkede tomater,0.5,stk
+recipe 421,hvidløg,8.5,fed
+recipe 421,ingefær,199.0,g
+recipe 421,løg,4.5,stk
+recipe 421,olivenolie,997.5,ml
+recipe 421,piskefløde,26.75,ml
+recipe 421,rød chili,0.75,stk
+recipe 421,stødt nellike,0.75,stk
+recipe 421,sukker,999.0,g
+recipe 422,agurk,0.5,stk
+recipe 422,avocado,34.0,stk
+recipe 422,bredbladet persille,179.5,g
+recipe 422,burgerboller,4.0,stk
+recipe 422,cayenne peber,0.75,stk
+recipe 422,hvidløg,9.5,fed
+recipe 422,kikærter,399.5,g
+recipe 422,løg,5.5,stk
+recipe 422,mayonnaise,346.0,g
+recipe 422,olivenolie,999.5,ml
+recipe 422,persille,179.0,g
+recipe 422,rasp,475.0,g
+recipe 422,rødløg,6.0,stk
+recipe 422,tomat,8.0,stk
+recipe 422,æg,8.5,stk
+recipe 423,basmati ris,497.0,g
+recipe 423,bredbladet persille,179.5,g
+recipe 423,frisk koriander,0.5,stk
+recipe 423,grøntsagsbouillon,198.0,
+recipe 423,hakkede tomater,0.5,stk
+recipe 423,hvidløg,7.5,fed
+recipe 423,ingefær,199.0,g
+recipe 423,kikærter,399.5,g
+recipe 423,kokosmælk,200.0,ml
+recipe 423,løg,4.5,stk
+recipe 423,olivenolie,997.5,ml
+recipe 423,rød chili,0.75,stk
+recipe 423,rød peberfrugt,2.5,stk
+recipe 423,squash,0.5,stk
+recipe 423,stødt koriander,0.5,stk
+recipe 423,sukker,999.0,g
+recipe 424,basmati ris,498.5,g
+recipe 424,bredbladet persille,179.0,g
+recipe 424,broccoli,399.5,g
+recipe 424,cayenne peber,0.75,stk
+recipe 424,citron,5.75,stk
+recipe 424,grøntsagsbouillon,197.0,
+recipe 424,gulerod,6.0,stk
+recipe 424,hakkede tomater,0.5,stk
+recipe 424,hvidløg,9.0,fed
+recipe 424,ingefær,199.5,g
+recipe 424,kanel,0.5,stk
+recipe 424,kikærter,399.0,g
+recipe 424,kokosmælk,200.0,ml
+recipe 424,løg,5.5,stk
+recipe 424,olivenolie,998.5,ml
+recipe 424,rød peberfrugt,2.5,stk
+recipe 424,rødløg,6.5,stk
+recipe 424,stødt ingefær,0.5,stk
+recipe 425,champignon,100.0,g
+recipe 425,frisk timian,0.75,stk
+recipe 425,fuldkornshvedemel,975.0,g
+recipe 425,grøntsagsbouillon,199.5,
+recipe 425,gulerod,7.0,stk
+recipe 425,hvedemel,1937.5,g
+recipe 425,hvidløg,9.5,fed
+recipe 425,kartoffel,999.5,g
+recipe 425,koncentreret tomatpuré,100.0,g
+recipe 425,løg,4.5,stk
+recipe 425,olivenolie,998.5,ml
+recipe 425,parmesan,165.0,g
+recipe 425,rasp,499.0,g
+recipe 425,rosmarin,0.5,stk
+recipe 425,rød peberfrugt,2.5,stk
+recipe 425,røget paprika,0.5,stk
+recipe 425,soltørrede tomater i olie,105.0,g
+recipe 425,sødmælk,999.5,ml
+recipe 425,timian,0.5,stk
+recipe 425,tomat,9.0,stk
+recipe 426,basmati ris,498.5,g
+recipe 426,bredbladet persille,179.5,g
+recipe 426,citron,5.75,stk
+recipe 426,frisk koriander,0.5,stk
+recipe 426,frisk mynte,0.5,stk
+recipe 426,grøntsagsbouillon,199.0,
+recipe 426,hakkede tomater,0.5,stk
+recipe 426,hvidløg,8.0,fed
+recipe 426,ingefær,199.0,g
+recipe 426,kikærter,399.5,g
+recipe 426,koncentreret tomatpuré,175.0,g
+recipe 426,løg,4.0,stk
+recipe 426,olivenolie,997.5,ml
+recipe 426,rød chili,0.5,stk
+recipe 426,røget paprika,0.5,stk
+recipe 426,safran,0.5,stk
+recipe 426,stødt koriander,0.5,stk
+recipe 426,stødt spidskommen,0.5,stk
+recipe 426,sukker,999.0,g
+recipe 427,baby spinat,62.5,g
+recipe 427,basmati ris,497.0,g
+recipe 427,bredbladet persille,179.5,g
+recipe 427,frisk koriander,0.5,stk
+recipe 427,gulerod,5.0,stk
+recipe 427,hvidløg,10.0,fed
+recipe 427,ingefær,199.0,g
+recipe 427,kokosmælk,200.0,ml
+recipe 427,løg,5.0,stk
+recipe 427,mayonnaise,335.0,g
+recipe 427,olivenolie,998.0,ml
+recipe 427,sesamfrø,237.5,g
+recipe 427,soja,249.0,ml
+recipe 427,spidskål,0.75,stk
+recipe 427,spinat,100.0,g
+recipe 427,squash,0.5,stk
+recipe 427,sriracha chilisauce,439.5,ml
+recipe 427,stødt spidskommen,0.5,stk
+recipe 427,sukker,985.0,g
+recipe 427,æblecidereddike,749.5,ml
+recipe 427,æg,8.0,stk
+recipe 428,agurk,0.75,stk
+recipe 428,avocado,34.5,stk
+recipe 428,baby spinat,12.5,g
+recipe 428,basmati ris,497.0,g
+recipe 428,fishsauce,199.5,ml
+recipe 428,gulerod,5.5,stk
+recipe 428,hvidløg,11.0,fed
+recipe 428,ingefær,194.5,g
+recipe 428,kokosmælk,200.0,ml
+recipe 428,løg,5.5,stk
+recipe 428,mayonnaise,312.5,g
+recipe 428,olivenolie,998.0,ml
+recipe 428,sesamfrø,242.5,g
+recipe 428,soja,249.5,ml
+recipe 428,spidskål,0.75,stk
+recipe 428,spinat,200.0,g
+recipe 428,squash,0.5,stk
+recipe 428,sriracha chilisauce,440.0,ml
+recipe 428,stødt spidskommen,0.5,stk
+recipe 428,sukker,985.0,g
+recipe 428,æblecidereddike,749.5,ml
+recipe 429,baby spinat,62.5,g
+recipe 429,basmati ris,497.0,g
+recipe 429,broccoli,399.5,g
+recipe 429,brun farin,499.5,g
+recipe 429,fishsauce,199.0,ml
+recipe 429,gulerod,6.0,stk
+recipe 429,hvidløg,10.5,fed
+recipe 429,ingefær,199.0,g
+recipe 429,kartoffel,999.0,g
+recipe 429,løg,4.5,stk
+recipe 429,olivenolie,997.5,ml
+recipe 429,saltede peanuts,199.5,g
+recipe 429,soja,249.5,ml
+recipe 429,spidskål,0.75,stk
+recipe 429,sriracha chilisauce,440.0,ml
+recipe 429,stødt spidskommen,0.5,stk
+recipe 430,baby spinat,25.0,g
+recipe 430,basmati ris,497.0,g
+recipe 430,forårsløg,3.0,stk
+recipe 430,frisk koriander,0.5,stk
+recipe 430,gulerod,7.0,stk
+recipe 430,hvidløg,10.0,fed
+recipe 430,ingefær,199.0,g
+recipe 430,kikærter,399.5,g
+recipe 430,løg,5.0,stk
+recipe 430,mango,249.5,g
+recipe 430,mayonnaise,335.0,g
+recipe 430,olivenolie,998.0,ml
+recipe 430,persille,179.5,g
+recipe 430,røget paprika,0.5,stk
+recipe 430,sesamfrø,240.0,g
+recipe 430,soja,249.5,ml
+recipe 430,spidskål,0.75,stk
+recipe 430,squash,0.5,stk
+recipe 430,sriracha chilisauce,440.0,ml
+recipe 431,aubergine,0.5,stk
+recipe 431,champignon,175.0,g
+recipe 431,grøntsagsbouillon,199.5,
+recipe 431,gulerod,7.0,stk
+recipe 431,hvidløg,9.5,fed
+recipe 431,kartoffel,999.5,g
+recipe 431,koncentreret tomatpuré,150.0,g
+recipe 431,løg,4.5,stk
+recipe 431,olivenolie,998.5,ml
+recipe 431,rasp,499.0,g
+recipe 431,rosmarin,0.5,stk
+recipe 431,rødvin,749.5,ml
+recipe 431,soltørrede tomater i olie,67.5,g
+recipe 431,spaghetti,300.0,g
+recipe 431,stængler bladselleri,0.5,stk
+recipe 431,sødmælk,999.5,ml
+recipe 432,agurk,0.75,stk
+recipe 432,avocado,34.5,stk
+recipe 432,baby spinat,12.5,g
+recipe 432,basmati ris,497.0,g
+recipe 432,fishsauce,199.5,ml
+recipe 432,forårsløg,3.0,stk
+recipe 432,frisk koriander,0.5,stk
+recipe 432,gulerod,6.5,stk
+recipe 432,hvidløg,10.0,fed
+recipe 432,ingefær,194.5,g
+recipe 432,kikærter,399.5,g
+recipe 432,kokosmælk,200.0,ml
+recipe 432,løg,5.5,stk
+recipe 432,mango,249.5,g
+recipe 432,mayonnaise,297.5,g
+recipe 432,olivenolie,999.0,ml
+recipe 432,persille,179.5,g
+recipe 432,røget paprika,0.5,stk
+recipe 432,sesamfrø,232.5,g
+recipe 432,spinat,200.0,g
+recipe 432,stødt spidskommen,0.5,stk
+recipe 432,sukker,985.0,g
+recipe 432,æblecidereddike,749.5,ml
+recipe 433,agurk,0.75,stk
+recipe 433,avocado,33.0,stk
+recipe 433,cayenne peber,0.75,stk
+recipe 433,cheddar ost,25.0,g
+recipe 433,cherrytomater,240.0,g
+recipe 433,frisk koriander,0.5,stk
+recipe 433,grøntsagsbouillon,197.5,
+recipe 433,hvidløg,10.0,fed
+recipe 433,kikærter,399.5,g
+recipe 433,kyllingebryst,125.0,g
+recipe 433,lime,4.5,stk
+recipe 433,løg,4.5,stk
+recipe 433,olivenolie,999.0,ml
+recipe 433,rød chili,0.5,stk
+recipe 433,rød peberfrugt,2.5,stk
+recipe 433,rødløg,6.5,stk
+recipe 433,squash,0.5,stk
+recipe 433,stødt spidskommen,0.5,stk
+recipe 434,basmati ris,498.5,g
+recipe 434,bredbladet persille,179.0,g
+recipe 434,citron,5.75,stk
+recipe 434,frisk koriander,0.5,stk
+recipe 434,grøntsagsbouillon,197.0,
+recipe 434,hakkede tomater,0.5,stk
+recipe 434,hvidløg,10.0,fed
+recipe 434,ingefær,199.0,g
+recipe 434,kikærter,399.0,g
+recipe 434,koncentreret tomatpuré,175.0,g
+recipe 434,løg,4.5,stk
+recipe 434,mayonnaise,349.0,g
+recipe 434,olivenolie,998.5,ml
+recipe 434,rød chili,0.5,stk
+recipe 434,safran,0.5,stk
+recipe 434,stødt koriander,0.5,stk
+recipe 434,yoghurt naturel,925.0,ml
+recipe 434,æg,9.0,stk
+recipe 435,avocado,34.0,stk
+recipe 435,cherrytomater,245.0,g
+recipe 435,grøntsagsbouillon,197.0,
+recipe 435,hvedemel,1999.5,g
+recipe 435,hvidløg,9.5,fed
+recipe 435,kanel,0.5,stk
+recipe 435,kikærter,399.5,g
+recipe 435,kyllingebryst,125.0,g
+recipe 435,løg,4.5,stk
+recipe 435,majs,250.0,g
+recipe 435,olivenolie,999.0,ml
+recipe 435,rød chili,0.5,stk
+recipe 435,rød peberfrugt,2.5,stk
+recipe 435,smør,4.5,g
+recipe 435,stødt spidskommen,0.5,stk
+recipe 435,tortillas pandekager,2.0,stk
+recipe 436,avocado,34.0,stk
+recipe 436,bredbladet persille,179.5,g
+recipe 436,cheddar ost,75.0,g
+recipe 436,cherrytomater,245.0,g
+recipe 436,citron,5.75,stk
+recipe 436,frisk koriander,0.5,stk
+recipe 436,frisk mynte,0.5,stk
+recipe 436,grøntsagsbouillon,197.0,
+recipe 436,hvidløg,9.0,fed
+recipe 436,ingefær,199.5,g
+recipe 436,kikærter,399.0,g
+recipe 436,koncentreret tomatpuré,175.0,g
+recipe 436,kyllingebryst,125.0,g
+recipe 436,løg,4.0,stk
+recipe 436,olivenolie,998.5,ml
+recipe 436,rød chili,0.25,stk
+recipe 436,rød peberfrugt,2.5,stk
+recipe 436,safran,0.5,stk
+recipe 436,squash,0.5,stk
+recipe 436,stødt spidskommen,0.5,stk
