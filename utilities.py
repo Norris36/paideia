@@ -348,7 +348,6 @@ def update_file(file_name, check = True):
         assertion = assert_runtime()
     else:
         assertion = True
-    
     if assertion == True:
         #oh it would be nice to update all files, with a similar name based on the last edited file, in the directory
 
@@ -364,11 +363,10 @@ def update_file(file_name, check = True):
 
         for i in paths:
             if "opt/anaconda3" in i or "__pycache__" in i or ".vscode" in i or "ithub" in i:
-                pass
-            elif get_filename(i) == 'utilities.py':
-                pass
+                print(i)
             else:
-                y.append(i)
+                if get_file_basename(i) == file_name.split('.')[0]:
+                    y.append(i)
 
 
         # lets make sure that we take the latest file
@@ -416,7 +414,7 @@ def update_file(file_name, check = True):
         ts = time.time()
         #ts = ts.split('.')
         ts = str(int(ts))
-        repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\Admin_tasks\util repo'
+        repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\Admin_tasks\util repo'
         repo_path = os.path.join(repo_path, f'util_back_up_{ts}.py')  
         #print(repo_path)
         write_new_file(repo_path,base_lines)
@@ -596,7 +594,7 @@ def create_notebook(filename):
     if filename == "":
         filename = get_demi_god()
 
-    src = r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\template_folder\template.ipynb"
+    src = r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\template_folder\template.ipynb"
     dest = get_current_path() + "/" + filename + ".ipynb" 
     if os.path.isfile(dest):
         identical_files = len(hygin(get_current_path(), filename))
@@ -610,7 +608,7 @@ def create_folder(foldername):
     if foldername == "":
         foldername = get_demi_god()
         
-    folder_src = r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\template_folder"
+    folder_src = r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\template_folder"
     folder_dest = os.path.join(get_current_path(), foldername)
     shutil.copytree(folder_src,folder_dest)
 
