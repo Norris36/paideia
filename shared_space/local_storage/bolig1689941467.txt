@@ -1,0 +1,2 @@
+new_df.to_csv('pfa.csv', index=False)
+new_df

@@ -1,0 +1,10 @@
+try:
+    df = pd.DataFrame.from_dict(address_dict, orient='index', columns=['rank'])
+    df = df.T
+    df.reset_index(drop=True, inplace=True)
+    df['timestamp'] = int(datetime.now().timestamp())
+    df['date'] = pd.to_datetime(df.timestamp, unit='s').dt.date
+    df['week'] = pd.to_datetime(df.timestamp, unit='s').dt.isocalendar().week
+    df = df[new_df.columns]
+except exception as e:
+    print(e)

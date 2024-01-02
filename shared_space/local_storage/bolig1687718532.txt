@@ -1,0 +1,29 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+
+def estimate_zero(df):
+    # Convert 'timestamp' to datetime and set as index
+    df['timestamp'] = pd.to_datetime(df['timestamp'])
+    df.set_index('timestamp', inplace=True)
+
+    # Get the waitlist columns
+    waitlist_cols = [col for col in df.columns if col not in ['date', 'week']]
+
+    # Iterate over the columns of the dataframe
+    for col in waitlist_cols:
+        # Prepare data for linear regression
+        X = (df.index - pd.Timestamp("1970-01-01")) // pd.Timedelta('1s')  # Convert to seconds since Unix Epoch
+        y = df[col].values
+
+        # Fit a line to the data
+        coef, intercept = np.polyfit(X, y, deg=1)
+
+        # Predict when the position will reach zero
+        zero_position_sec = np.ceil(-intercept / coef)
+        zero_position_date = datetime.utcfromtimestamp(zero_position_sec)
+
+        # Add the prediction to the dataframe
+        df.loc['total', col] = f"Week {zero_position_date.isocalendar()[1]}, {zero_position_date.year}"
+
+    return df

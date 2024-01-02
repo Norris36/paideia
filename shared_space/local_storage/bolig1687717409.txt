@@ -1,0 +1,32 @@
+import pandas as pd
+import pyperclip
+from datetime import datetime
+
+filename = r'local_storage\bolig' + str(int(datetime.now().timestamp())) + '.txt'
+
+data = pyperclip.paste()
+
+with open(filename, 'w', encoding='utf-8') as file:
+    for line in data.splitlines():
+        file.write(line + "\n")
+        
+
+new_df = pd.read_csv('pfa.csv')
+
+new_df.timestamp = pd.to_datetime(new_df.timestamp, unit='s')
+
+try:
+    df = pd.DataFrame.from_dict(address_dict, orient='index', columns=['rank'])
+    df = df.T
+    df.reset_index(drop=True, inplace=True)
+    df['timestamp'] = int(datetime.now().timestamp())
+    df['date'] = pd.to_datetime(df.timestamp, unit='s').dt.date
+    df['week'] = pd.to_datetime(df.timestamp, unit='s').dt.isocalendar().week
+    df = df[new_df.columns]
+except exception as e:
+    print(e)
+
+new_df.sort_values('timestamp', inplace=True)
+new_df.reset_index(drop=True, inplace=True)
+new_df.to_csv('pfa.csv', index=False)
+

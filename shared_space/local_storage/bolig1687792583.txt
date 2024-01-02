@@ -1,0 +1,5 @@
+for col in new_df.columns:
+    if 'date' in col or 'week' in col or 'timestamp' in col:
+        pass
+    else:
+        plt.plot(new_df[col], label=col)

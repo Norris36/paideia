@@ -1,0 +1,8 @@
+new_df.timestamp = pd.to_datetime(new_df.timestamp, unit='s')
+
+new_df['date'] = new_df.timestamp.dt.date
+new_df['week'] = new_df.timestamp.dt.isocalendar().week
+
+new_df.sort_values('timestamp', inplace=True)
+new_df.reset_index(drop=True, inplace=True)
+new_df

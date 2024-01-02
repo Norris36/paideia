@@ -1,0 +1,5 @@
+new_df = new_df.append(df, ignore_index=True)
+new_df.sort_values(by='timestamp', inplace=True, ascending=False)
+new_df.reset_index(drop=True, inplace=True)
+new_df.to_csv('pfa.csv', index=False)
+new_df

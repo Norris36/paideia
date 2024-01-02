@@ -1,0 +1,4 @@
+
+Randersgade	Slangerupgade	Frederiksberg Alle	Koldinggade	C. F. Richsvej	Horsensgade	Trondhjemsgade	Østerbrogade	timestamp	Hørsholmsgade	Oehlenschlægergade	Jagtvej
+0	345	573	30	389	432	707	395	355	1685472915	NaN	NaN	NaN
+1	366	629	74	399	414	483	431	372	1686610010	515.0	666.0	688.0

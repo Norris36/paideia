@@ -1,0 +1,1 @@
+['Randersgade', 'Slangerupgade', 'Frederiksberg Alle', 'Koldinggade', 'C. F. Richsvej', 'Horsensgade', 'Trondhjemsgade', 'Østerbrogade', 'Hørsholmsgade', 'Oehlenschlægergade', 'Jagtvej', 'date', 'week']

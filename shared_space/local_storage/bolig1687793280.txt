@@ -1,0 +1,30 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots()
+
+for col in new_df.columns:
+    if 'date' not in col and 'week' not in col and 'timestamp' not in col:
+        x = range(len(new_df[col]))
+        y = new_df[col]
+        ax.plot(x, y, label=col)
+
+        # Calculate polyfit
+        coefficients = np.polyfit(x, y, 1)
+
+        # Generate y-values for the trendline
+        trendline = coefficients[0]*x + coefficients[1]
+
+        # Add trendline to plot
+        ax.plot(x, trendline, '--', label=f'Trendline ({col}): y = {coefficients[0]:.2f}x + {coefficients[1]:.2f}')
+
+        # Calculate x when y=0 (intersection with the x-axis)
+        if coefficients[0] != 0:  # To avoid division by zero
+            x_intersect = -coefficients[1]/coefficients[0]
+            # Plot intersection point
+            ax.plot(x_intersect, 0, 'ro')
+            # Annotate intersection point on the graph
+            ax.annotate(f'Zero {col}', (x_intersect, 0), textcoords="offset points", xytext=(-10,10), ha='center')
+
+ax.legend()
+plt.show()

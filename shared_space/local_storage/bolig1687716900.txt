@@ -1,0 +1,5 @@
+df = pd.DataFrame.from_dict(address_dict, orient='index')
+
+df = df.T
+
+df['timestamp'] = int(pd.Timestamp.utcnow().timestamp())

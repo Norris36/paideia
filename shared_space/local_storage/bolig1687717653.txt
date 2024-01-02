@@ -1,0 +1,3 @@
+new_df.timestamp = new_df.timestamp.astype(int)
+new_df.sort_values('timestamp', inplace=True)
+

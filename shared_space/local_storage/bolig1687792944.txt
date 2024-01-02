@@ -1,0 +1,13 @@
+addresses = new_df.columns.tolist()
+addresses.remove('timestamp')
+addresses.remove('week')
+
+
+new_df.drop_duplicates(subset=addresses, keep='last', inplace=True)
+new_df.reset_index(drop=True, inplace=True)
+addresses.remove('date')
+addresses.append('timestamp')
+addresses.append('date')
+addresses.append('week')
+
+new_df = new_df[addresses]

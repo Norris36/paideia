@@ -1,0 +1,10 @@
+address_dict = {}
+address = ''
+for line in data.splitlines():
+    if 'gade' in line or 'Alle' in line or 'vej' in line:
+        if "," in line:
+            pass
+        else:
+            address = line
+    if 'Din bedste placering i denne ejendom: ' in line:
+        address_dict[address] = int(line.replace('Din bedste placering i denne ejendom: ', ''))
