@@ -207,7 +207,7 @@ def pareto_distribution(value_counts):
 
 def assert_runtime():
     # Specify the path of the directory that contains the files you are interested in
-    repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\Admin_tasks\util repo'
+    repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\Admin_tasks\util repo'
 
     # Loop through each file in the directory
     for filename in os.listdir(repo_path):
@@ -543,7 +543,7 @@ def get_demi_god():
     Returns:
         str: a demi god from greek mythology
     """
-    path = get_latest(hygin(r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\data_lake", 'demi_gods.csv'))
+    path = get_latest(hygin(r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\data_lake", 'demi_gods.csv'))
     df = pd.read_csv(path, index_col=0)
     df.sort_values(['uses', 'demi_god'], inplace=True)
     df.reset_index(drop=True, inplace=True)
@@ -557,7 +557,7 @@ def get_demi_god():
     return output
 
 def get_city():
-    france_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\Admin_tasks\french_cities.csv'
+    france_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\Admin_tasks\french_cities.csv'
 
     df = pd.read_csv(france_path)
 
@@ -577,7 +577,7 @@ def get_national_name():
     Returns:
         str: a demi god from greek mythology
     """
-    path = get_latest(hygin(r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\Data Cleaning", 'landsholds_navne'))
+    path = get_latest(hygin(r"C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\Data Cleaning", 'landsholds_navne'))
     df = pd.read_csv(path, index_col=0)
     df = df.sort_values(['used'])
     df = df.reset_index(drop=True)
@@ -650,6 +650,7 @@ def create_french_material(brute_force=False, verbose = False):
     python_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\french\daily_runner.py'
     
     if check_files_modified_today(file1, file2):
+        
         print("Je pense que tu as déjà fait ton material de francais aujourd'hui")
     elif brute_force:
         print('Bonjour - je veux créer ton material de francais')
