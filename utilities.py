@@ -31,7 +31,7 @@ import numpy as np
 import pyperclip
 import pathlib
 import shutil
-import openai
+from openai import AzureOpenAI
 import json
 import ast
 import os
@@ -61,6 +61,38 @@ def import_dataframe(path):
         
     return df
 
+def log_if_camel_case(s):
+    """
+    Log if a string is in camel case.
+
+    Args:
+    s (str): The string to check.
+
+    Returns:
+    None
+    """
+    # Define a regular expression pattern for camel case
+    pattern = re.compile(r'^[a-z]+((\d)|([A-Z0-9][a-z0-9]+))*([A-Z])?$')
+
+    # Check if the string matches the pattern
+    if pattern.match(s):
+        return True
+    else:
+        return False
+
+def camel_to_snake(s):
+    """
+    Convert a camel case string to a snake case string.
+
+    Args:
+    s (str): The camel case string to convert.
+
+    Returns:
+    str: The converted snake case string.
+    """
+    # Insert a '_' before each uppercase letter and then convert the whole string to lowercase
+    return re.sub(r'(?<=[a-z])([A-Z])', r'_\1', s).lower()
+
 def rename_columns(df: pd.DataFrame, return_dict=False):
     """
     Rename the columns of a DataFrame and optionally return a dictionary of original to new column names.
@@ -77,12 +109,18 @@ def rename_columns(df: pd.DataFrame, return_dict=False):
     rename_dict = {}
 
     for col in df.columns:
-        new_col = col.lower()
+
+        if log_if_camel_case(col):
+            new_col = camel_to_snake(col)
+        else: 
+            new_col = col.lower()
+            
         for r in removables:
             if r in [' ', '-']:
                 new_col = new_col.replace(r, '_')
             else:
                 new_col = new_col.replace(r, '')
+
 
         if new_col in bad_names:
             new_col += '_'
@@ -660,26 +698,87 @@ def create_french_material(brute_force=False, verbose = False):
             print('Bonjour - je veux créer ton material de francais')
             exec(open(python_path).read())
 
-def call_model(messages):
-    
-    check_openai()
-    
-    response = openai.ChatCompletion.create(
-        engine = 'gpt-4',
-        messages  = messages,   
-        temperature=0,
-        max_tokens=500,
-        # model="gpt-35-turbo"
-    )
-    return response
-
-def check_openai():
-    
-    """ > Checking that the openai api is set to the correct values
+def get_client():
     """
+    Returns the AzureOpenAI client object.
+
+    If the client object does not exist, it creates a new one using the specified API key, Azure endpoint, and API version.
+
+    Returns:
+        AzureOpenAI: The AzureOpenAI client object.
+    """
+    if 'client' not in globals():
+        global client
+        client = AzureOpenAI(api_key = '5270d273115643e3a73dc871c9974d9c',
+                             azure_endpoint = 'https://digital-platform-architecture.openai.azure.com/',
+                             api_version = '2023-07-01-preview')
+    return client
+
+# now we want to write a function which reques
+#ts a completion from the chat endpoint
+def get_completion(messages, model='gpt-4'):
+    """
+    Generates a completion using the specified model and messages.
+
+    Parameters:
+        messages (list): A list of messages exchanged in the conversation.
+        model (str): The name of the model to use for completion. Defaults to 'gpt-4'.
+
+    Returns:
+        completion: The generated completion object.
+    """
+    client = get_client()
+    completion = client.chat.completions.create(model=model, messages=messages)
+    return completion
+
+# now we want to write a function which creates a message object, it should have an input var so that if it is said to "chat" or "greece" or "italy" then it returns "is greece bigger than italy" 
+def create_message(content = None, system = 'default'):
+    """
+    Creates a message for a chatbot conversation.
+
+    Parameters:
+    content (str): The content of the user's message.
+    role (str): The role for the system message to be displayed.
+
+    Returns:
+    list: A list of dictionaries representing the message, with each dictionary containing the role ('system' or 'user') and the content of the message.
+    """
+    if system != 'default':
+        system = get_system_message(role = system)
+    else:
+        system = system
     
-    if openai.api_type != 'Azure':
-        openai.api_type     = "azure"
-        openai.api_base     = "https://dcei-openai-ns-hack.openai.azure.com/"
-        openai.api_version  = "2023-12-01-preview" 
-        openai.api_key      = 'a9cf375f68df40e6b171774007225d7e'   
+    if content == 'chat' or content == 'greece' or content == 'italy':
+        message = [{'role':'system', 'content': system},
+                   {'role':'user', 'content': 'Is greece bigger than Italy?'}]
+    else:
+        message = [{'role':'system', 'content': system },
+                   {'role':'user', 'content': content}]
+        
+    return message
+
+def get_system_message(role = 'default'):
+    """
+    Returns a system message based on the role.
+
+    Parameters:
+        role (str): The role of the system message. Defaults to 'default'.
+
+    Returns:
+        str: The system message.
+    """
+    if role == 'default':
+        system_message = 'You are a super nice assistant'
+    elif role == 'assistant':
+        system_message = """You are a personal executive assistant, providing high-level administrative support
+                                You manage schedules, organize meetings, and handle communication
+                                You aid in preparing meeting agendas, gathering information, and distributing materials
+                                You collaborate to create engaging meeting titles
+                                You coordinate logistics and ensure resources are in place
+                                You take meeting minutes and follow up on action items
+                                You prioritize tasks, handle confidential information, and demonstrate strong communication and organizational skills
+                                Your proactive and detail-oriented approach supports the executive in their day-to-day responsibilities
+                                
+                            You will be working for Jens Bay, and will in all instances be writing in the first person, write it as if you are Jens Bay.
+                        """
+    return system_message
