@@ -27,10 +27,11 @@ from tqdm import tqdm
 import pandas as pd
 import time as time
 import regex as re
+import numpy as np
 import pyperclip
 import pathlib
 import shutil
-import numpy as np
+import openai
 import json
 import ast
 import os
@@ -40,8 +41,8 @@ def copy_extras():
     destination_path = "./util_extras.py"
     shutil.copyfile(source_path, destination_path)
 
-## these are typical use, such as importing and regular cleaning
 ##
+## these are typical use, such as importing and regular cleaning
 ##
 
 def import_dataframe(path):
@@ -207,7 +208,7 @@ def pareto_distribution(value_counts):
 
 def assert_runtime():
     # Specify the path of the directory that contains the files you are interested in
-    repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\0_First Rotation\Admin_tasks\util repo'
+    repo_path = r'C:\Users\jbay\OneDrive - GN Store Nord\Workspace\00_First Rotation\Admin_tasks\util repo'
 
     # Loop through each file in the directory
     for filename in os.listdir(repo_path):
@@ -659,3 +660,26 @@ def create_french_material(brute_force=False, verbose = False):
             print('Bonjour - je veux créer ton material de francais')
             exec(open(python_path).read())
 
+def call_model(messages):
+    
+    check_openai()
+    
+    response = openai.ChatCompletion.create(
+        engine = 'gpt-4',
+        messages  = messages,   
+        temperature=0,
+        max_tokens=500,
+        # model="gpt-35-turbo"
+    )
+    return response
+
+def check_openai():
+    
+    """ > Checking that the openai api is set to the correct values
+    """
+    
+    if openai.api_type != 'Azure':
+        openai.api_type     = "azure"
+        openai.api_base     = "https://dcei-openai-ns-hack.openai.azure.com/"
+        openai.api_version  = "2023-12-01-preview" 
+        openai.api_key      = 'a9cf375f68df40e6b171774007225d7e'   
