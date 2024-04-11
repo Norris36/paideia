@@ -72,8 +72,8 @@ def log_if_camel_case(s):
     None
     """
     # Define a regular expression pattern for camel case
-    pattern = re.compile(r'^[a-z]+((\d)|([A-Z0-9][a-z0-9]+))*([A-Z])?$')
-
+    pattern = re.compile(r'^(?:[a-z]+(?:[A-Z][a-z0-9]*)*|[A-Z][a-z0-9]*(?:[A-Z][a-z0-9]*)*)$')
+    
     # Check if the string matches the pattern
     if pattern.match(s):
         return True
@@ -91,7 +91,7 @@ def camel_to_snake(s):
     str: The converted snake case string.
     """
     # Insert a '_' before each uppercase letter and then convert the whole string to lowercase
-    return re.sub(r'(?<=[a-z])([A-Z])', r'_\1', s).lower()
+    return re.sub(r'((?<=[a-z])[A-Z]|(?<!^)[A-Z](?=[a-z]))', r'_\1', s).lower()
 
 def rename_columns(df: pd.DataFrame, return_dict=False):
     """
@@ -698,21 +698,52 @@ def create_french_material(brute_force=False, verbose = False):
             print('Bonjour - je veux créer ton material de francais')
             exec(open(python_path).read())
 
+def read_keys_file():
+    """
+    Reads the keys.txt file and extracts the API key, Azure endpoint, and API version.
+    It only reads the file if the variables are not already set.
+    """
+    global api_key, azure_endpoint, api_version
+
+    # Only read the file if the variables have not been set yet
+    if api_key is None or azure_endpoint is None or api_version is None:
+        # Construct the file path to the keys.txt file
+        file_path = os.path.join(get_home(), "Desktop", "keys.txt")
+
+        # Open the file in read mode
+        with open(file_path, 'r') as file:
+            # Read the content of the file
+            content = file.read()
+
+        # Split the content into lines
+        lines = content.split(',')
+
+        # Extract the API key from the first line
+        api_key = lines[0].split('=')[1].strip().replace("'", '')
+
+        # Extract the Azure endpoint from the second line
+        azure_endpoint = lines[1].split('=')[1].strip().replace("'", '')
+
+        # Extract the API version from the third line
+        api_version = lines[2].split('=')[1].strip().replace("'", '')
+
 def get_client():
     """
     Returns the AzureOpenAI client object.
-
     If the client object does not exist, it creates a new one using the specified API key, Azure endpoint, and API version.
-
-    Returns:
-        AzureOpenAI: The AzureOpenAI client object.
     """
+    global client
+
+    # Ensure the keys are read before creating the client
+    read_keys_file()
+
+    # Create the client if it doesn't exist
     if 'client' not in globals():
-        global client
-        client = AzureOpenAI(api_key = '5270d273115643e3a73dc871c9974d9c',
-                             azure_endpoint = 'https://digital-platform-architecture.openai.azure.com/',
-                             api_version = '2023-07-01-preview')
+        client = AzureOpenAI(api_key=api_key,
+                             azure_endpoint=azure_endpoint,
+                             api_version=api_version)
     return client
+
 
 # now we want to write a function which reques
 #ts a completion from the chat endpoint
