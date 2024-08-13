@@ -19,6 +19,10 @@ def check_pip_installation(modules):
 modules = ["pandas", "datetime", "regex", "pathlib", "pyperclip", "shutil",  "tqdm", "matplotlib.pyplot", "numpy"]
 # check_pip_installation(modules)
 
+from openpyxl import Workbook
+from openpyxl.worksheet.table import Table, TableStyleInfo
+from openpyxl.utils.dataframe import dataframe_to_rows
+
 from datetime import datetime
 import matplotlib.pyplot as plt
 from random import randint
@@ -207,7 +211,6 @@ def calculate_column_overlap(df_a, df_b):
 
     return data_overlap_long
 
-
 def pareto_distribution(value_counts):
     
     index = value_counts.index
@@ -275,7 +278,6 @@ def assert_runtime():
                 pass
     return True
 
-
 def write_new_file(path,lines):
     f = open(path, 'w')
     with open(path, "a") as file:
@@ -324,24 +326,47 @@ def get_root():
 
 def hygin(path, query):
     """
-    It takes a path and a query as input and returns a list of all the paths which matches the query
-    
-    :param path: the path to the directory you want to search
-    :param query: the string you want to search for
-    :return: A list of all the paths which matches the query
+    Searches for files that match the given query within the specified path.
+
+    Parameters:
+    path (str): The path to start the search from.
+    query (str): The file name or pattern to search for.
+
+    Returns:
+    list: A list of files that match the query.
     """
-    my_list = []
-    for root, dirs, files in os.walk(path):
-        for name in files:
-                if query in name:
-                    path = os.path.join(root,name)
-                    my_list.append(path)
-    
-    
-    if len(my_list) == 1:
-        return my_list[0]
-    else:   
-        return my_list
+    # Check if the provided path is a directory, raise an error if not
+    if not os.path.isdir(path):
+        raise ValueError(f"{path} is not a directory")
+
+    # List all directories and files in the provided path and add the path itself to the list
+    top_paths = os.listdir(path) + [path]
+    # Initialize an empty list to store paths of files that match the query
+    matching_files = []
+
+    # Initialize a progress bar to track and display the search progress
+    with tqdm(total=len(top_paths), desc="Initializing search") as pbar:
+        # Iterate over each directory in the list of directories and files
+        for top_dir in top_paths:
+            # Update the progress bar description with the current directory being searched
+            pbar.set_description(f"Searching in {top_dir}")
+            # Construct the full path of the current directory
+            full_top_path = os.path.join(path, top_dir)
+            # Check if the current path is a directory
+            if os.path.isdir(full_top_path):
+                # Use os.walk to generate the file names in the directory tree by walking either top-down or bottom-up
+                for root, dirs, files in os.walk(full_top_path):
+                    # Iterate over each file in the current directory
+                    for f in files:
+                        # Check if the query is a substring of the file name
+                        if query in f:
+                            # If the file matches the query, append its full path to the list of matching files
+                            matching_files.append(os.path.join(root, f))
+            # Update the progress bar after each directory is searched
+            pbar.update(1)
+            
+    # Return the list of matching files
+    return matching_files
 
 def get_paths(path, query):
     return hygin(path, query)
@@ -704,7 +729,20 @@ def read_keys_file():
     It only reads the file if the variables are not already set.
     """
     global api_key, azure_endpoint, api_version
+    try:
+        api_key
+    except NameError:
+        api_key = None
 
+    try:
+        azure_endpoint
+    except NameError:
+        azure_endpoint = None
+
+    try:
+        api_version
+    except NameError:
+        api_version = None
     # Only read the file if the variables have not been set yet
     if api_key is None or azure_endpoint is None or api_version is None:
         # Construct the file path to the keys.txt file
@@ -813,3 +851,151 @@ def get_system_message(role = 'default'):
                             You will be working for Jens Bay, and will in all instances be writing in the first person, write it as if you are Jens Bay.
                         """
     return system_message
+
+def df_to_excel_table(df, file_name):
+    """
+    Converts a DataFrame into an Excel table and saves it to an Excel file.
+    
+    Args:
+    df (DataFrame): The pandas DataFrame to save to Excel.
+    file_name (str): The base name of the file to save the Excel document.
+    
+    Returns:
+    None
+    """
+    df = df.applymap(lambda x: ', '.join(map(str, x)) if isinstance(x, list) else x)
+
+    wb = Workbook()
+    ws = wb.active
+
+    # Assuming humanise_df is a function you've defined to format your DataFrame
+    # If not defined, it should be or remove this transformation.
+    for r in dataframe_to_rows(df, index=False, header=True):
+        ws.append(r)
+
+    # Creating a table at the appropriate dimensions
+    table_ref = f"A1:{ws.dimensions.split(':')[1]}"
+    tab = Table(displayName="Table1", ref=table_ref)
+    style = TableStyleInfo(name="TableStyleMedium9", showFirstColumn=False,
+                           showLastColumn=False, showRowStripes=True, showColumnStripes=True)
+    tab.tableStyleInfo = style
+    ws.add_table(tab)
+
+    # Saving the workbook
+    wb.save(f"{file_name}.xlsx")
+    print(f'Successfully saved DataFrame as a table in {file_name}.xlsx')
+
+def humanise_df(local_df):
+    # This function takes a DataFrame and returns a DataFrame with humanised column names
+    # So there is a lack of underscores and everything is titel cased
+    for col in local_df.columns.tolist():
+        new_col = transform_column_name(col=col)
+        
+        local_df.rename(columns = {col:new_col}, inplace = True)
+    return local_df
+
+def transform_column_name(col):
+    """
+    Transforms a column name by replacing underscores with spaces and modifying each word.
+    Words with 2 or fewer characters are converted to uppercase, while longer words are converted to title case.
+
+    Parameters:
+    col (str): The original column name.
+
+    Returns:
+    str: The transformed column name.
+    """
+    # Replace underscores with spaces
+    new_col = col.replace('_', ' ')
+    
+    # Split the column name into words and transform each word
+    for word in new_col.split(' '):
+        if len(word) <= 2:
+            new_word = word.upper()
+        else:
+            new_word = word.title()
+        
+        # Print the original and transformed word (for debugging purposes)
+        print(word, new_word)
+        
+        # Replace the original word with the transformed word in the column name
+        new_col = new_col.replace(word, new_word)
+    
+    return new_col
+
+def sort_files():
+    """Sort the files in the current directory based on their file extensions.
+
+    Returns:
+        _type_: _description_
+    """
+    try:
+        # Get the current working directory
+        parent_dir = get_current_path()
+                # Get the parent directory of the current directory
+        parent_of_parent = os.path.dirname(parent_dir)
+
+        # Get the second-to-last folder name
+        second_to_last_folder = os.path.basename(parent_of_parent)
+        # Validate the directory to ensure it's a subfolder of the specified folders
+        valid_folders = ['Workspace', '00_First Rotation', '01_Second Rotation']
+        error_message = f"The folder is not a subfolder to either 'workspace', '00_First Rotation', or '01_Second Rotation' {parent_dir}"
+        assert second_to_last_folder in valid_folders, error_message
+
+        # List all directories and files in the parent directory
+        dirs = os.listdir(parent_dir)
+
+        # Create an empty DataFrame
+        df = pd.DataFrame()
+
+        # Add a column 'dirs' to the DataFrame containing the list of directories and files
+        df['dirs'] = dirs
+
+        # Add a column 'full_path' to the DataFrame, which contains the full path of each directory or file
+        df['full_path'] = df['dirs'].apply(lambda x: os.path.join(parent_dir, x))
+
+        # Add a column 'file_ext' to the DataFrame, which extracts the file extension from each full path
+        df['file_ext'] = df['full_path'].apply(lambda x: os.path.splitext(x)[1])
+
+        # Define a dictionary to categorize files based on their extensions
+        sorting = {
+            'csv_files': ['.csv', '.xlsx', '.xml', '.json', '.xls', '.tsv'],
+            'image_files': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'],
+            'text_files': ['.txt', '.doc', '.docx', '.pdf'],
+        }
+
+        # Define a function to get the category key from the sorting dictionary based on the file extension
+        def get_key(my_dict, val):
+            for key, value in my_dict.items():
+                if val in value:
+                    return key
+            return "key doesn't exist"
+
+
+        # Map the file extensions to their respective categories using the get_key function
+        df['file_type'] = df['file_ext'].apply(lambda x: get_key(sorting, x))
+
+        # Ensure that there is a directory for each file type category in the sorting dictionary only if relevant files exist
+        for key in sorting.keys():
+            sorting_path = os.path.join(parent_dir, key)
+            # Check if there are any entries in the DataFrame for this file type
+            if df['file_type'].str.contains(key).any():
+                if not os.path.exists(sorting_path):
+                    os.mkdir(sorting_path)
+                    
+        
+        # Iterate over each row in the DataFrame
+        for index, row in df.iterrows():
+            if row['file_type'] != "key doesn't exist":
+                # Construct a new path for the file based on its type
+                new_path = os.path.join(parent_dir, row['file_type'], row['dirs'])
+                try:
+                    # Move the file to the new path if it does not already exist
+                    if not os.path.exists(new_path):
+                        os.rename(row['full_path'], new_path)
+                    else:
+                        print(f"File {new_path} already exists. Skipping.")
+                except Exception as e:
+                    print(f"Error occurred while renaming file {row['full_path']} to {new_path}. Error: {e}")
+    except AssertionError as error:
+        print(error)
